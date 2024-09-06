@@ -1,0 +1,19 @@
+---
+pagetitle: Talks | DEBIAS
+title: Talks
+subtitle: Communicating progress on the use of smart data from digital sources to capture human mobility and migration
+search: false
+repo-actions: false
+listing:
+  contents: 
+  - posts
+  - "!index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 30
+  feed: true
+---
+We will be sharing our talks documenting the progress and outcomes on DEBIAS. 

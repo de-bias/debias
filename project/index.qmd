@@ -1,0 +1,46 @@
+---
+pagetitle: "Project | DEBIAS"
+title: "Project"
+subtitle: Breaking down the challenge of using smart data from digital sources that DEBIAS aims to address.
+search: true
+---
+
+## Project overview
+
+DEBIAS is one of [seven projects](https://www.sdruk.ukri.org/2024/05/21/funding-new-smart-data-research/) funded by the [Smart Data Research UK programme](https://www.sdruk.ukri.org/about-smart-data-research/) through their £1.8 million research investment. Smart Data Research UK is the national programme for smart data research. Its mission is *"to unlock the power of data to improve lives"*.
+
+### Project aim
+
+DEBIAS aims to develop a generalisable framework to quantify and adjust existing biases in human mobility derived from smart data collected through digital platforms.
+
+**Why focusing on human mobility?**
+
+Human mobility is a central part of our society and economy. Understanding how humans move is key to supporting appropriate policy responses to address population issues, carbon emission, urban planning, service delivery, public health, disaster management and promote productivity.
+
+*Smart data* from digital platforms, such as location data collected from smartphone apps offer a unique opportunity to analyse population movements at high spatial and temporal resolution in real-time at scale.
+
+**What is the challenge that we seek to address?**
+
+*Biases*. Biases represent a key challenge for the use of mobility data derived from digital sources. Biases limit the capacity of smart data to provide full representation of local populations. Digital platforms generally collect data on a certain segment of the population (e.g. active Facebook users). As a result, the capacity of smart data have been limited to offer rough signals and hence they have drawn continued skepticism about their potential.
+
+**Expected outcomes**
+
+DEBIAS will develop a framework to adjust for biases in human mobility data derived from digital platforms, and produce an open-source software and training materials enabling the implementation of our approach.
+
+### Research team
+
+::: {layout-ncol="2"}
+![**Francisco Rowe** is Professor is Population Data Science and Lead of the Geographic Data Science Lab at the University of Liverpool. His areas of expertise are: human mobility and migration, spatial inequalities, and geographic data science. Francisco is interested in the use of data from digital sources to understand population movements in real time at high spatial and temporal resolutions and how the resulting insights can be used in decision making processes. Francisco is part of the United Nations (UN) Committee of Experts on Big Data and Data Science for Official Statistics. He works closely with the UN International Organization for Migration, particularly the Global Data Analysis Centre (GMDAC) and the Displacement Tracking Matrix (DTM) unit, and UN the Economic Commission for Latin America (CEPAL). Francisco is the current managing editor of REGION , the journal of the European Regional Science Association (2022-present) and editorial board member of the journals Spatial Economic Analysis (2023-present) and Population, Space and Place (2023-present), and previously was part of the editorial team at the Journal of the Royal Statistical Society Series A (2021-2023). **Contact**: *f.rowe-gonzalez@liverpool.ac.uk* ](../images/francisco-photo.png)
+
+![**Carmen Cabrera-Arnau** is a Lecturer in Geographic Data Science (Assistant Professor) at the Geographic Data Science Lab, within the University of Liverpool’s Department of Geography and Planning. Her areas of expertise are geographic data science, human mobility, network analysis and mathematical modelling. Carmen’s research focuses on developing quantitative frameworks to model and predict human mobility patterns across spatiotemporal scales and population groups, ranging from intraurban commutes to migratory movements. She is particularly interested in establishing methodologies to facilitate the efficient and reliable use of new forms of digital trace data in the study of human movement.  **Contact**: *c.cabrera-arnau@liverpool.ac.uk*](../images/carmen-photo.png)
+:::
+
+### Advisory board
+
+::: {layout-ncol="3"}
+![**Laura McGorman** is the Director of Data for Good at Meta, she oversees a global program leveraging Meta's big data, data science expertise, and compute power to deliver innovative datasets to governments, universities and nonprofits working to expand economic opportunity, improve global health and support small businesses. Prior to joining Meta, she served as a political appointee in the Obama Administration leading an open data team at the US Department of Commerce focused on improving access to federal data and modernizing the US Government technology stack. Laura also worked at Opower, where she led a process analytics team, the World Bank, where she led field research and analysis on female entrepreneurship, and USAID, where she worked on malaria control programs. She also serves on the Board of Advisors of CapoeiraDC, a local nonprofit focused on youth and community development through Afro-Brazilian cultural arts.](../images/laura.png)
+
+![**Damien Jusselme** leads the work of the “Data and Impacts Analytics” Units at IOM’s Global Migration Data Analysis Centre (GMDAC) in Berlin. He also leads the analysis work of big data sources shedding light on various displacement and migration contexts and supports forecasting projects. Prior to joining GMDAC, Damien has served as IOM’s Head of the Regional Data Hub. Since 2011, he has held multiple positions within IOM working on the Organization’s migration and displacement data in Haiti, Mali, the Central African Republic, and West and Central Africa Regional Office, and on Monitoring and Evaluation in Yemen. Damien also worked with Non-Governmental Organizations on monitoring and evaluation in Haiti and displacement data in Geneva supporting the Syria response, migrant profiles in Greece, displacement profiling in Somalia or durable solution exercises in Ukraine and Georgia.](../images/damien.png)
+
+![**Esteban Moro** is a Professor at the Physics Department and the Network Science Institute, Northeastern University. His work lies at the intersection of big data, network science, and computational social science, with a focus on human dynamics, collective intelligence, social networks, and urban mobility in areas such as viral marketing, natural disaster management, and economic segregation in cities. Esteban leads the Social Urban Networks (SUN) group that focuses on developing computational social science tools to address urban challenges, from climate change and inequality to health and economic development. Esteban has received numerous awards for his research, including the “Shared University Award” from IBM in 2007 for his research on modeling viral marketing in social networks, and the “Excellence in Research” Awards in 2013 and 2015 from UC3M. Esteban’s work has appeared in major journals such as Nature Communications, Human Behavior, PNAS, and Science Advances, and is regularly covered by media outlets such as The Atlantic, The Washington Post, The Wall Street Journal, and El País (Spain).](../images/esteban.png)
+:::

@@ -1,0 +1,11 @@
+---
+title: "Keynote at the Annual Conference on Complex Systems"
+author: "Carmen Cabrera-Arnau"
+date: "2024-09-02"
+categories: [talks]
+image: "images/logo-white.jpeg"
+---
+
+To be updated
+
+![](images/logo-white.jpeg){fig-align="centre}

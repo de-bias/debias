@@ -1,0 +1,19 @@
+---
+pagetitle: Publications | DEBIAS
+title: Publications
+subtitle: Disseminating written work on DEBIAS
+search: false
+repo-actions: false
+listing:
+  contents: 
+  - posts
+  - "!index.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 30
+  feed: true
+---
+We will be sharing our written work on DEBIAS. 

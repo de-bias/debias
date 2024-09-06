@@ -1,0 +1,11 @@
+---
+title: "Logo for DEBIAS"
+author: "Francisco Rowe"
+date: "2024-09-06"
+categories: [updates]
+image: "images/logo-white.jpeg"
+---
+
+We are happy to unveil the logo for DEBIAS. Let us unpack what the logo represents. We have chosen an iceberg as a logo as it provides an effective representation of what we can see from smart data from digital sources in their raw form, and the parts that we do not see given their limited capacity to offer a representation of the full population. DEBIAS seeks to mitigate biases present in smart data from digital sources and move us closer to get a population-level representation. 
+
+![](images/logo-white.jpeg){fig-align="centre}

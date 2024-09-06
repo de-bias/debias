@@ -1,0 +1,19 @@
+---
+pagetitle: Updates | DEBIAS
+title: Updates
+subtitle: Find out about the latest news on DEBIAS
+search: false
+repo-actions: false
+listing:
+  contents: 
+  - posts
+  - "!index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 30
+  feed: true
+---
+We will be posting progress and outcomes on DEBIAS, including news about project milestones, talks, papers, code and experimental work that may not make it into the final project products. 

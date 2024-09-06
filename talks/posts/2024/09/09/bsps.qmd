@@ -1,0 +1,11 @@
+---
+title: "Presentations at the British Society for Population Studies conference"
+author: "Francisco Rowe"
+date: "2024-09-09"
+categories: [talks]
+image: "images/logo-white.jpeg"
+---
+
+To be updated.
+
+![](images/logo-white.jpeg){fig-align="centre}

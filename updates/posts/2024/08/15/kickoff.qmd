@@ -1,0 +1,11 @@
+---
+title: "Kicking off"
+author: "Francisco Rowe"
+date: "2024-08-15"
+categories: [updates]
+image: images/launch.jpg
+---
+
+This is the first post going out form the DEBIAS project. We will use this blog to keep track of progress on the project and to announce milestones of the project along the way. If you are interested in human mobility, smart data from digital sources (including mobile phone data), geographic data science and AI, keep an eye on the blog and feel free to get in touch with [Francisco](mailto:f.rowe-gonzalez%40liverpool.ac.uk) and / or [Carmen](mailto:c.cabrera-arnau%40liverpool.ac.uk)!
+
+![](images/launch.jpg)
