@@ -3,9 +3,9 @@ title: "Keynote at the Annual Conference on Complex Systems"
 author: "Carmen Cabrera-Arnau"
 date: "2024-09-02"
 categories: [talks]
-image: "images/logo-white.jpeg"
+image: "images/talk-ccs.jpeg"
 ---
 
-To be updated
+Digital trace data, such as location data collected from smartphone apps, offers a unique opportunity to analyse population movements at high spatiotemporal granularity, with extensive coverage in near real-time. Yet, a key challenge for its use in human mobility research and evidence-based policymaking is the presence of biases. These issues were addressed in the keynote talk titled "Leveraging digital trace data for human mobility research" and delivered at UrbanSys, a satellite session within the Conference on Complex Systems, taking place in Exeter (UK) in early September 2024.  
 
-![](images/logo-white.jpeg){fig-align="centre}
+![](images/talk-ccs.jpeg){width=50% fig-align="centre"}

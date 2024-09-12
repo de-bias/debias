@@ -6,20 +6,20 @@
       version="2.0">
 <channel>
 <title>DEBIAS</title>
-<link>https://realworlddatascience.net/talks/</link>
-<atom:link href="https://realworlddatascience.net/talks/index.xml" rel="self" type="application/rss+xml"/>
+<link>de-bias.github.io/debias/talks/</link>
+<atom:link href="de-bias.github.io/debias/talks/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <image>
-<url>https://realworlddatascience.net/images/logo-white.jpeg</url>
+<url>de-bias.github.io/debias/images/logo-white.jpeg</url>
 <title>DEBIAS</title>
-<link>https://realworlddatascience.net/talks/</link>
+<link>de-bias.github.io/debias/talks/</link>
 </image>
-<generator>quarto-1.5.57</generator>
+<generator>quarto-1.5.55</generator>
 <lastBuildDate>Sun, 08 Sep 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Presentations at the British Society for Population Studies conference</title>
   <dc:creator>Francisco Rowe</dc:creator>
-  <link>https://realworlddatascience.net/talks/posts/2024/09/09/bsps.html</link>
+  <link>de-bias.github.io/debias/talks/posts/2024/09/09/bsps.html</link>
   <description><![CDATA[ 
 
 
@@ -29,7 +29,7 @@
 <p>To be updated.</p>
 <div class="quarto-figure quarto-figure-&quot;centre">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/talks/posts/2024/09/09/images/logo-white.jpeg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
+<p><img src="de-bias.github.io/debias/talks/posts/2024/09/09/images/logo-white.jpeg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
 </figure>
 </div>
 
@@ -37,24 +37,24 @@
 
  ]]></description>
   <category>talks</category>
-  <guid>https://realworlddatascience.net/talks/posts/2024/09/09/bsps.html</guid>
+  <guid>de-bias.github.io/debias/talks/posts/2024/09/09/bsps.html</guid>
   <pubDate>Sun, 08 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/talks/posts/2024/09/09/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="de-bias.github.io/debias/talks/posts/2024/09/09/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Keynote at the Annual Conference on Complex Systems</title>
   <dc:creator>Carmen Cabrera-Arnau</dc:creator>
-  <link>https://realworlddatascience.net/talks/posts/2024/09/02/exeter.html</link>
+  <link>de-bias.github.io/debias/talks/posts/2024/09/02/exeter.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>To be updated</p>
-<div class="quarto-figure quarto-figure-&quot;centre">
+<p>Digital trace data, such as location data collected from smartphone apps, offers a unique opportunity to analyse population movements at high spatiotemporal granularity, with extensive coverage in near real-time. Yet, a key challenge for its use in human mobility research and evidence-based policymaking is the presence of biases. These issues were addressed in the keynote talk titled “Leveraging digital trace data for human mobility research” and delivered at UrbanSys, a satellite session within the Conference on Complex Systems, taking place in Exeter (UK) in early September 2024.</p>
+<div class="quarto-figure quarto-figure-centre">
 <figure class="figure">
-<p><img src="https://realworlddatascience.net/talks/posts/2024/09/02/images/logo-white.jpeg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
+<p><img src="de-bias.github.io/debias/talks/posts/2024/09/02/images/talk-ccs.jpeg" class="img-fluid quarto-figure quarto-figure-centre figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 
@@ -62,9 +62,9 @@
 
  ]]></description>
   <category>talks</category>
-  <guid>https://realworlddatascience.net/talks/posts/2024/09/02/exeter.html</guid>
+  <guid>de-bias.github.io/debias/talks/posts/2024/09/02/exeter.html</guid>
   <pubDate>Sun, 01 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://realworlddatascience.net/talks/posts/2024/09/02/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="de-bias.github.io/debias/talks/posts/2024/09/02/images/talk-ccs.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

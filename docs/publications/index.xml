@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>DEBIAS</title>
-<link>https://realworlddatascience.net/publications/</link>
-<atom:link href="https://realworlddatascience.net/publications/index.xml" rel="self" type="application/rss+xml"/>
+<link>de-bias.github.io/debias/publications/</link>
+<atom:link href="de-bias.github.io/debias/publications/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <image>
-<url>https://realworlddatascience.net/images/logo-white.jpeg</url>
+<url>de-bias.github.io/debias/images/logo-white.jpeg</url>
 <title>DEBIAS</title>
-<link>https://realworlddatascience.net/publications/</link>
+<link>de-bias.github.io/debias/publications/</link>
 </image>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Thu, 12 Sep 2024 09:32:33 GMT</lastBuildDate>
+<generator>quarto-1.5.55</generator>
+<lastBuildDate>Thu, 12 Sep 2024 21:27:45 GMT</lastBuildDate>
 </channel>
 </rss>
