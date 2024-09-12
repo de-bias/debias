@@ -7,7 +7,7 @@ repo-actions: false
 listing:
   contents: 
   - posts
-  - "!index.qmd"
+ # - "!index.qmd"
   sort: "date desc"
   type: grid
   categories: true

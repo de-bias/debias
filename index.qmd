@@ -132,7 +132,6 @@ toc: false
 ---
 ::: {.content-container}
 ::: {.top-story .purple-background}
-<a href="/ideas/datasciencebites/posts/2024/6/25/nowcasting-3step.qmd">
 
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .top-story-text}
@@ -140,7 +139,7 @@ toc: false
 DEveloping a framework to measure and correct BIASes in human mobility data extracted from digital footprints.   
 :::
 ::: {.g-col-12 .g-col-lg-8 .top-story-img}
-![](images/logo-white.jpeg)
+![](images/logo-white-bgn.png){width=100%}
 :::
 :::
 

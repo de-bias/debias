@@ -8,8 +8,8 @@ website:
   # twitter-card:
   #   site: "@fcorowe"
   open-graph: true
-  # site-url: https://realworlddatascience.net/
-  # repo-url: https://github.com/realworlddatascience/realworlddatascience.github.io
+  site-url: https://realworlddatascience.net/
+  repo-url: https://github.com/de-bias/debias
   repo-actions: [edit, issue]
   # If you are forking our repo to develop content -- whether for Real World Data Science
   # or your own purposes -- please disable our Google Analytics tag during development.
@@ -91,7 +91,7 @@ website:
   page-footer:
     background: "#000000"
     left: |
-      [Copyright &copy; 2024 Francisco Rowe, Carmen Cabrera-Arnau](/LICENCE.md)
+      [Copyright &copy; 2024 Francisco Rowe, Carmen Cabrera-Arnau]
     center:
       - href: https://github.com/de-bias
         icon: github

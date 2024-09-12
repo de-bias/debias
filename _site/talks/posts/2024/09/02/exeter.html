@@ -75,7 +75,7 @@ And you can see the original code here: https://github.com/quarto-dev/quarto-cli
 
 <meta property="og:title" content="Keynote at the Annual Conference on Complex Systems – DEBIAS">
 <meta property="og:description" content="">
-<meta property="og:image" content="images/logo-white.jpeg">
+<meta property="og:image" content="https://realworlddatascience.net/talks/posts/2024/09/02/images/logo-white.jpeg">
 <meta property="og:site_name" content="DEBIAS">
 </head><body class="nav-fixed"><div id="progress-bar" style="width: 0%; height:4px; background-color: #939bc9;; position: fixed; top: 0px; z-index: 2000;"></div>
 
@@ -290,7 +290,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/realworlddatascience\.net\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -622,7 +622,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="../../../../../LICENCE.html">Copyright © 2024 Francisco Rowe, Carmen Cabrera-Arnau</a></p>
+<p>[Copyright © 2024 Francisco Rowe, Carmen Cabrera-Arnau]</p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
@@ -633,7 +633,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
 </ul>
-    </div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/de-bias/debias/edit/main/talks/posts/2024/09/02/exeter.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/de-bias/debias/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
