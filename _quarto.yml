@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "DEBIAS"
@@ -8,7 +9,7 @@ website:
   # twitter-card:
   #   site: "@fcorowe"
   open-graph: true
-  site-url: https://realworlddatascience.net/
+  site-url: de-bias.github.io/debias/
   repo-url: https://github.com/de-bias/debias
   repo-actions: [edit, issue]
   # If you are forking our repo to develop content -- whether for Real World Data Science
@@ -31,58 +32,7 @@ website:
       - updates/index.qmd
       - talks/index.qmd
       - publications/index.qmd
-      # - case-studies/index.qmd
-      # - ideas/index.qmd
-      # - careers/index.qmd
-      # - viewpoints/index.qmd
-      # - text: "About RWDS"
-      #   menu:
-      #   - text: "Who we are"
-      #     href: about-rwds.qmd
-      #   - text: "How to contribute"
-      #     href: contributor-docs/call-for-contributions.qmd
-      #   - text: "Code of conduct"
-      #     href: CODE_OF_CONDUCT.md
-      #   - text: "Contact us"
-      #     href: contact.qmd
-  # sidebar:
-  #   - title: "About us"
-  #     contents:
-  #       - about-rwds.qmd
-  #       - viewpoints/editors-blog/posts/2022/10/18/meet-the-team.qmd
-  #       - rwds-partners.qmd
-  #       - contact.qmd
-  #       - ts-and-cs.qmd
-  #       - CODE_OF_CONDUCT.md
-  #       - LICENCE.md
-  #   - title: "Call for contributions"
-  #     contents:
-  #       - contributor-docs/call-for-contributions.qmd
-  #       - contributor-docs/case-studies.qmd
-  #       - contributor-docs/explainers.qmd
-  #       - contributor-docs/exercises.qmd
-  #       - contributor-docs/datasets.qmd
-  #       - contributor-docs/training-guides.qmd
-  #       - contributor-docs/recommender.qmd
-  #       - contributor-docs/datasciencebites.qmd
-  #       - contributor-docs/contributor-guidelines.qmd
-  #       - contributor-docs/style-guide.qmd
-  #   - title: "Careers"
-  #     contents:
-  #       - careers/index.qmd
-  #       - careers/career-profiles/index.qmd
-  #   - title: "Ideas"
-  #     contents:
-  #       - ideas/index.qmd
-  #       - ideas/tutorials/index.qmd
-  #       - ideas/datasciencebites/index.qmd
-  #   - title: "Viewpoints"
-  #     contents:
-  #       - viewpoints/index.qmd
-  #       - viewpoints/editors-blog/index.qmd
-  #       - viewpoints/interviews/index.qmd
-  #       - href: viewpoints/newsletter/index.qmd
-  #         text: Newsletter
+
 
   page-navigation: true
 
@@ -96,21 +46,21 @@ website:
       - href: https://github.com/de-bias
         icon: github
         aria-label: GitHub
-      # - href: https://zenodo.org/communities/realworlddatascience
+      # - href:
       #   text: "{{< ai zenodo size=2xl >}}"
-      #   aria-label: RWDS Zenodo community
-      # - href: https://www.linkedin.com/showcase/rss-real-world-data-science
+      #   aria-label:
+      # - href:
       #   icon: linkedin
       #   aria-label: LinkedIn
-      # - href: https://twitter.com/rwdatasci
+      # - href:
       #   icon: twitter-x
       #   aria-label: Twitter/X
-      # - href: https://fosstodon.org/@rwdatasci
+      # - href:
       #   icon: mastodon
       #   aria-label: Mastodon
       # - href: feeds.html
       #   icon: rss
-      #   aria-label: RWDS rss
+      #   aria-label:
 
     # right: |
     #   [Terms & Conditions](/ts-and-cs.qmd)
