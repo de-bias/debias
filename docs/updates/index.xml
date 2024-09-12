@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>DEBIAS</title>
+<link>https://realworlddatascience.net/updates/</link>
+<atom:link href="https://realworlddatascience.net/updates/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://realworlddatascience.net/images/logo-white.jpeg</url>
+<title>DEBIAS</title>
+<link>https://realworlddatascience.net/updates/</link>
+</image>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Thu, 05 Sep 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Logo for DEBIAS</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>https://realworlddatascience.net/updates/posts/2024/09/09/logo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are happy to unveil the logo for DEBIAS. Let us unpack what the logo represents. We have chosen an iceberg as a logo as it provides an effective representation of what we can see from smart data from digital sources in their raw form, and the parts that we do not see given their limited capacity to offer a representation of the full population. DEBIAS seeks to mitigate biases present in smart data from digital sources and move us closer to get a population-level representation.</p>
+<div class="quarto-figure quarto-figure-&quot;centre">
+<figure class="figure">
+<p><img src="https://realworlddatascience.net/updates/posts/2024/09/09/images/logo-white.jpeg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>https://realworlddatascience.net/updates/posts/2024/09/09/logo.html</guid>
+  <pubDate>Thu, 05 Sep 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://realworlddatascience.net/updates/posts/2024/09/09/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Kicking off</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>https://realworlddatascience.net/updates/posts/2024/08/15/kickoff.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the first post going out form the DEBIAS project. We will use this blog to keep track of progress on the project and to announce milestones of the project along the way. If you are interested in human mobility, smart data from digital sources (including mobile phone data), geographic data science and AI, keep an eye on the blog and feel free to get in touch with <a href="mailto:f.rowe-gonzalez%40liverpool.ac.uk">Francisco</a> and / or <a href="mailto:c.cabrera-arnau%40liverpool.ac.uk">Carmen</a>!</p>
+<p><img src="https://realworlddatascience.net/updates/posts/2024/08/15/images/launch.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>https://realworlddatascience.net/updates/posts/2024/08/15/kickoff.html</guid>
+  <pubDate>Wed, 14 Aug 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://realworlddatascience.net/updates/posts/2024/08/15/images/launch.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

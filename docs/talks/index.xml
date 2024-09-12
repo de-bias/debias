@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>DEBIAS</title>
+<link>https://realworlddatascience.net/talks/</link>
+<atom:link href="https://realworlddatascience.net/talks/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://realworlddatascience.net/images/logo-white.jpeg</url>
+<title>DEBIAS</title>
+<link>https://realworlddatascience.net/talks/</link>
+</image>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sun, 08 Sep 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Presentations at the British Society for Population Studies conference</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>https://realworlddatascience.net/talks/posts/2024/09/09/bsps.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>To be updated.</p>
+<div class="quarto-figure quarto-figure-&quot;centre">
+<figure class="figure">
+<p><img src="https://realworlddatascience.net/talks/posts/2024/09/09/images/logo-white.jpeg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>https://realworlddatascience.net/talks/posts/2024/09/09/bsps.html</guid>
+  <pubDate>Sun, 08 Sep 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://realworlddatascience.net/talks/posts/2024/09/09/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Keynote at the Annual Conference on Complex Systems</title>
+  <dc:creator>Carmen Cabrera-Arnau</dc:creator>
+  <link>https://realworlddatascience.net/talks/posts/2024/09/02/exeter.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>To be updated</p>
+<div class="quarto-figure quarto-figure-&quot;centre">
+<figure class="figure">
+<p><img src="https://realworlddatascience.net/talks/posts/2024/09/02/images/logo-white.jpeg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>https://realworlddatascience.net/talks/posts/2024/09/02/exeter.html</guid>
+  <pubDate>Sun, 01 Sep 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://realworlddatascience.net/talks/posts/2024/09/02/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

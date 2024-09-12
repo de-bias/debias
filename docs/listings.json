@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/publications/index.html",
+    "items": []
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/posts/2024/09/09/bsps.html",
+      "/talks/posts/2024/09/02/exeter.html"
+    ]
+  },
+  {
+    "listing": "/updates/index.html",
+    "items": [
+      "/updates/posts/2024/09/09/logo.html",
+      "/updates/posts/2024/08/15/kickoff.html"
+    ]
+  }
+]
