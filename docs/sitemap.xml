@@ -1,75 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://realworlddatascience.net/project/index.html</loc>
+    <loc>de-bias.github.io/debias/project/index.html</loc>
     <lastmod>2024-09-05T10:09:16.000Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/updates/posts/2024/08/15/kickoff.html</loc>
+    <loc>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</loc>
     <lastmod>2024-09-06T14:57:27.689Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/index.html</loc>
-    <lastmod>2024-09-12T09:21:08.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/talks/posts/2024/09/09/bsps.html</loc>
-    <lastmod>2024-09-06T15:12:39.985Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/publications/index.html</loc>
-    <lastmod>2024-09-12T09:23:17.178Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/talks/posts/2024/09/02/exeter.html</loc>
-    <lastmod>2024-09-06T15:14:04.697Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/talks/index.html</loc>
-    <lastmod>2024-09-06T15:07:21.522Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/updates/posts/2024/09/09/logo.html</loc>
-    <lastmod>2024-09-06T14:53:24.460Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/updates/index.html</loc>
-    <lastmod>2024-09-06T14:42:21.282Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/talks/posts/2024/09/02/exeter.html</loc>
-    <lastmod>2024-09-12T21:48:25.331Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/project/index.html</loc>
-    <lastmod>2024-09-12T09:45:14.240Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</loc>
-    <lastmod>2024-09-12T09:45:14.244Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/index.html</loc>
-    <lastmod>2024-09-12T09:45:14.239Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/talks/posts/2024/09/09/bsps.html</loc>
-    <lastmod>2024-09-12T09:45:14.242Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/publications/index.html</loc>
-    <lastmod>2024-09-12T09:45:14.240Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/09/26/un-task-team.html</loc>
+    <lastmod>2024-09-26T10:48:36.312Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/index.html</loc>
-    <lastmod>2024-09-12T09:45:14.241Z</lastmod>
+    <lastmod>2024-09-06T15:07:21.522Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2024/09/02/exeter.html</loc>
+    <lastmod>2024-09-26T10:30:54.446Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/publications/index.html</loc>
+    <lastmod>2024-09-12T09:23:17.178Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2024/09/09/bsps.html</loc>
+    <lastmod>2024-09-26T10:39:59.780Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/index.html</loc>
+    <lastmod>2024-09-12T09:21:08.127Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</loc>
-    <lastmod>2024-09-12T09:45:14.245Z</lastmod>
+    <lastmod>2024-09-06T14:53:24.460Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/updates/index.html</loc>
-    <lastmod>2024-09-12T09:45:14.242Z</lastmod>
+    <lastmod>2024-09-06T14:42:21.282Z</lastmod>
   </url>
 </urlset>

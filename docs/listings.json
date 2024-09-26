@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/publications/index.html",
-    "items": []
-  },
-  {
     "listing": "/talks/index.html",
     "items": [
       "/talks/posts/2024/09/09/bsps.html",
@@ -11,8 +7,13 @@
     ]
   },
   {
+    "listing": "/publications/index.html",
+    "items": []
+  },
+  {
     "listing": "/updates/index.html",
     "items": [
+      "/updates/posts/2024/09/26/un-task-team.html",
       "/updates/posts/2024/09/09/logo.html",
       "/updates/posts/2024/08/15/kickoff.html"
     ]
