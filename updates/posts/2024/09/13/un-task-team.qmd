@@ -8,4 +8,4 @@ image: "images/un-website.png"
 
 Francisco has been invited to the [United Nations Committee of Experts on Big Data and Data Science for Official Statistics](https://data.org/organizations/un-committee-of-experts-on-big-data-and-data-science-for-official-statistics-un-cebd/). He will be contributing to the task team on [*Mobile Phone Data for Official Statistics and Policy*](https://unstats.un.org/bigdata/task-teams/index.cshtml), leading the task team on *Migration Statistics* and contributing to the *Synthetic Mobile Phone Data group*.
 
-![](images/logo-white.jpeg){fig-align="centre}
+![](images/un-website.png){fig-align="centre}
