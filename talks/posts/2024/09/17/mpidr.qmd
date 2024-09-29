@@ -1,0 +1,11 @@
+---
+title: "Research visit at the Max Planck Institute for Demographic Research"
+author: "Francisco Rowe"
+date: "2024-09-17"
+categories: [talks]
+image: "images/fco-mpidr-photo.jpg"
+---
+
+Francisco visited the the Max Planck Institute for Demographic Research (MPIDR). He participated in the *International migration in Central and Eastern Europe: changing patterns, determinants, and measurement challenges*. He was invited to deliver a presentation on a [paper](https://doi.org/10.1002/psp.2790) published in Population, Space and Place making use of digital footprint data to identify the potential subnational areas of settlement for Ukrainian refugees across Europe. Francisco was also invited to contribute to the flagship project *Human Migration Database* led by Emilio Zagheni. This database is the first-of-its-kind seeking to offer global data on annual international migration flows between countries.
+
+![](images/fco-mpidr-photo.jpg)

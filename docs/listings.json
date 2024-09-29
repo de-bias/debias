@@ -2,13 +2,10 @@
   {
     "listing": "/talks/index.html",
     "items": [
+      "/talks/posts/2024/09/17/mpidr.html",
       "/talks/posts/2024/09/09/bsps.html",
       "/talks/posts/2024/09/02/exeter.html"
     ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": []
   },
   {
     "listing": "/updates/index.html",
