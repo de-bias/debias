@@ -6,6 +6,6 @@ categories: [talks]
 image: "images/logo-white.jpeg"
 ---
 
-The DEBIAS team participated in the British Society for Population Studies conference in Bath. Francisco organised and chaired the session *"Migration 2: Migration, digital traces and methodological innovations"*. Carmen delivered a talk on the use of mobile phone data from Meta to assess the medium-term impact of COVID-19 on mobility in Latin American countries. The DEBIAS team have developed a methodology to address some key biases in these data. Keeps your eyes peeled for the publication coming up.
+The DEBIAS team participated in the [British Society for Population Studies](https://www.lse.ac.uk/international-development/research/british-society-for-population-studies) conference in Bath. Francisco organised and chaired the session *"Migration 2: Migration, digital traces and methodological innovations"*. Carmen delivered a talk titled "The impact of COVID-19 on mobility patterns in Latin America", including research findings obtained from the analysis of mobile phone data from Meta to assess the medium-term effects of COVID-19 on internal mobility in Argentina, Colombia and Chile. The DEBIAS team have developed a methodology to address some key biases in these data. Keeps your eyes peeled for the publication coming up.
 
-![](images/logo-white.jpeg){fig-align="centre}
+![Bath. Source: UCL Media Services. Photographer: Mary Hinkley. Copyright: © UCL Media Services - University College London.](images/bath-photo.jpg)
