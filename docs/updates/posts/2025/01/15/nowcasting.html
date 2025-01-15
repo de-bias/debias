@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Carmen Cabrera-Arnau">
+<meta name="dcterms.date" content="2025-01-15">
 
-<title>Updates | DEBIAS</title>
+<title>DEBIAS - DEBIAS joins the Collaborative Group on Nowcasting Populations</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/logo-white.jpeg" rel="icon" type="image/jpeg">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../../">
+<link href="../../../../../images/logo-white.jpeg" rel="icon" type="image/jpeg">
+<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -62,57 +62,47 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
+<!-- Thank you to Ben Ruijl for the progress bar code!
+Ben is on GitHub here: https://github.com/benruijl
+And you can see the original code here: https://github.com/quarto-dev/quarto-cli/discussions/3842#discussioncomment-4591721 -->
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<link rel="stylesheet" href="../rwds.css">
-<link rel="alternate" type="application/rss+xml" title="DEBIAS" href="index.xml"><meta property="og:title" content="Updates | DEBIAS">
-<meta property="og:description" content="Find out about the latest news on DEBIAS">
+<meta property="og:title" content="DEBIAS - DEBIAS joins the Collaborative Group on Nowcasting Populations">
+<meta property="og:description" content="">
 <meta property="og:image" content="de-bias.github.io/debias/updates/posts/2025/01/15/images/nowcasting.png">
 <meta property="og:site-name" content="DEBIAS">
 <meta property="og:image:height" content="946">
 <meta property="og:image:width" content="2562">
-</head>
+</head><body class="nav-fixed"><div id="progress-bar" style="width: 0%; height:4px; background-color: #939bc9;; position: fixed; top: 0px; z-index: 2000;"></div>
 
-<body class="nav-fixed">
+<script id="progressbar" type="text/javascript">
+
+document.addEventListener("DOMContentLoaded", function() {
+
+    const bar = document.querySelector('#progress-bar');
+    const post = document.querySelector('#quarto-content');
+    const html = document.documentElement;
+    
+    const height = post.scrollHeight + post.offsetTop;
+    
+    window.addEventListener('scroll', () => {
+        bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
+    });
+});
+</script>
+
+
+<link rel="stylesheet" href="../../../../../rwds.css">
+
+
+
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/logo-white.jpeg" alt="DEBIAS" class="navbar-logo">
+    <a href="../../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../../images/logo-white.jpeg" alt="DEBIAS" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -122,23 +112,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html" rel="" target="">
+    <a class="nav-link" href="../../../../../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../project/index.html" rel="" target="">
+    <a class="nav-link" href="../../../../../project/index.html" rel="" target="">
  <span class="menu-text">Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../updates/index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../../../../../updates/index.html" rel="" target="">
  <span class="menu-text">Updates</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../talks/index.html" rel="" target="">
+    <a class="nav-link" href="../../../../../talks/index.html" rel="" target="">
  <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications/index.html" rel="" target="">
+    <a class="nav-link" href="../../../../../publications/index.html" rel="" target="">
  <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
@@ -152,15 +142,29 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Updates</h1>
-            <p class="subtitle lead">Find out about the latest news on DEBIAS</p>
-                      </div>
+      <h1 class="title">DEBIAS joins the Collaborative Group on Nowcasting Populations</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">updates</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Carmen Cabrera-Arnau </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">January 15, 2025</p>
+      </div>
+    </div>
     
       
     </div>
@@ -171,165 +175,22 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="updates">updates <span class="quarto-category-count">(4)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<p>We will be posting progress and outcomes on DEBIAS, including news about project milestones, talks, papers, code and experimental work that may not make it into the final project products.</p>
+<p>We are thrilled to announce that our DEBIAS team has joined the <a href="https://www.demography.ox.ac.uk/collaborative-group-nowcasting-populations-cgnp">Collaborative Group on Nowcasting Populations (CGNP)</a>! This initiative, led by Dr.&nbsp;Andrea Aparicio Castro and the <a href="https://www.demography.ox.ac.uk/nowcasting-populations">Nowcasting Populations (NowPop)</a> team at the <a href="https://www.demography.ox.ac.uk/">Leverhulme Centre for Demographic Science (LCDS)</a>, is funded by Oxford University’s Van Houten Fund.</p>
+<p>The CGNP initiative brings together academics from leading institutions and research centers, including <a href="https://www.sociology.ox.ac.uk/">Oxford University’s Department of Sociology</a>, <a href="https://www.socialsciences.manchester.ac.uk/social-statistics/">University of Manchester’s Department of Social Statistics</a>, <a href="https://www.southampton.ac.uk/">University of Southampton</a> and the <a href="https://www.liverpool.ac.uk/geographic-data-science/">University of Liverpool’s Geographic Data Science Lab</a>.</p>
+<p>Through a series of collaborative meetings hosted by the participating institutions, we aim to advance knowledge in real-time population estimation, mobility, and migration. Combining Bayesian methodologies with digital trace and traditional data sources, CGNP addresses critical challenges in contexts where conventional data collection is limited, such as conflict zones, offering timely insights to support humanitarian efforts.</p>
+<p>We are excited to bring the expertise of the DEBIAS project to this collaboration. Stay tuned for updates on our collaborative journey with CGNP!</p>
+<p>For more information about CGNP, contact <a href="https://www.demography.ox.ac.uk/people/andrea-aparicio-castro">Dr.&nbsp;Andrea Aparicio-Castro</a>.</p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="updates" data-listing-date-sort="1736899200000" data-listing-file-modified-sort="1736937959393" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="../updates/posts/2025/01/15/nowcasting.html"> <img src="../updates/posts/2025/01/15/images/nowcasting.png" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../updates/posts/2025/01/15/nowcasting.html">
-<h3 class="no-anchor listing-title">
-DEBIAS joins the Collaborative Group on Nowcasting Populations
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('updates'); return false;">
-updates
-</div>
-</div>
-<a href="../updates/posts/2025/01/15/nowcasting.html">
-<div class="listing-description">
-We are thrilled to announce that our DEBIAS team has joined the Collaborative Group on Nowcasting Populations (CGNP)!…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../updates/posts/2025/01/15/nowcasting.html">
-<div class="listing-date">
-Jan 15, 2025
-</div>
-<div class="listing-author">
-Carmen Cabrera-Arnau
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="updates" data-listing-date-sort="1726182000000" data-listing-file-modified-sort="1727978106666" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="../updates/posts/2024/09/13/un-task-team.html"> <img src="../updates/posts/2024/09/13/images/un-website.png" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../updates/posts/2024/09/13/un-task-team.html">
-<h3 class="no-anchor listing-title">
-DEBIAS invited to a UN Committee of Experts
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('updates'); return false;">
-updates
-</div>
-</div>
-<a href="../updates/posts/2024/09/13/un-task-team.html">
-<div class="listing-description">
-Francisco has been invited to the United Nations Committee of Experts on Big Data and Data Science for Official Statistics. He will be contributing to the task team on <em>Mobile Phone Data for Official Statistics…</em><em></em><em></em>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../updates/posts/2024/09/13/un-task-team.html">
-<div class="listing-date">
-Sep 13, 2024
-</div>
-<div class="listing-author">
-Francisco Rowe
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="updates" data-listing-date-sort="1725577200000" data-listing-file-modified-sort="1727978106662" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="../updates/posts/2024/09/09/logo.html"> <img src="../updates/posts/2024/09/09/images/logo-white.jpeg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../updates/posts/2024/09/09/logo.html">
-<h3 class="no-anchor listing-title">
-Logo for DEBIAS
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('updates'); return false;">
-updates
-</div>
-</div>
-<a href="../updates/posts/2024/09/09/logo.html">
-<div class="listing-description">
-We are happy to unveil the logo for DEBIAS. Let us unpack what the logo represents. We have chosen an iceberg as a logo as it provides an effective representation of what we…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../updates/posts/2024/09/09/logo.html">
-<div class="listing-date">
-Sep 6, 2024
-</div>
-<div class="listing-author">
-Francisco Rowe
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="updates" data-listing-date-sort="1723676400000" data-listing-file-modified-sort="1727978106661" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="../updates/posts/2024/08/15/kickoff.html"> <img src="../updates/posts/2024/08/15/images/launch.jpg" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="../updates/posts/2024/08/15/kickoff.html">
-<h3 class="no-anchor listing-title">
-Kicking off
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('updates'); return false;">
-updates
-</div>
-</div>
-<a href="../updates/posts/2024/08/15/kickoff.html">
-<div class="listing-description">
-This is the first post going out form the DEBIAS project. We will use this blog to keep track of progress on the project and to announce milestones of the project along the…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="../updates/posts/2024/08/15/kickoff.html">
-<div class="listing-date">
-Aug 15, 2024
-</div>
-<div class="listing-author">
-Francisco Rowe
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -576,7 +437,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
 </ul>
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/de-bias/debias/edit/main/updates/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/de-bias/debias/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
+    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/de-bias/debias/edit/main/updates/posts/2025/01/15/nowcasting.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/de-bias/debias/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

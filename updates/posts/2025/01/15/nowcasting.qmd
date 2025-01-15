@@ -1,0 +1,17 @@
+---
+title: "DEBIAS joins the Collaborative Group on Nowcasting Populations"
+author: "Carmen Cabrera-Arnau"
+date: "2025-01-15"
+categories: [updates]
+image: "images/nowcasting.png"
+---
+
+We are thrilled to announce that our DEBIAS team has joined the [Collaborative Group on Nowcasting Populations (CGNP)](https://www.demography.ox.ac.uk/collaborative-group-nowcasting-populations-cgnp)! This initiative, led by Dr. Andrea Aparicio Castro and the [Nowcasting Populations (NowPop)](https://www.demography.ox.ac.uk/nowcasting-populations) team at the [Leverhulme Centre for Demographic Science (LCDS)](https://www.demography.ox.ac.uk/), is funded by Oxford University’s Van Houten Fund.
+
+The CGNP initiative brings together academics from leading institutions and research centers, including [Oxford University’s Department of Sociology](https://www.sociology.ox.ac.uk/), [University of Manchester’s Department of Social Statistics](https://www.socialsciences.manchester.ac.uk/social-statistics/), [University of Southampton](https://www.southampton.ac.uk/) and the [University of Liverpool’s Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/).
+
+Through a series of collaborative meetings hosted by the participating institutions, we aim to advance knowledge in real-time population estimation, mobility, and migration. Combining Bayesian methodologies with digital trace and traditional data sources, CGNP addresses critical challenges in contexts where conventional data collection is limited, such as conflict zones, offering timely insights to support humanitarian efforts.
+
+We are excited to bring the expertise of the DEBIAS project to this collaboration. Stay tuned for updates on our collaborative journey with CGNP!
+
+For more information about CGNP, contact [Dr. Andrea Aparicio-Castro](https://www.demography.ox.ac.uk/people/andrea-aparicio-castro).
