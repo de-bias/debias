@@ -1,0 +1,11 @@
+---
+title: "DEBIAS contributes to the 2024 LAMBDA meeting"
+author: "Francisco Rowe"
+date: "2024-11-15"
+categories: [updates]
+image: "images/debias-talk.png"
+---
+
+DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning.
+
+![](images/debias-talk.png){fig-align="\"centre"}

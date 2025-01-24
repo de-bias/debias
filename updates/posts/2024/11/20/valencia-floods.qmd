@@ -1,0 +1,11 @@
+---
+title: "DEBIAS produces insights into the 2024 Valencia floods"
+author: "Francisco Rowe"
+date: "2024-11-20"
+categories: [updates]
+image: "images/pop-eu.png"
+---
+
+DEBIAS contributes analysis on the 2024 Valencia floods leveraging the use of mobile phone data. It contributes an [article](https://population-europe.eu/research/policy-insights/harnessing-digital-data-strengthen-disaster-response-valencias-2024-floods) published in Population Europe.
+
+![](images/pop-eu.png){fig-align="\"centre"}

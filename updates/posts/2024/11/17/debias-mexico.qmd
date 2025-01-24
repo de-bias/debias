@@ -1,0 +1,11 @@
+---
+title: "DEBIAS expands to Mexico"
+author: "Francisco Rowe"
+date: "2024-11-17"
+categories: [updates]
+image: "images/debias-mexico.png"
+---
+
+We have secured additional funding for DEBIAS to extend the work to Mexico working with Miguel González-Leonardo from El Colegio De México, supported by its Programa Interdisciplinario de Ciencia de Datos.
+
+![](images/debias-mexico.png){fig-align="\"centre"}

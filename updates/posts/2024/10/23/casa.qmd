@@ -1,0 +1,17 @@
+---
+title: "DEBIAS at CASA-UCL"
+author: "Francisco Rowe"
+date: "2024-10-23"
+categories: [updates]
+image: "images/casa-desc.png"
+---
+
+Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia's full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.
+
+This encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology.
+
+<iframe width="950" height="315" src="https://www.youtube.com/embed/r3I23TUBA8I?si=d8GqMpz9i91XrYHm" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+![](images/casa-desc.png){fig-align="center" width="700"}
