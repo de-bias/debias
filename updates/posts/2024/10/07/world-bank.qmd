@@ -6,7 +6,7 @@ categories: [updates]
 image: "images/gdf-mdp_wb.jpg"
 ---
 
-Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop. The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:
+Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the [Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop](https://www.worldbank.org/en/events/2024/09/25/global-data-facility-mobile-phone-data-program-for-policy-cohort-1-launch-workshop). The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:
 
 -   Deliver essential resources and programmatic activities to support WB task teams to integrate MPD into national data systems for durable policy solutions and statistics
 

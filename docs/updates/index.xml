@@ -52,6 +52,31 @@
   <media:content url="de-bias.github.io/debias/updates/posts/2025/01/24/images/tg-paper.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 <item>
+  <title>DEBIAS at the FCDO</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="600"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</guid>
+  <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>DEBIAS joins the Collaborative Group on Nowcasting Populations</title>
   <dc:creator>Carmen Cabrera-Arnau</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</link>
@@ -160,15 +185,10 @@
 
 
 
-<p>Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.</p>
+<p>Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.</p>
 <p>This encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology.</p>
-<iframe width="950" height="315" src="https://www.youtube.com/embed/r3I23TUBA8I?si=d8GqMpz9i91XrYHm" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+<iframe width="950" height="500" src="https://www.youtube.com/embed/r3I23TUBA8I?si=d8GqMpz9i91XrYHm" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
 </iframe>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/updates/posts/2024/10/23/images/casa-desc.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="700"></p>
-</figure>
-</div>
 
 
 
@@ -177,6 +197,31 @@
   <guid>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</guid>
   <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/23/images/casa-desc.png" medium="image" type="image/png" height="78" width="144"/>
+</item>
+<item>
+  <title>DEBIAS at a UN webinar on Social and Demographic Statistics</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco was invited to contribute one of the <a href="https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/">Sprint webinar of the Friends of Chair (FoC) Group on Social and Demographic Statistics</a>. The series of Sprint webinars aims to explore key building blocks for an overarching conceptual framework for a social and demographic statistics system. The FoC group’s objective is to formulate strategic recommendations to enhance social and demographic statistics that better reflect society and its connections with the environment and the economy. The group has identified five key building blocks for this framework: people, relationships, outcomes, time, and places.</p>
+<p>Francisco was invited as a <a href="https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/documents/Places-Sprint.pdf">panelist</a> for a webinar on the critical role of information on “places” and geography to improve social and demographic statistics is co-organised by the National Institute of Statistics, Geography and Informatics (INEGI), Mexico, the National Institute of Statistics of Rwanda, the Economic Commission for Latin America and the Caribbean (ECLAC) and the UN Statistics Division (UNSD). Francisco was invited given his expertise in spatial inequalities and geographic data science.</p>
+<p><em>Places are crucial, but often underutilized, building block of social and demographic statistics. This session will examine how the places where people grow up, live, and work profoundly influence their lives, exposing disparities and shaping policy decisions. By exploring the use of georeferenced data, satellite imagery, and small area estimation techniques to fill data gaps, we will highlight how geography can integrate diverse data sources and enhance dissemination through geoportals. The insights gained from this session will inform recommendations on how to more effectively incorporate geography into social and demographic statistics for improved policymaking.</em></p>
+<iframe width="950" height="500" start="10" src="https://www.youtube.com/embed/L7FVcRMYy1o?si=w3u78ysMEf-WFFa2" title="Sprint webinar: Places" frameborder="0" allow="accelerometer; display: block;
+   margin: 0 auto; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</guid>
+  <pubDate>Wed, 09 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2024/10/10/images/un-sprint.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 <item>
   <title>DEBIAS contribution to World Bank Workshop</title>
@@ -188,7 +233,7 @@
 
 
 
-<p>Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop. The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:</p>
+<p>Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the <a href="https://www.worldbank.org/en/events/2024/09/25/global-data-facility-mobile-phone-data-program-for-policy-cohort-1-launch-workshop">Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop</a>. The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:</p>
 <ul>
 <li><p>Deliver essential resources and programmatic activities to support WB task teams to integrate MPD into national data systems for durable policy solutions and statistics</p></li>
 <li><p>Promote open MPD standards, tools, and practices</p></li>

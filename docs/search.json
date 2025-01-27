@@ -35,18 +35,25 @@
     "text": "Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop. The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:\n\nDeliver essential resources and programmatic activities to support WB task teams to integrate MPD into national data systems for durable policy solutions and statistics\nPromote open MPD standards, tools, and practices\nDeliver programmatic activities designed to advance the level of maturity in the local MPD ecosystem\nPromote operational research to improve evidence-base and policy impact of MPD\nUse grant activities to facilitate lending in integrated national data systems and public data infrastructure\n\nAfter a competitive application process, task teams representing 18 countries were selected to join the first Cohort of the MPD-GDF Program. These teams were grouped into three clusters: LAC, West Africa and Integrated. During the workshop, the country teams developed their strategic implementation plans to put MPD to work for Policy in a rigorous and sustainable way. The workshop delivered sessions that cover: (a) process to set up a country Mobile Phone Data pipeline/program in a country to produce policy-relevant insights; (b) country examples of MPD for policy applications; and, (c) group activities to develop/elaborate country MPD implementation plan. MPD experts, including Francisco, contribute to present use cases where MDP has worked, discussed some of the existing challenges of their use, and supported Brazil to develop a strategic implementation plan for the adoption of MDP to develop statistical indicators to inform urban planning decision making.\nThe Brazilian team included Claudio Ferreira from Ministério das Cidades, Marcio Mutti from Anatel, Daniel Oliveira from Serpro and Aiga Stokenberga and Andrea Barone from The World Bank."
   },
   {
-    "objectID": "updates/posts/2024/11/17/debias-mexico.html",
-    "href": "updates/posts/2024/11/17/debias-mexico.html",
-    "title": "DEBIAS expands to Mexico",
+    "objectID": "updates/posts/2024/11/15/lambda.html",
+    "href": "updates/posts/2024/11/15/lambda.html",
+    "title": "DEBIAS contributes to the 2024 LAMBDA meeting",
     "section": "",
-    "text": "We have secured additional funding for DEBIAS to extend the work to Mexico working with Miguel González-Leonardo from El Colegio De México, supported by its Programa Interdisciplinario de Ciencia de Datos."
+    "text": "DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning."
   },
   {
-    "objectID": "updates/posts/2025/01/15/nowcasting.html",
-    "href": "updates/posts/2025/01/15/nowcasting.html",
-    "title": "DEBIAS joins the Collaborative Group on Nowcasting Populations",
+    "objectID": "updates/posts/2024/11/20/valencia-floods.html",
+    "href": "updates/posts/2024/11/20/valencia-floods.html",
+    "title": "DEBIAS produces insights into the 2024 Valencia floods",
     "section": "",
-    "text": "We are thrilled to announce that our DEBIAS team has joined the Collaborative Group on Nowcasting Populations (CGNP)! This initiative, led by Dr. Andrea Aparicio Castro and the Nowcasting Populations (NowPop) team at the Leverhulme Centre for Demographic Science (LCDS), is funded by Oxford University’s Van Houten Fund.\nThe CGNP initiative brings together academics from leading institutions and research centers, including Oxford University’s Department of Sociology, University of Manchester’s Department of Social Statistics, University of Southampton and the University of Liverpool’s Geographic Data Science Lab.\nThrough a series of collaborative meetings hosted by the participating institutions, we aim to advance knowledge in real-time population estimation, mobility, and migration. Combining Bayesian methodologies with digital trace and traditional data sources, CGNP addresses critical challenges in contexts where conventional data collection is limited, such as conflict zones, offering timely insights to support humanitarian efforts.\nWe are excited to bring the expertise of the DEBIAS project to this collaboration. Stay tuned for updates on our collaborative journey with CGNP!\nFor more information about CGNP, contact Dr. Andrea Aparicio-Castro."
+    "text": "DEBIAS contributes analysis on the 2024 Valencia floods leveraging the use of mobile phone data. It contributes an article published in Population Europe."
+  },
+  {
+    "objectID": "updates/posts/2025/01/23/fcdo.html",
+    "href": "updates/posts/2025/01/23/fcdo.html",
+    "title": "DEBIAS at the FCDO",
+    "section": "",
+    "text": "Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery."
   },
   {
     "objectID": "talks/posts/2024/09/09/bsps.html",
@@ -63,6 +70,27 @@
     "text": "Digital trace data, such as location data collected from smartphone apps, offers a unique opportunity to analyse population movements at high spatiotemporal granularity, with extensive coverage in near real-time. Yet, a key challenge for its use in human mobility research and evidence-based policymaking is the presence of biases. These issues were addressed in the keynote talk titled “Leveraging digital trace data for human mobility research” and delivered at UrbanSys, a satellite session within the Conference on Complex Systems, taking place in Exeter (UK) in early September 2024."
   },
   {
+    "objectID": "talks/posts/2024/11/15/lambda.html",
+    "href": "talks/posts/2024/11/15/lambda.html",
+    "title": "DEBIAS contributes to the 2024 LAMBDA meeting",
+    "section": "",
+    "text": "DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning."
+  },
+  {
+    "objectID": "talks/posts/2025/01/23/fcdo.html",
+    "href": "talks/posts/2025/01/23/fcdo.html",
+    "title": "DEBIAS at the FCDO",
+    "section": "",
+    "text": "Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery."
+  },
+  {
+    "objectID": "talks/posts/2024/10/23/casa.html",
+    "href": "talks/posts/2024/10/23/casa.html",
+    "title": "DEBIAS at CASA-UCL",
+    "section": "",
+    "text": "Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.\nThis encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology."
+  },
+  {
     "objectID": "talks/posts/2024/09/17/mpidr.html",
     "href": "talks/posts/2024/09/17/mpidr.html",
     "title": "Research visit at the Max Planck Institute for Demographic Research",
@@ -77,25 +105,32 @@
     "text": "Francisco published a new article in the Journal of Transport Geography. The paper explores data from Beijing’s bus system. Specifically the paper sought to address: How predictable are public transit trips, and what factors shape this predictability? Leveraging 20 million bus trips from Beijing, the study analysed patterns of spatial and temporal variability in bus use, with the idea of informing interventions to create more sustainable transit systems.\nKey takeaways: ️\n\nBus trips beyond 10 km from urban centers show greater variability in timing and routes.\nA higher density of bus routes reduces unpredictability, but adding too many routes has diminishing returns.\nBoth low and high road densities increase variability, impacting travel predictability.\n\nUsing explainable machine learning (XGBoost and SHAP values), our analysis presents evidence of nonlinear relationships and tipping points—critical for designing responsive, efficient transit systems.\nWhat does this mean for urban mobility?\n\nPrioritize areas on the outskirts of cities with tailored route planning.\nFocus on densifying road networks in sparse regions, but avoid oversaturation.\nCreate transit systems that adapt to behavioral patterns, offering more flexibility and reliability.\n\nThese findings are a step toward building transit systems that reduce car dependency, combat climate change, and enhance urban sustainability."
   },
   {
-    "objectID": "updates/posts/2024/11/20/valencia-floods.html",
-    "href": "updates/posts/2024/11/20/valencia-floods.html",
-    "title": "DEBIAS produces insights into the 2024 Valencia floods",
+    "objectID": "updates/posts/2025/01/15/nowcasting.html",
+    "href": "updates/posts/2025/01/15/nowcasting.html",
+    "title": "DEBIAS joins the Collaborative Group on Nowcasting Populations",
     "section": "",
-    "text": "DEBIAS contributes analysis on the 2024 Valencia floods leveraging the use of mobile phone data. It contributes an article published in Population Europe."
+    "text": "We are thrilled to announce that our DEBIAS team has joined the Collaborative Group on Nowcasting Populations (CGNP)! This initiative, led by Dr. Andrea Aparicio Castro and the Nowcasting Populations (NowPop) team at the Leverhulme Centre for Demographic Science (LCDS), is funded by Oxford University’s Van Houten Fund.\nThe CGNP initiative brings together academics from leading institutions and research centers, including Oxford University’s Department of Sociology, University of Manchester’s Department of Social Statistics, University of Southampton and the University of Liverpool’s Geographic Data Science Lab.\nThrough a series of collaborative meetings hosted by the participating institutions, we aim to advance knowledge in real-time population estimation, mobility, and migration. Combining Bayesian methodologies with digital trace and traditional data sources, CGNP addresses critical challenges in contexts where conventional data collection is limited, such as conflict zones, offering timely insights to support humanitarian efforts.\nWe are excited to bring the expertise of the DEBIAS project to this collaboration. Stay tuned for updates on our collaborative journey with CGNP!\nFor more information about CGNP, contact Dr. Andrea Aparicio-Castro."
   },
   {
-    "objectID": "updates/posts/2024/11/15/lambda.html",
-    "href": "updates/posts/2024/11/15/lambda.html",
-    "title": "DEBIAS contributes to the 2024 LAMBDA meeting",
+    "objectID": "updates/posts/2024/11/17/debias-mexico.html",
+    "href": "updates/posts/2024/11/17/debias-mexico.html",
+    "title": "DEBIAS expands to Mexico",
     "section": "",
-    "text": "DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning."
+    "text": "We have secured additional funding for DEBIAS to extend the work to Mexico working with Miguel González-Leonardo from El Colegio De México, supported by its Programa Interdisciplinario de Ciencia de Datos."
+  },
+  {
+    "objectID": "updates/posts/2024/10/10/un-sprint.html",
+    "href": "updates/posts/2024/10/10/un-sprint.html",
+    "title": "DEBIAS at a UN webinar on Social and Demographic Statistics",
+    "section": "",
+    "text": "Francisco was invited to contribute one of the Sprint webinar of the Friends of Chair (FoC) Group on Social and Demographic Statistics. The series of Sprint webinars aims to explore key building blocks for an overarching conceptual framework for a social and demographic statistics system. The FoC group’s objective is to formulate strategic recommendations to enhance social and demographic statistics that better reflect society and its connections with the environment and the economy. The group has identified five key building blocks for this framework: people, relationships, outcomes, time, and places.\nFrancisco was invited as a panelist for a webinar on the critical role of information on “places” and geography to improve social and demographic statistics is co-organised by the National Institute of Statistics, Geography and Informatics (INEGI), Mexico, the National Institute of Statistics of Rwanda, the Economic Commission for Latin America and the Caribbean (ECLAC) and the UN Statistics Division (UNSD). Francisco was invited given his expertise in spatial inequalities and geographic data science.\nPlaces are crucial, but often underutilized, building block of social and demographic statistics. This session will examine how the places where people grow up, live, and work profoundly influence their lives, exposing disparities and shaping policy decisions. By exploring the use of georeferenced data, satellite imagery, and small area estimation techniques to fill data gaps, we will highlight how geography can integrate diverse data sources and enhance dissemination through geoportals. The insights gained from this session will inform recommendations on how to more effectively incorporate geography into social and demographic statistics for improved policymaking."
   },
   {
     "objectID": "updates/posts/2024/10/23/casa.html",
     "href": "updates/posts/2024/10/23/casa.html",
     "title": "DEBIAS at CASA-UCL",
     "section": "",
-    "text": "Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.\nThis encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology."
+    "text": "Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.\nThis encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology."
   },
   {
     "objectID": "updates/posts/2024/09/13/un-task-team.html",

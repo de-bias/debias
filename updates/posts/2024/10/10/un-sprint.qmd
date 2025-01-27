@@ -1,0 +1,18 @@
+---
+title: "DEBIAS at a UN webinar on Social and Demographic Statistics"
+author: "Francisco Rowe"
+date: "2024-10-10"
+categories: [updates]
+image: "images/un-sprint.png"
+---
+
+Francisco was invited to contribute one of the [Sprint webinar of the Friends of Chair (FoC) Group on Social and Demographic Statistics](https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/). The series of Sprint webinars aims to explore key building blocks for an overarching conceptual framework for a social and demographic statistics system. The FoC group’s objective is to formulate strategic recommendations to enhance social and demographic statistics that better reflect society and its connections with the environment and the economy. The group has identified five key building blocks for this framework: people, relationships, outcomes, time, and places.
+
+Francisco was invited as a [panelist](https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/documents/Places-Sprint.pdf) for a webinar on the critical role of information on “places” and geography to improve social and demographic statistics is co-organised by the National Institute of Statistics, Geography and Informatics (INEGI), Mexico, the National Institute of Statistics of Rwanda, the Economic Commission for Latin America and the Caribbean (ECLAC) and the UN Statistics Division (UNSD). Francisco was invited given his expertise in spatial inequalities and geographic data science.
+
+*Places are crucial, but often underutilized, building block of social and demographic statistics. This session will examine how the places where people grow up, live, and work profoundly influence their lives, exposing disparities and shaping policy decisions. By exploring the use of georeferenced data, satellite imagery, and small area estimation techniques to fill data gaps, we will highlight how geography can integrate diverse data sources and enhance dissemination through geoportals. The insights gained from this session will inform recommendations on how to more effectively incorporate geography into social and demographic statistics for improved policymaking.*
+
+<iframe width="950" height="500" start="10"  src="https://www.youtube.com/embed/L7FVcRMYy1o?si=w3u78ysMEf-WFFa2" title="Sprint webinar: Places" frameborder="0" allow="accelerometer; display: block;
+   margin: 0 auto; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>

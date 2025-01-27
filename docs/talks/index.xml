@@ -15,7 +15,76 @@
 <link>de-bias.github.io/debias/talks/</link>
 </image>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 16 Sep 2024 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>DEBIAS at the FCDO</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/01/23/fcdo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2025/01/23/images/fcdo.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/01/23/fcdo.html</guid>
+  <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2025/01/23/images/fcdo.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>DEBIAS contributes to the 2024 LAMBDA meeting</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2024/11/15/lambda.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning.</p>
+<div class="quarto-figure quarto-figure-&quot;centre">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/talks/posts/2024/11/15/images/debias-talk.png" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>de-bias.github.io/debias/talks/posts/2024/11/15/lambda.html</guid>
+  <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2024/11/15/images/debias-talk.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>DEBIAS at CASA-UCL</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2024/10/23/casa.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.</p>
+<p>This encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology.</p>
+<iframe width="950" height="500" src="https://www.youtube.com/embed/r3I23TUBA8I?si=d8GqMpz9i91XrYHm" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>de-bias.github.io/debias/talks/posts/2024/10/23/casa.html</guid>
+  <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2024/10/23/images/casa-desc.png" medium="image" type="image/png" height="78" width="144"/>
+</item>
 <item>
   <title>Research visit at the Max Planck Institute for Demographic Research</title>
   <dc:creator>Francisco Rowe</dc:creator>
