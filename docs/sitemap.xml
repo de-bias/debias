@@ -14,6 +14,7 @@
   </url>
   <url>
     <loc>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</loc>
+<<<<<<< Updated upstream
     <lastmod>2025-01-27T14:59:11.652Z</lastmod>
   </url>
   <url>
@@ -27,6 +28,17 @@
   <url>
     <loc>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</loc>
     <lastmod>2025-01-27T15:51:52.382Z</lastmod>
+=======
+    <lastmod>2025-01-27T06:34:34.581Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/17/debias-mexico.html</loc>
+    <lastmod>2025-01-27T06:34:34.587Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</loc>
+    <lastmod>2025-01-27T06:34:34.596Z</lastmod>
+>>>>>>> Stashed changes
   </url>
   <url>
     <loc>de-bias.github.io/debias/index.html</loc>
@@ -66,9 +78,10 @@
   </url>
   <url>
     <loc>de-bias.github.io/debias/updates/posts/2025/01/24/transport-geo.html</loc>
-    <lastmod>2025-01-24T22:04:44.363Z</lastmod>
+    <lastmod>2025-01-27T06:34:34.598Z</lastmod>
   </url>
   <url>
+<<<<<<< Updated upstream
     <loc>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</loc>
     <lastmod>2025-01-24T14:55:48.604Z</lastmod>
   </url>
@@ -83,6 +96,18 @@
   <url>
     <loc>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</loc>
     <lastmod>2025-01-27T15:05:37.344Z</lastmod>
+=======
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/20/valencia-floods.html</loc>
+    <lastmod>2025-01-27T06:34:34.591Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/15/lambda.html</loc>
+    <lastmod>2025-01-27T06:34:34.587Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</loc>
+    <lastmod>2025-01-27T06:34:34.582Z</lastmod>
+>>>>>>> Stashed changes
   </url>
   <url>
     <loc>de-bias.github.io/debias/updates/posts/2024/09/13/un-task-team.html</loc>
@@ -91,5 +116,9 @@
   <url>
     <loc>de-bias.github.io/debias/updates/index.html</loc>
     <lastmod>2024-09-06T14:42:21.000Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2025/01/uji.html</loc>
+    <lastmod>2025-01-28T07:36:10.928Z</lastmod>
   </url>
 </urlset>
