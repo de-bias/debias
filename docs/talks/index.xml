@@ -14,7 +14,7 @@
 <title>DEBIAS</title>
 <link>de-bias.github.io/debias/talks/</link>
 </image>
-<generator>quarto-1.6.39</generator>
+<generator>quarto-1.5.55</generator>
 <lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>DEBIAS at the FCDO</title>
@@ -36,6 +36,33 @@
   <guid>de-bias.github.io/debias/talks/posts/2025/01/23/fcdo.html</guid>
   <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2025/01/23/images/fcdo.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program</title>
+  <dc:creator>Carmen Cabrera-Arnau</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/01/23-2/uji.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Carmen was pleased to be invited as a guest lecturer at the <a href="https://mastergeotech.info/master-program/description/">Erasmus Mundus MSc in Geospatial Technologies program</a>. This international Master’s program is supported by the EU through the European Commission’s Erasmus+ programme, Erasmus Mundus action (2021–2027, project number 101049796). The MSc in Geospatial Technologies is a collaborative effort among three institutions, and the students get to spend a semester at each:</p>
+<ul>
+<li><p>University of Münster,&nbsp;<a href="http://ifgi.uni-muenster.de/">Institute for Geoinformatics</a>, Münster, Germany.</p></li>
+<li><p>Universitat Jaume I (UJI), Castellón,&nbsp;<a href="http://www.geotec.uji.es/">Dept. Lenguajes y Sistemas Informaticos</a>, Castellón, Spain.</p></li>
+<li><p>Universidade Nova de Lisboa,&nbsp;<a href="http://www.novaims.unl.pt/index.asp">NOVA – Information Management School</a>, Lisboa, Portugal.</p></li>
+</ul>
+<p>During her lecture at UJI, Carmen shared insights into DEBIAS and provided an introduction to network analysis for GIS. She demonstrated the potential of digital trace data in research while addressing the challenges related to addressing representativity biases in such data. The session encouraged students to critically consider both the opportunities and limitations of mobility data derived from digital technologies.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2025/01/23-2/images/UJI_image.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/01/23-2/uji.html</guid>
+  <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2025/01/23-2/images/UJI_image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>DEBIAS contributes to the 2024 LAMBDA meeting</title>

@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Carmen Cabrera-Arnau">
+<meta name="dcterms.date" content="2025-01-23">
 
-<title>Talks | DEBIAS – DEBIAS</title>
+<title>DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program – DEBIAS</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/logo-white.jpeg" rel="icon" type="image/jpeg">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../../../">
+<link href="../../../../../images/logo-white.jpeg" rel="icon" type="image/jpeg">
+<script src="../../../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,82 +69,45 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
+<!-- Thank you to Ben Ruijl for the progress bar code!
+Ben is on GitHub here: https://github.com/benruijl
+And you can see the original code here: https://github.com/quarto-dev/quarto-cli/discussions/3842#discussioncomment-4591721 -->
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
+<meta property="og:title" content="DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program – DEBIAS">
+<meta property="og:description" content="">
+<meta property="og:image" content="de-bias.github.io/debias/talks/posts/2025/01/23-2/images/UJI_image.jpg">
+<meta property="og:site_name" content="DEBIAS">
+</head><body class="nav-fixed"><div id="progress-bar" style="width: 0%; height:4px; background-color: #939bc9;; position: fixed; top: 0px; z-index: 2000;"></div>
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
+<script id="progressbar" type="text/javascript">
 
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+document.addEventListener("DOMContentLoaded", function() {
 
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
+    const bar = document.querySelector('#progress-bar');
+    const post = document.querySelector('#quarto-content');
+    const html = document.documentElement;
+    
+    const height = post.scrollHeight + post.offsetTop;
+    
+    window.addEventListener('scroll', () => {
+        bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
+    });
+});
 </script>
 
-<link rel="stylesheet" href="../rwds.css">
-<link rel="alternate" type="application/rss+xml" title="DEBIAS" href="index.xml" data-external="1"><meta property="og:title" content="Talks | DEBIAS">
-<meta property="og:description" content="Communicating progress on the use of smart data from digital sources to capture human mobility and migration">
-<meta property="og:image" content="de-bias.github.io/debias/talks/images/logo-white.jpeg">
-<meta property="og:site_name" content="DEBIAS">
-</head>
 
-<body class="nav-fixed">
+<link rel="stylesheet" href="../../../../../rwds.css">
+
+
+
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/logo-white.jpeg" alt="DEBIAS" class="navbar-logo">
+    <a href="../../../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../../../images/logo-white.jpeg" alt="DEBIAS" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -154,23 +117,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../project/index.html"> 
+    <a class="nav-link" href="../../../../../project/index.html"> 
 <span class="menu-text">Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../updates/index.html"> 
+    <a class="nav-link" href="../../../../../updates/index.html"> 
 <span class="menu-text">Updates</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../talks/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../../../../talks/index.html"> 
 <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications/index.html"> 
+    <a class="nav-link" href="../../../../../publications/index.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
 </ul>
@@ -184,15 +147,29 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Talks</h1>
-            <p class="subtitle lead">Communicating progress on the use of smart data from digital sources to capture human mobility and migration</p>
-                      </div>
+      <h1 class="title">DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">talks</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Carmen Cabrera-Arnau </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">January 23, 2025</p>
+      </div>
+    </div>
     
       
     </div>
@@ -201,9 +178,9 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="talks">talks <span class="quarto-category-count">(4)</span></div><div class="category" data-category="updates">updates <span class="quarto-category-count">(3)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -211,228 +188,18 @@ window.Quarto = {
 
 
 
-<p>We will be sharing our talks documenting the progress and outcomes on DEBIAS.</p>
+<p>Carmen was pleased to be invited as a guest lecturer at the <a href="https://mastergeotech.info/master-program/description/">Erasmus Mundus MSc in Geospatial Technologies program</a>. This international Master’s program is supported by the EU through the European Commission’s Erasmus+ programme, Erasmus Mundus action (2021–2027, project number 101049796). The MSc in Geospatial Technologies is a collaborative effort among three institutions, and the students get to spend a semester at each:</p>
+<ul>
+<li><p>University of Münster,&nbsp;<a href="http://ifgi.uni-muenster.de/">Institute for Geoinformatics</a>, Münster, Germany.</p></li>
+<li><p>Universitat Jaume I (UJI), Castellón,&nbsp;<a href="http://www.geotec.uji.es/">Dept. Lenguajes y Sistemas Informaticos</a>, Castellón, Spain.</p></li>
+<li><p>Universidade Nova de Lisboa,&nbsp;<a href="http://www.novaims.unl.pt/index.asp">NOVA – Information Management School</a>, Lisboa, Portugal.</p></li>
+</ul>
+<p>During her lecture at UJI, Carmen shared insights into DEBIAS and provided an introduction to network analysis for GIS. She demonstrated the potential of digital trace data in research while addressing the challenges related to addressing representativity biases in such data. The session encouraged students to critically consider both the opportunities and limitations of mobility data derived from digital technologies.</p>
+<p><img src="images/UJI_image.jpg" class="img-fluid"></p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="updates" data-listing-date-sort="1737676800000" data-listing-file-modified-sort="1738049833453" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
-<a href="../talks/posts/2025/01/23/fcdo.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../talks/posts/2025/01/23/images/fcdo.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-DEBIAS at the FCDO
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('updates'); return false;">
-updates
-</div>
-</div>
-<div class="card-text listing-description">
-Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Francisco Rowe
-</div>
-<div class="listing-date">
-Jan 24, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="talks" data-listing-date-sort="1737590400000" data-listing-file-modified-sort="1738050134459" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="156">
-<a href="../talks/posts/2025/01/23-2/uji.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../talks/posts/2025/01/23-2/images/UJI_image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('talks'); return false;">
-talks
-</div>
-</div>
-<div class="card-text listing-description">
-Carmen was pleased to be invited as a guest lecturer at the Erasmus Mundus MSc in Geospatial Technologies program. This international Master’s program is supported by the EU…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Carmen Cabrera-Arnau
-</div>
-<div class="listing-date">
-Jan 23, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="updates" data-listing-date-sort="1731628800000" data-listing-file-modified-sort="1738049833453" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="55">
-<a href="../talks/posts/2024/11/15/lambda.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../talks/posts/2024/11/15/images/debias-talk.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-DEBIAS contributes to the 2024 LAMBDA meeting
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('updates'); return false;">
-updates
-</div>
-</div>
-<div class="card-text listing-description">
-DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Francisco Rowe
-</div>
-<div class="listing-date">
-Nov 15, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="updates" data-listing-date-sort="1729638000000" data-listing-file-modified-sort="1738049833448" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<a href="../talks/posts/2024/10/23/casa.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../talks/posts/2024/10/23/images/casa-desc.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-DEBIAS at CASA-UCL
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('updates'); return false;">
-updates
-</div>
-</div>
-<div class="card-text listing-description">
-Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Francisco Rowe
-</div>
-<div class="listing-date">
-Oct 23, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="talks" data-listing-date-sort="1726527600000" data-listing-file-modified-sort="1727976953787" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="97">
-<a href="../talks/posts/2024/09/17/mpidr.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../talks/posts/2024/09/17/images/fco-mpidr-photo.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Research visit at the Max Planck Institute for Demographic Research
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('talks'); return false;">
-talks
-</div>
-</div>
-<div class="card-text listing-description">
-Francisco visited the the Max Planck Institute for Demographic Research (MPIDR). He participated in the <em>International migration in Central and Eastern Europe: changing…</em><em></em>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Francisco Rowe
-</div>
-<div class="listing-date">
-Sep 17, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="talks" data-listing-date-sort="1725836400000" data-listing-file-modified-sort="1727976953784" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="111">
-<a href="../talks/posts/2024/09/09/bsps.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../talks/posts/2024/09/09/images/bath-photo.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Presentations at the British Society for Population Studies conference
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('talks'); return false;">
-talks
-</div>
-</div>
-<div class="card-text listing-description">
-The DEBIAS team participated in the British Society for Population Studies conference in Bath. Francisco organised and chaired the session <em>“Migration 2: Migration, digital…</em>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Francisco Rowe
-</div>
-<div class="listing-date">
-Sep 9, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="talks" data-listing-date-sort="1725231600000" data-listing-file-modified-sort="1727976953783" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
-<a href="../talks/posts/2024/09/02/exeter.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../talks/posts/2024/09/02/images/talk-ccs.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Keynote at the Annual Conference on Complex Systems
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('talks'); return false;">
-talks
-</div>
-</div>
-<div class="card-text listing-description">
-Digital trace data, such as location data collected from smartphone apps, offers a unique opportunity to analyse population movements at high spatiotemporal granularity…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Carmen Cabrera-Arnau
-</div>
-<div class="listing-date">
-Sep 2, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -868,7 +635,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
 </ul>
-    </div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/de-bias/debias/edit/main/talks/posts/2025/01/23-2/uji.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/de-bias/debias/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>

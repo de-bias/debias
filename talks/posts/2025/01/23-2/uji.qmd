@@ -1,5 +1,5 @@
 ---
-title: "Invited Lecture at Erasmus Mundus MSc in Geospatial Technologies Program"
+title: "DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program"
 author: "Carmen Cabrera-Arnau"
 date: "2025-01-23"
 categories: [talks]
