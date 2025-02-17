@@ -32,6 +32,7 @@ website:
       - updates/index.qmd
       - talks/index.qmd
       - publications/index.qmd
+      - book/index.qmd
 
 
   page-navigation: true

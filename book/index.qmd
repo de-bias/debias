@@ -1,0 +1,12 @@
+---
+pagetitle: "Book | DEBIAS"
+title: "Book"
+subtitle: Documenting best practices.
+search: true
+---
+
+## Book
+
+DEBIAS has inspired us to write a book as we have come across many challenges in the engineering and analysis of location data from mobile phones to measure human mobility. There are multiple approaches exist to process mobile phone data in order to measuring mobility. In many cases, they result in wildly different outcomes and representations of mobility, such as defining home or work locations. Arguably, this situation is due to none to little available guidance on how to process mobile phone data to capture mobility. Algorithmic decisions are thus resulting in significant differences, prompting to draw misleading conclusions from the analysis and hence misinforming any resulting decisions. Missing is a central catalogue documenting what we consider to be best practice in the expanding field of [human mobility science](https://doi.org/10.1038/s43588-023-00469-4).
+
+This page leads a [website](https://de-bias.github.io/hms-book/) our upcoming book in development: **Human Mobility Science: Approaches, Applications and Tools** which aims to provide best practice standard approaches, applications and tools on how to process and engineer location data from mobile phones to measure, analyse and model human mobility patterns.

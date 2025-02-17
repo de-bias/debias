@@ -1,43 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>de-bias.github.io/debias/project/index.html</loc>
-    <lastmod>2024-09-29T18:31:47.000Z</lastmod>
+    <loc>de-bias.github.io/debias/book/index.html</loc>
+    <lastmod>2025-02-17T06:48:11.731Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</loc>
-    <lastmod>2024-09-06T14:57:27.000Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/index.html</loc>
+    <lastmod>2025-02-17T06:52:25.945Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</loc>
-    <lastmod>2024-09-06T14:53:24.000Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/09/13/un-task-team.html</loc>
+    <lastmod>2025-02-17T06:52:25.958Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/talks/posts/2025/01/23-2/uji.html</loc>
-    <lastmod>2025-01-28T07:42:14.459Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</loc>
+    <lastmod>2025-02-17T06:52:25.975Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</loc>
-    <lastmod>2025-01-28T07:37:13.457Z</lastmod>
+    <lastmod>2025-02-17T06:52:25.975Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/talks/posts/2024/10/23/casa.html</loc>
-    <lastmod>2025-01-28T07:37:13.448Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/17/debias-mexico.html</loc>
+    <lastmod>2025-02-17T06:52:25.984Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/talks/posts/2025/01/23/fcdo.html</loc>
-    <lastmod>2025-01-28T07:37:13.453Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</loc>
+    <lastmod>2025-02-17T06:52:25.999Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/talks/posts/2024/11/15/lambda.html</loc>
-    <lastmod>2025-01-28T07:37:13.453Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</loc>
-    <lastmod>2025-01-28T07:37:13.457Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2025/01/24/transport-geo.html</loc>
+    <lastmod>2025-02-17T06:52:26.006Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/index.html</loc>
-    <lastmod>2024-10-03T17:35:53.783Z</lastmod>
+    <lastmod>2025-02-17T06:52:25.907Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2024/09/17/mpidr.html</loc>
+    <lastmod>2025-02-17T06:52:25.921Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2024/10/23/casa.html</loc>
+    <lastmod>2025-02-17T06:52:25.921Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2025/01/23/fcdo.html</loc>
+    <lastmod>2025-02-17T06:52:25.941Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/publications/index.html</loc>
+    <lastmod>2025-02-17T06:52:25.906Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2025/01/23-2/uji.html</loc>
+    <lastmod>2025-02-17T06:52:25.941Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2024/11/15/lambda.html</loc>
+    <lastmod>2025-02-17T06:52:25.931Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2024/09/02/exeter.html</loc>
+    <lastmod>2025-02-17T06:52:25.908Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2024/09/09/bsps.html</loc>
+    <lastmod>2025-02-17T06:52:25.912Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/index.html</loc>
+    <lastmod>2025-02-17T06:52:25.904Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</loc>
+    <lastmod>2025-02-17T06:52:26.000Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/20/valencia-floods.html</loc>
+    <lastmod>2025-02-17T06:52:25.991Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/15/lambda.html</loc>
+    <lastmod>2025-02-17T06:52:25.984Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</loc>
+    <lastmod>2025-02-17T06:52:25.971Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</loc>
+    <lastmod>2025-02-17T06:52:25.949Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</loc>
+    <lastmod>2025-02-17T06:52:25.948Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/project/index.html</loc>
+    <lastmod>2025-02-17T06:52:25.905Z</lastmod>
   </url>
 </urlset>

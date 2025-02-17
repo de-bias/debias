@@ -1,17 +1,5 @@
 [
   {
-    "listing": "/talks/index.html",
-    "items": [
-      "/talks/posts/2025/01/23/fcdo.html",
-      "/talks/posts/2025/01/23-2/uji.html",
-      "/talks/posts/2024/11/15/lambda.html",
-      "/talks/posts/2024/10/23/casa.html",
-      "/talks/posts/2024/09/17/mpidr.html",
-      "/talks/posts/2024/09/09/bsps.html",
-      "/talks/posts/2024/09/02/exeter.html"
-    ]
-  },
-  {
     "listing": "/updates/index.html",
     "items": [
       "/updates/posts/2025/01/24/transport-geo.html",
@@ -26,6 +14,18 @@
       "/updates/posts/2024/09/13/un-task-team.html",
       "/updates/posts/2024/09/09/logo.html",
       "/updates/posts/2024/08/15/kickoff.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/posts/2025/01/23/fcdo.html",
+      "/talks/posts/2025/01/23-2/uji.html",
+      "/talks/posts/2024/11/15/lambda.html",
+      "/talks/posts/2024/10/23/casa.html",
+      "/talks/posts/2024/09/17/mpidr.html",
+      "/talks/posts/2024/09/09/bsps.html",
+      "/talks/posts/2024/09/02/exeter.html"
     ]
   }
 ]
