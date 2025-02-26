@@ -1,6 +1,6 @@
 ---
 title: "DEBIAS joins the Collaborative Group on Nowcasting Populations"
-author: "Carmen Cabrera-Arnau"
+author: "Carmen Cabrera"
 date: "2025-01-15"
 categories: [updates]
 image: "images/nowcasting.png"

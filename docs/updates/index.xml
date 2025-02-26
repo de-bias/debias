@@ -14,7 +14,7 @@
 <title>DEBIAS</title>
 <link>de-bias.github.io/debias/updates/</link>
 </image>
-<generator>quarto-1.6.39</generator>
+<generator>quarto-1.5.55</generator>
 <lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>DEBIAS’s new publication</title>
@@ -78,7 +78,7 @@
 </item>
 <item>
   <title>DEBIAS joins the Collaborative Group on Nowcasting Populations</title>
-  <dc:creator>Carmen Cabrera-Arnau</dc:creator>
+  <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</link>
   <description><![CDATA[ 
 
@@ -317,7 +317,7 @@
 
 
 
-<p>This is the first post going out form the DEBIAS project. We will use this blog to keep track of progress on the project and to announce milestones of the project along the way. If you are interested in human mobility, smart data from digital sources (including mobile phone data), geographic data science and AI, keep an eye on the blog and feel free to get in touch with <a href="mailto:f.rowe-gonzalez%40liverpool.ac.uk">Francisco</a> and / or <a href="mailto:c.cabrera-arnau%40liverpool.ac.uk">Carmen</a>!</p>
+<p>This is the first post going out form the DEBIAS project. We will use this blog to keep track of progress on the project and to announce milestones of the project along the way. If you are interested in human mobility, smart data from digital sources (including mobile phone data), geographic data science and AI, keep an eye on the blog and feel free to get in touch with <a href="mailto:f.rowe-gonzalez%40liverpool.ac.uk">Francisco</a> and / or <a href="mailto:c.cabrera%40liverpool.ac.uk">Carmen</a>!</p>
 <p><img src="de-bias.github.io/debias/updates/posts/2024/08/15/images/launch.jpg" class="img-fluid"></p>
 
 

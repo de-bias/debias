@@ -1,6 +1,6 @@
 ---
 title: "Keynote at the Annual Conference on Complex Systems"
-author: "Carmen Cabrera-Arnau"
+author: "Carmen Cabrera"
 date: "2024-09-02"
 categories: [talks]
 image: "images/talk-ccs.jpeg"

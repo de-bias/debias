@@ -1,6 +1,6 @@
 ---
 title: "DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program"
-author: "Carmen Cabrera-Arnau"
+author: "Carmen Cabrera"
 date: "2025-01-23"
 categories: [talks]
 image: "images/UJI_image.jpg"
