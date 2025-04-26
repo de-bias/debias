@@ -1,0 +1,12 @@
+---
+title: "DEBIAS at Complenet 2025"
+author: "Carmen Cabrera"
+date: "2025-04-25"
+categories: [talks]
+image: "images/Fortaleza.png"
+---
+
+
+Carmen was invited to deliver a keynote talk at the International Conference on Complex Networks, [CompleNet 2025](https://complenet.weebly.com/), held in Fortaleza, Brazil, from April 22–25, 2025. This interdisciplinary conference brings together researchers and practitioners from a wide range of fields working on topics related to complex networks, including the study of human mobility. During the keynote, Carmen shared insights into the use of digital trace data for mobility research and discussed key challenges, with a particular focus on biases inherent in such data. She presented recent work using Facebook data to examine long-term disparities in the recovery of urban mobility following COVID-19 in Latin America. This research, currently available as a [preprint](https://arxiv.org/abs/2504.15871), proposes a novel methodology for data imputation designed to address biases arising from missing data.
+
+![](images/Fortaleza.png)
