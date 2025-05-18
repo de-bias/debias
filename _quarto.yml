@@ -45,7 +45,7 @@ website:
   page-footer:
     background: "#000000"
     left: |
-      [Copyright &copy; 2024 Francisco Rowe, Carmen Cabrera-Arnau]
+      [Copyright &copy; 2024 Francisco Rowe, Carmen Cabrera]
     center:
       - href: https://github.com/de-bias
         icon: github
