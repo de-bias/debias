@@ -7,9 +7,6 @@ author:
 date: '2025-02-03'
 slug: quanitfying-bias
 image: featured.png
-categories:
-  - Research
-  - Methods
 description: ' '
 subtitle: ' '
 links:
@@ -17,6 +14,8 @@ links:
   name: Publication
   url: https://arxiv.org/abs/2509.02603
 ---
+
+## URL: <https://arxiv.org/abs/2509.02603>
 
 ## Abstract
 
