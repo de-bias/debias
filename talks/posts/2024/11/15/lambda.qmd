@@ -2,7 +2,7 @@
 title: "DEBIAS contributes to the 2024 LAMBDA meeting"
 author: "Francisco Rowe"
 date: "2024-11-15"
-categories: [updates]
+categories: [talks]
 image: "images/debias-talk.png"
 ---
 

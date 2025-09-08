@@ -2,7 +2,7 @@
 title: "DEBIAS at CASA-UCL"
 author: "Francisco Rowe"
 date: "2024-10-23"
-categories: [updates]
+categories: [talks]
 image: "images/casa-desc.png"
 ---
 

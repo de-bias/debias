@@ -2,7 +2,7 @@
 title: "DEBIAS at the FCDO"
 author: "Francisco Rowe"
 date: "2025-01-24"
-categories: [updates]
+categories: [talks]
 image: "images/fcdo.jpg"
 editor: 
   markdown: 
