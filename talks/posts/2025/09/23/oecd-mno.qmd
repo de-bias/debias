@@ -1,0 +1,15 @@
+---
+title: "Integrating MNO Data into Official Statistics: Challenges and Innovation"
+author: "Francisco Rowe"
+date: "2025-09-23"
+categories: [talks]
+image: "https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_oecd_mno/featured.png"
+---
+
+Francisco presented *From experimental to official migration statistics: A conceptual and actionable framework for quality assurance in mobile-network-operator-derived estimates* at *Integrating MNO Data into Official Statistics: challenges and innovation*, held at the Organisation for Economic Co-operation and Development (OECD), Paris, France, on 23 September 2025.
+
+This talk presented a conceptual and actionable framework for quality assurance in mobile-network-operator-derived migration estimates, supporting the transition from experimental outputs to official migration statistics.
+
+The presentation focused on how migration estimates derived from mobile network operator data can move from promising experimental products toward more robust and trusted official statistical outputs. It highlighted the need for clear quality assurance principles, transparent evaluation, and practical implementation pathways to support responsible use in official statistics.
+
+![](https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_oecd_mno/featured.png)

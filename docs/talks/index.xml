@@ -14,8 +14,126 @@
 <title>DEBIAS</title>
 <link>de-bias.github.io/debias/talks/</link>
 </image>
-<generator>quarto-1.5.55</generator>
-<lastBuildDate>Tue, 02 Sep 2025 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Wed, 25 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Seminario Ciencias Sociales at Universidad de la Republica</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2026/03/25/seminario-ciencias-sociales.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>A systematic machine learning approach to measure and assess biases in mobile phone population data</em> at Seminario Ciencias Sociales, hosted by Universidad de la Republica in Montevideo, Uruguay, on 25 March 2026.</p>
+<p>Traditional sources of population data, such as censuses and surveys, are costly, infrequent, and often unavailable in crisis-affected regions. Mobile phone application data offer near real-time, high-resolution insights into population distribution, but their utility is undermined by unequal access to and use of digital technologies, creating biases that threaten representativeness. Despite growing recognition of these issues, there is still no standard framework to measure and explain such biases, limiting the reliability of digital traces for research and policy.</p>
+<p>The talk presented a systematic, replicable framework to quantify coverage bias in aggregated mobile phone application data without requiring individual-level demographic attributes. The approach combines a transparent indicator of population coverage with explainable machine learning to identify contextual drivers of spatial bias. Using four datasets for the United Kingdom benchmarked against the 2021 census, the work shows that mobile phone data consistently achieve higher population coverage than major national surveys, but substantial biases persist across data sources and subnational areas.</p>
+<p>Coverage bias is strongly associated with demographic, socioeconomic, and geographic features, often in complex nonlinear ways. Contrary to common assumptions, multi-application datasets do not necessarily reduce bias compared to single-app sources. These findings provide a foundation for bias assessment standards in mobile phone data and offer practical tools for researchers, statistical agencies, and policymakers seeking to use these data responsibly and equitably.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2026/03/25/images/IMG_8190.PNG" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2026/03/25/seminario-ciencias-sociales.html</guid>
+  <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2026/03/25/images/IMG_8190.PNG" medium="image"/>
+</item>
+<item>
+  <title>London Universities Population Seminar Series at the London School of Economics</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2026/01/20/london-universities-population-seminar-series.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Correcting Distorted Human Population Data from Mobile Phone Location Data</em> at the London Universities Population Seminar Series, hosted at Connaught House, London School of Economics, on 20 January 2026.</p>
+<p>Access to human population data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications and internet protocol data, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.</p>
+<p>The talk presented work from DEBIAS, one of the Smart Data Research UK-funded accelerator projects, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted digital footprint human mobility counts. Third, it presented plans for future work in this area.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2026/01/20/images/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2026/01/20/london-universities-population-seminar-series.html</guid>
+  <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2026/01/20/images/featured.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>International Organization for Migration Report Launch</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/11/25/iom-report-launch.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Dynamic Estimates of Displacement in Disaster Regions</em> at the International Organization for Migration Report Launch, held online on 25 November 2025.</p>
+<p>This talk presented dynamic estimates of displacement in disaster regions, highlighting policy-relevant approaches to triangulate multiple data sources for timely and actionable evidence.</p>
+<p>Access to timely information on displacement is essential for operational response and recovery planning in disaster-affected regions. The presentation focused on how digital trace data and related information streams can be combined to generate dynamic estimates that support decision-making under rapidly changing conditions.</p>
+<p>The talk discussed the value of integrating multiple data sources to produce more responsive and policy-relevant measures of displacement, helping humanitarian and policy actors better understand population movements and target support where it is most needed.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2025/11/25/images/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/11/25/iom-report-launch.html</guid>
+  <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2025/11/25/images/featured.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Wittgenstein Centre Conference 2025</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/11/19/wittgenstein-centre-conference.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Estimating Internal Displacement in Ukraine from High-Frequency GPS Mobile Phone Data</em> at the Wittgenstein Centre Conference 2025, <em>Demographic Perspectives on Migration in the 21st Century</em>, hosted at the Austrian Academy of Sciences in Vienna, Austria, on 19 November 2025.</p>
+<p>This talk presented methods to estimate internal displacement in Ukraine from high-frequency GPS mobile phone data, focusing on timely measurement and policy-relevant inference under crisis conditions.</p>
+<p>The presentation examined how high-frequency mobile phone location data can support the measurement of internal displacement during rapidly evolving humanitarian crises. It emphasized the importance of producing timely and policy-relevant evidence to better understand population movements under conditions of conflict and instability.</p>
+<p>The talk highlighted approaches to transform GPS mobile phone data into useful displacement estimates, contributing to broader efforts to strengthen migration and displacement research with new forms of digital trace data.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2025/11/19/images/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/11/19/wittgenstein-centre-conference.html</guid>
+  <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2025/11/19/images/featured.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Integrating MNO Data into Official Statistics: Challenges and Innovation</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/09/23/oecd-mno.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>From experimental to official migration statistics: A conceptual and actionable framework for quality assurance in mobile-network-operator-derived estimates</em> at <em>Integrating MNO Data into Official Statistics: challenges and innovation</em>, held at the Organisation for Economic Co-operation and Development (OECD), Paris, France, on 23 September 2025.</p>
+<p>This talk presented a conceptual and actionable framework for quality assurance in mobile-network-operator-derived migration estimates, supporting the transition from experimental outputs to official migration statistics.</p>
+<p>The presentation focused on how migration estimates derived from mobile network operator data can move from promising experimental products toward more robust and trusted official statistical outputs. It highlighted the need for clear quality assurance principles, transparent evaluation, and practical implementation pathways to support responsible use in official statistics.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_oecd_mno/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/09/23/oecd-mno.html</guid>
+  <pubDate>Mon, 22 Sep 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_oecd_mno/featured.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>DEBIAS at the British Society for Population Studies (BSPS) Conference</title>
   <dc:creator>Carmen Cabrera</dc:creator>
@@ -36,6 +154,121 @@
   <guid>de-bias.github.io/debias/talks/posts/2025/09/03/bsps.html</guid>
   <pubDate>Tue, 02 Sep 2025 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2025/09/03/images/bsps.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Royal Statistical Society International Conference 2025</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/09/02/rss-international.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco contributed to the Smart Data Research UK panel <em>“Let’s do good things with data”</em> at the Royal Statistical Society International Conference 2025, held at the Edinburgh International Conference Centre (EICC), The Exchange, Edinburgh, Scotland, on 2 September 2025.</p>
+<p>This panel contribution focused on doing socially impactful work with data, highlighting opportunities, challenges, and practical pathways for using data for public good.</p>
+<p>The session discussed how data-driven research can support socially meaningful outcomes when paired with strong methodological standards, thoughtful governance, and a clear focus on public value. It also reflected on the role of collaborative initiatives such as Smart Data Research UK in creating pathways for responsible and effective data use.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rss_intl/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/09/02/rss-international.html</guid>
+  <pubDate>Mon, 01 Sep 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rss_intl/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>University of Queensland</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/07/11/university-of-queensland.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Correcting Distorted Human Mobility Data from Mobile Phone Applications</em> at the School of the Environment, Faculty of Science, University of Queensland, Brisbane, Australia, on 11 July 2025.</p>
+<p>Access to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.</p>
+<p>The talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted digital footprint human mobility counts. Third, it presented plans for future work in this area.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_uq/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/07/11/university-of-queensland.html</guid>
+  <pubDate>Thu, 10 Jul 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_uq/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Department of Mathematics and Geospatial Science Seminar Series at RMIT</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/06/26/rmit.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Beyond the Census: Leveraging digital data sources to dynamically capture human mobility and migration</em> at the Department of Mathematics and Geospatial Science Seminar Series, RMIT, in Melbourne, Australia, on 26 June 2025.</p>
+<p>Access to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.</p>
+<p>The talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rmit/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/06/26/rmit.html</guid>
+  <pubDate>Wed, 25 Jun 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rmit/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Geography Seminar Series at the University of Melbourne</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/06/24/university-of-melbourne-geography.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Correcting Distorted Human Mobility Data from Mobile Phone Applications</em> at the Geography Seminar Series, Geography Department, University of Melbourne, Melbourne, Australia, on 24 June 2025.</p>
+<p>Access to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.</p>
+<p>The talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_unimelb_geography/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/06/24/university-of-melbourne-geography.html</guid>
+  <pubDate>Mon, 23 Jun 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_unimelb_geography/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Transport Lab Seminar Series at the University of Sydney</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/06/20/transport-lab-sydney.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Correcting Distorted Human Mobility Data from Mobile Phone Applications</em> at the Transport Lab Seminar Series, University of Sydney, Sydney, Australia, on 20 June 2025.</p>
+<p>Access to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.</p>
+<p>The talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from mobile phone applications and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from mobile phone applications. Third, it presented plans for future work in this area.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_transportlab_sydney/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/06/20/transport-lab-sydney.html</guid>
+  <pubDate>Thu, 19 Jun 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_transportlab_sydney/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>DEBIAS at the FCDO</title>

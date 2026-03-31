@@ -1,0 +1,15 @@
+---
+title: "Royal Statistical Society International Conference 2025"
+author: "Francisco Rowe"
+date: "2025-09-02"
+categories: [talks]
+image: "https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rss_intl/featured.png"
+---
+
+Francisco contributed to the Smart Data Research UK panel *"Let's do good things with data"* at the Royal Statistical Society International Conference 2025, held at the Edinburgh International Conference Centre (EICC), The Exchange, Edinburgh, Scotland, on 2 September 2025.
+
+This panel contribution focused on doing socially impactful work with data, highlighting opportunities, challenges, and practical pathways for using data for public good.
+
+The session discussed how data-driven research can support socially meaningful outcomes when paired with strong methodological standards, thoughtful governance, and a clear focus on public value. It also reflected on the role of collaborative initiatives such as Smart Data Research UK in creating pathways for responsible and effective data use.
+
+![](https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rss_intl/featured.png)
