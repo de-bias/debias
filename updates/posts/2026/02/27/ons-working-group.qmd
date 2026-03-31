@@ -1,0 +1,25 @@
+---
+title: "Francisco joins the ONS Working Group on Internal Migration Methods Development"
+author: "Francisco Rowe"
+date: "2026-02-27"
+categories: [updates]
+image: "https://service-manual.ons.gov.uk/assets/_800xAUTO_crop_center-center_none/example-brand-logo-english-black.svg"
+editor:
+  markdown:
+    wrap: sentence
+---
+
+Francisco has been invited to join the Office for National Statistics (ONS) Working Group on Internal Migration Methods Development.
+
+The Working Group on Internal Migration Methods Development (IMMD) will support the ONS on the development and implementation of improved methods to estimate internal migration and cross-border flows, as part of a wider programme of work to improve population estimates.
+
+The group will provide a forum for discussion and feedback on research into new data sources and methods to estimate internal migration, helping ensure that the interests and views of users are represented. It will also support broader assurance efforts so that any new method is of suitable quality.
+
+In its first stage, members of the group will provide:
+
+-   advice on new data sources
+-   feedback on research
+-   advice on user requirements and potential areas of further research
+-   endorsement that users' views and data needs have been fully considered and incorporated where possible
+
+![](https://service-manual.ons.gov.uk/assets/_800xAUTO_crop_center-center_none/example-brand-logo-english-black.svg){fig-align="center" width="500"}

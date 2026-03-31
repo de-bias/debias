@@ -14,221 +14,11 @@
     "text": "DEBIAS has inspired us to write a book as we have come across many challenges in the engineering and analysis of location data from mobile phones to measure human mobility. There are multiple approaches exist to process mobile phone data in order to measuring mobility. In many cases, they result in wildly different outcomes and representations of mobility, such as defining home or work locations. Arguably, this situation is due to none to little available guidance on how to process mobile phone data to capture mobility. Algorithmic decisions are thus resulting in significant differences, prompting to draw misleading conclusions from the analysis and hence misinforming any resulting decisions. Missing is a central catalogue documenting what we consider to be best practice in the expanding field of human mobility science.\nThis page leads a website our upcoming book in development: Human Mobility Science: Approaches, Applications and Tools which aims to provide best practice standard approaches, applications and tools on how to process and engineer location data from mobile phones to measure, analyse and model human mobility patterns."
   },
   {
-    "objectID": "updates/posts/2024/09/13/un-task-team.html",
-    "href": "updates/posts/2024/09/13/un-task-team.html",
-    "title": "DEBIAS invited to a UN Committee of Experts",
+    "objectID": "updates/posts/2024/08/15/kickoff.html",
+    "href": "updates/posts/2024/08/15/kickoff.html",
+    "title": "Kicking off",
     "section": "",
-    "text": "Francisco has been invited to the United Nations Committee of Experts on Big Data and Data Science for Official Statistics. He will be contributing to the task team on Mobile Phone Data for Official Statistics and Policy, leading the task team on Migration Statistics and contributing to the Synthetic Mobile Phone Data group."
-  },
-  {
-    "objectID": "updates/posts/2024/10/23/casa.html",
-    "href": "updates/posts/2024/10/23/casa.html",
-    "title": "DEBIAS at CASA-UCL",
-    "section": "",
-    "text": "Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.\nThis encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology."
-  },
-  {
-    "objectID": "updates/posts/2024/10/10/un-sprint.html",
-    "href": "updates/posts/2024/10/10/un-sprint.html",
-    "title": "DEBIAS at a UN webinar on Social and Demographic Statistics",
-    "section": "",
-    "text": "Francisco was invited to contribute one of the Sprint webinar of the Friends of Chair (FoC) Group on Social and Demographic Statistics. The series of Sprint webinars aims to explore key building blocks for an overarching conceptual framework for a social and demographic statistics system. The FoC group’s objective is to formulate strategic recommendations to enhance social and demographic statistics that better reflect society and its connections with the environment and the economy. The group has identified five key building blocks for this framework: people, relationships, outcomes, time, and places.\nFrancisco was invited as a panelist for a webinar on the critical role of information on “places” and geography to improve social and demographic statistics is co-organised by the National Institute of Statistics, Geography and Informatics (INEGI), Mexico, the National Institute of Statistics of Rwanda, the Economic Commission for Latin America and the Caribbean (ECLAC) and the UN Statistics Division (UNSD). Francisco was invited given his expertise in spatial inequalities and geographic data science.\nPlaces are crucial, but often underutilized, building block of social and demographic statistics. This session will examine how the places where people grow up, live, and work profoundly influence their lives, exposing disparities and shaping policy decisions. By exploring the use of georeferenced data, satellite imagery, and small area estimation techniques to fill data gaps, we will highlight how geography can integrate diverse data sources and enhance dissemination through geoportals. The insights gained from this session will inform recommendations on how to more effectively incorporate geography into social and demographic statistics for improved policymaking."
-  },
-  {
-    "objectID": "updates/posts/2024/11/17/debias-mexico.html",
-    "href": "updates/posts/2024/11/17/debias-mexico.html",
-    "title": "DEBIAS expands to Mexico",
-    "section": "",
-    "text": "We have secured additional funding for DEBIAS to extend the work to Mexico working with Miguel González-Leonardo from El Colegio De México, supported by its Programa Interdisciplinario de Ciencia de Datos."
-  },
-  {
-    "objectID": "updates/posts/2025/01/15/nowcasting.html",
-    "href": "updates/posts/2025/01/15/nowcasting.html",
-    "title": "DEBIAS joins the Collaborative Group on Nowcasting Populations",
-    "section": "",
-    "text": "We are thrilled to announce that our DEBIAS team has joined the Collaborative Group on Nowcasting Populations (CGNP)! This initiative, led by Dr. Andrea Aparicio Castro and the Nowcasting Populations (NowPop) team at the Leverhulme Centre for Demographic Science (LCDS), is funded by Oxford University’s Van Houten Fund.\nThe CGNP initiative brings together academics from leading institutions and research centers, including Oxford University’s Department of Sociology, University of Manchester’s Department of Social Statistics, University of Southampton and the University of Liverpool’s Geographic Data Science Lab.\nThrough a series of collaborative meetings hosted by the participating institutions, we aim to advance knowledge in real-time population estimation, mobility, and migration. Combining Bayesian methodologies with digital trace and traditional data sources, CGNP addresses critical challenges in contexts where conventional data collection is limited, such as conflict zones, offering timely insights to support humanitarian efforts.\nWe are excited to bring the expertise of the DEBIAS project to this collaboration. Stay tuned for updates on our collaborative journey with CGNP!\nFor more information about CGNP, contact Dr. Andrea Aparicio-Castro."
-  },
-  {
-    "objectID": "updates/posts/2025/01/24/transport-geo.html",
-    "href": "updates/posts/2025/01/24/transport-geo.html",
-    "title": "DEBIAS’s new publication",
-    "section": "",
-    "text": "Francisco published a new article in the Journal of Transport Geography. The paper explores data from Beijing’s bus system. Specifically the paper sought to address: How predictable are public transit trips, and what factors shape this predictability? Leveraging 20 million bus trips from Beijing, the study analysed patterns of spatial and temporal variability in bus use, with the idea of informing interventions to create more sustainable transit systems.\nKey takeaways: ️\n\nBus trips beyond 10 km from urban centers show greater variability in timing and routes.\nA higher density of bus routes reduces unpredictability, but adding too many routes has diminishing returns.\nBoth low and high road densities increase variability, impacting travel predictability.\n\nUsing explainable machine learning (XGBoost and SHAP values), our analysis presents evidence of nonlinear relationships and tipping points—critical for designing responsive, efficient transit systems.\nWhat does this mean for urban mobility?\n\nPrioritize areas on the outskirts of cities with tailored route planning.\nFocus on densifying road networks in sparse regions, but avoid oversaturation.\nCreate transit systems that adapt to behavioral patterns, offering more flexibility and reliability.\n\nThese findings are a step toward building transit systems that reduce car dependency, combat climate change, and enhance urban sustainability."
-  },
-  {
-    "objectID": "updates/posts/2025/04/24/complenet.html",
-    "href": "updates/posts/2025/04/24/complenet.html",
-    "title": "DEBIAS at Complenet 2025",
-    "section": "",
-    "text": "Carmen was invited to deliver a keynote talk at the International Conference on Complex Networks, CompleNet 2025, held in Fortaleza, Brazil, from April 22–25, 2025. This interdisciplinary conference brings together researchers and practitioners from a wide range of fields working on topics related to complex networks, including the study of human mobility. During the keynote, Carmen shared insights into the use of digital trace data for mobility research and discussed key challenges, with a particular focus on biases inherent in such data. She presented recent work using Facebook data to examine long-term disparities in the recovery of urban mobility following COVID-19 in Latin America. This research, currently available as a preprint, proposes a novel methodology for data imputation designed to address biases arising from missing data."
-  },
-  {
-    "objectID": "talks/posts/2026/03/25/seminario-ciencias-sociales.html",
-    "href": "talks/posts/2026/03/25/seminario-ciencias-sociales.html",
-    "title": "Seminario Ciencias Sociales at Universidad de la Republica",
-    "section": "",
-    "text": "Francisco presented A systematic machine learning approach to measure and assess biases in mobile phone population data at Seminario Ciencias Sociales, hosted by Universidad de la Republica in Montevideo, Uruguay, on 25 March 2026.\nTraditional sources of population data, such as censuses and surveys, are costly, infrequent, and often unavailable in crisis-affected regions. Mobile phone application data offer near real-time, high-resolution insights into population distribution, but their utility is undermined by unequal access to and use of digital technologies, creating biases that threaten representativeness. Despite growing recognition of these issues, there is still no standard framework to measure and explain such biases, limiting the reliability of digital traces for research and policy.\nThe talk presented a systematic, replicable framework to quantify coverage bias in aggregated mobile phone application data without requiring individual-level demographic attributes. The approach combines a transparent indicator of population coverage with explainable machine learning to identify contextual drivers of spatial bias. Using four datasets for the United Kingdom benchmarked against the 2021 census, the work shows that mobile phone data consistently achieve higher population coverage than major national surveys, but substantial biases persist across data sources and subnational areas.\nCoverage bias is strongly associated with demographic, socioeconomic, and geographic features, often in complex nonlinear ways. Contrary to common assumptions, multi-application datasets do not necessarily reduce bias compared to single-app sources. These findings provide a foundation for bias assessment standards in mobile phone data and offer practical tools for researchers, statistical agencies, and policymakers seeking to use these data responsibly and equitably."
-  },
-  {
-    "objectID": "talks/posts/2024/09/17/mpidr.html",
-    "href": "talks/posts/2024/09/17/mpidr.html",
-    "title": "Research visit at the Max Planck Institute for Demographic Research",
-    "section": "",
-    "text": "Francisco visited the the Max Planck Institute for Demographic Research (MPIDR). He participated in the International migration in Central and Eastern Europe: changing patterns, determinants, and measurement challenges. He was invited to deliver a presentation on a paper published in Population, Space and Place making use of digital footprint data to identify the potential subnational areas of settlement for Ukrainian refugees across Europe. Francisco was also invited to contribute to the flagship project Human Migration Database led by Emilio Zagheni. This database is the first-of-its-kind seeking to offer global data on annual international migration flows between countries."
-  },
-  {
-    "objectID": "talks/posts/2024/10/23/casa.html",
-    "href": "talks/posts/2024/10/23/casa.html",
-    "title": "DEBIAS at CASA-UCL",
-    "section": "",
-    "text": "Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.\nThis encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology."
-  },
-  {
-    "objectID": "talks/posts/2025/06/24/university-of-melbourne-geography.html",
-    "href": "talks/posts/2025/06/24/university-of-melbourne-geography.html",
-    "title": "Geography Seminar Series at the University of Melbourne",
-    "section": "",
-    "text": "Francisco presented Correcting Distorted Human Mobility Data from Mobile Phone Applications at the Geography Seminar Series, Geography Department, University of Melbourne, Melbourne, Australia, on 24 June 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area."
-  },
-  {
-    "objectID": "talks/posts/2025/06/20/transport-lab-sydney.html",
-    "href": "talks/posts/2025/06/20/transport-lab-sydney.html",
-    "title": "Transport Lab Seminar Series at the University of Sydney",
-    "section": "",
-    "text": "Francisco presented Correcting Distorted Human Mobility Data from Mobile Phone Applications at the Transport Lab Seminar Series, University of Sydney, Sydney, Australia, on 20 June 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from mobile phone applications and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from mobile phone applications. Third, it presented plans for future work in this area."
-  },
-  {
-    "objectID": "talks/posts/2025/01/23-2/uji.html",
-    "href": "talks/posts/2025/01/23-2/uji.html",
-    "title": "DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program",
-    "section": "",
-    "text": "Carmen was pleased to be invited as a guest lecturer at the Erasmus Mundus MSc in Geospatial Technologies program. This international Master’s program is supported by the EU through the European Commission’s Erasmus+ programme, Erasmus Mundus action (2021–2027, project number 101049796). The MSc in Geospatial Technologies is a collaborative effort among three institutions, and the students get to spend a semester at each:\n\nUniversity of Münster, Institute for Geoinformatics, Münster, Germany.\nUniversitat Jaume I (UJI), Castellón, Dept. Lenguajes y Sistemas Informaticos, Castellón, Spain.\nUniversidade Nova de Lisboa, NOVA – Information Management School, Lisboa, Portugal.\n\nDuring her lecture at UJI, Carmen shared insights into DEBIAS and provided an introduction to network analysis for GIS. She demonstrated the potential of digital trace data in research while addressing the challenges related to addressing representativity biases in such data. The session encouraged students to critically consider both the opportunities and limitations of mobility data derived from digital technologies."
-  },
-  {
-    "objectID": "talks/posts/2025/09/02/rss-international.html",
-    "href": "talks/posts/2025/09/02/rss-international.html",
-    "title": "Royal Statistical Society International Conference 2025",
-    "section": "",
-    "text": "Francisco contributed to the Smart Data Research UK panel “Let’s do good things with data” at the Royal Statistical Society International Conference 2025, held at the Edinburgh International Conference Centre (EICC), The Exchange, Edinburgh, Scotland, on 2 September 2025.\nThis panel contribution focused on doing socially impactful work with data, highlighting opportunities, challenges, and practical pathways for using data for public good.\nThe session discussed how data-driven research can support socially meaningful outcomes when paired with strong methodological standards, thoughtful governance, and a clear focus on public value. It also reflected on the role of collaborative initiatives such as Smart Data Research UK in creating pathways for responsible and effective data use."
-  },
-  {
-    "objectID": "talks/posts/2025/07/11/university-of-queensland.html",
-    "href": "talks/posts/2025/07/11/university-of-queensland.html",
-    "title": "University of Queensland",
-    "section": "",
-    "text": "Francisco presented Correcting Distorted Human Mobility Data from Mobile Phone Applications at the School of the Environment, Faculty of Science, University of Queensland, Brisbane, Australia, on 11 July 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted digital footprint human mobility counts. Third, it presented plans for future work in this area."
-  },
-  {
-    "objectID": "talks/posts/2025/11/19/wittgenstein-centre-conference.html",
-    "href": "talks/posts/2025/11/19/wittgenstein-centre-conference.html",
-    "title": "Wittgenstein Centre Conference 2025",
-    "section": "",
-    "text": "Francisco presented Estimating Internal Displacement in Ukraine from High-Frequency GPS Mobile Phone Data at the Wittgenstein Centre Conference 2025, Demographic Perspectives on Migration in the 21st Century, hosted at the Austrian Academy of Sciences in Vienna, Austria, on 19 November 2025.\nThis talk presented methods to estimate internal displacement in Ukraine from high-frequency GPS mobile phone data, focusing on timely measurement and policy-relevant inference under crisis conditions.\nThe presentation examined how high-frequency mobile phone location data can support the measurement of internal displacement during rapidly evolving humanitarian crises. It emphasized the importance of producing timely and policy-relevant evidence to better understand population movements under conditions of conflict and instability.\nThe talk highlighted approaches to transform GPS mobile phone data into useful displacement estimates, contributing to broader efforts to strengthen migration and displacement research with new forms of digital trace data."
-  },
-  {
-    "objectID": "publications/2025/preprint-quantifying-bias/index.html#abstract",
-    "href": "publications/2025/preprint-quantifying-bias/index.html#abstract",
-    "title": "A systematic machine learning approach to measure and assess biases in mobile phone population data",
-    "section": "Abstract",
-    "text": "Abstract\nTraditional sources of population data, such as censuses and surveys, are costly, infrequent, and often unavailable in crisis-affected regions. Mobile phone application data offer near real-time, high-resolution insights into population distribution, but their utility is undermined by unequal access to and use of digital technologies, creating biases that threaten representativeness. Despite growing recognition of these issues, there is still no standard framework to measure and explain such biases, limiting the reliability of digital traces for research and policy. We develop and implement a systematic, replicable framework to quantify coverage bias in aggregated mobile phone application data without requiring individual-level demographic attributes. The approach combines a transparent indicator of population coverage with explainable machine learning to identify contextual drivers of spatial bias. Using four datasets for the United Kingdom benchmarked against the 2021 census, we show that mobile phone data consistently achieve higher population coverage than major national surveys, but substantial biases persist across data sources and subnational areas. Coverage bias is strongly associated with demographic, socioeconomic, and geographic features, often in complex nonlinear ways. Contrary to common assumptions, multi-application datasets do not necessarily reduce bias compared to single-app sources. Our findings establish a foundation for bias assessment standards in mobile phone data, offering practical tools for researchers, statistical agencies, and policymakers to harness these datasets responsibly and equitably."
-  },
-  {
-    "objectID": "talks/posts/2025/11/25/iom-report-launch.html",
-    "href": "talks/posts/2025/11/25/iom-report-launch.html",
-    "title": "International Organization for Migration Report Launch",
-    "section": "",
-    "text": "Francisco presented Dynamic Estimates of Displacement in Disaster Regions at the International Organization for Migration Report Launch, held online on 25 November 2025.\nThis talk presented dynamic estimates of displacement in disaster regions, highlighting policy-relevant approaches to triangulate multiple data sources for timely and actionable evidence.\nAccess to timely information on displacement is essential for operational response and recovery planning in disaster-affected regions. The presentation focused on how digital trace data and related information streams can be combined to generate dynamic estimates that support decision-making under rapidly changing conditions.\nThe talk discussed the value of integrating multiple data sources to produce more responsive and policy-relevant measures of displacement, helping humanitarian and policy actors better understand population movements and target support where it is most needed."
-  },
-  {
-    "objectID": "talks/posts/2025/09/03/bsps.html",
-    "href": "talks/posts/2025/09/03/bsps.html",
-    "title": "DEBIAS at the British Society for Population Studies (BSPS) Conference",
-    "section": "",
-    "text": "Carmen presented the first paper of DEBIAS at the British Society for Population Studies (BSPS) Conference, held in Swansea from the 2nd - 4th of September 2025."
-  },
-  {
-    "objectID": "talks/posts/2025/09/23/oecd-mno.html",
-    "href": "talks/posts/2025/09/23/oecd-mno.html",
-    "title": "Integrating MNO Data into Official Statistics: Challenges and Innovation",
-    "section": "",
-    "text": "Francisco presented From experimental to official migration statistics: A conceptual and actionable framework for quality assurance in mobile-network-operator-derived estimates at Integrating MNO Data into Official Statistics: challenges and innovation, held at the Organisation for Economic Co-operation and Development (OECD), Paris, France, on 23 September 2025.\nThis talk presented a conceptual and actionable framework for quality assurance in mobile-network-operator-derived migration estimates, supporting the transition from experimental outputs to official migration statistics.\nThe presentation focused on how migration estimates derived from mobile network operator data can move from promising experimental products toward more robust and trusted official statistical outputs. It highlighted the need for clear quality assurance principles, transparent evaluation, and practical implementation pathways to support responsible use in official statistics."
-  },
-  {
-    "objectID": "talks/posts/2025/01/23/fcdo.html",
-    "href": "talks/posts/2025/01/23/fcdo.html",
-    "title": "DEBIAS at the FCDO",
-    "section": "",
-    "text": "Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery."
-  },
-  {
-    "objectID": "talks/posts/2025/06/26/rmit.html",
-    "href": "talks/posts/2025/06/26/rmit.html",
-    "title": "Department of Mathematics and Geospatial Science Seminar Series at RMIT",
-    "section": "",
-    "text": "Francisco presented Beyond the Census: Leveraging digital data sources to dynamically capture human mobility and migration at the Department of Mathematics and Geospatial Science Seminar Series, RMIT, in Melbourne, Australia, on 26 June 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area."
-  },
-  {
-    "objectID": "talks/posts/2024/11/15/lambda.html",
-    "href": "talks/posts/2024/11/15/lambda.html",
-    "title": "DEBIAS contributes to the 2024 LAMBDA meeting",
-    "section": "",
-    "text": "DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning."
-  },
-  {
-    "objectID": "talks/posts/2024/09/02/exeter.html",
-    "href": "talks/posts/2024/09/02/exeter.html",
-    "title": "Keynote at the Annual Conference on Complex Systems",
-    "section": "",
-    "text": "Digital trace data, such as location data collected from smartphone apps, offers a unique opportunity to analyse population movements at high spatiotemporal granularity, with extensive coverage in near real-time. Yet, a key challenge for its use in human mobility research and evidence-based policymaking is the presence of biases. These issues were addressed in the keynote talk titled “Leveraging digital trace data for human mobility research” and delivered at UrbanSys, a satellite session within the Conference on Complex Systems, taking place in Exeter (UK) in early September 2024."
-  },
-  {
-    "objectID": "talks/posts/2024/09/09/bsps.html",
-    "href": "talks/posts/2024/09/09/bsps.html",
-    "title": "Presentations at the British Society for Population Studies conference",
-    "section": "",
-    "text": "The DEBIAS team participated in the British Society for Population Studies conference in Bath. Francisco organised and chaired the session “Migration 2: Migration, digital traces and methodological innovations”. Carmen delivered a talk titled “The impact of COVID-19 on mobility patterns in Latin America”, including research findings obtained from the analysis of mobile phone data from Meta to assess the medium-term effects of COVID-19 on internal mobility in Argentina, Colombia and Chile. The DEBIAS team have developed a methodology to address some key biases in these data. Keeps your eyes peeled for the publication coming up.\n\n\n\nBath. Source: UCL Media Services. Photographer: Mary Hinkley. Copyright: © UCL Media Services - University College London."
-  },
-  {
-    "objectID": "talks/posts/2026/01/20/london-universities-population-seminar-series.html",
-    "href": "talks/posts/2026/01/20/london-universities-population-seminar-series.html",
-    "title": "London Universities Population Seminar Series at the London School of Economics",
-    "section": "",
-    "text": "Francisco presented Correcting Distorted Human Population Data from Mobile Phone Location Data at the London Universities Population Seminar Series, hosted at Connaught House, London School of Economics, on 20 January 2026.\nAccess to human population data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications and internet protocol data, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from DEBIAS, one of the Smart Data Research UK-funded accelerator projects, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted digital footprint human mobility counts. Third, it presented plans for future work in this area."
-  },
-  {
-    "objectID": "updates/posts/2025/05/05/complexity-vienna.html",
-    "href": "updates/posts/2025/05/05/complexity-vienna.html",
-    "title": "DEBIAS at the Complexity Science Hub",
-    "section": "",
-    "text": "Carmen was invited to participate in the workshop titled “Cities as Complex Systems (CtCS2025) – Lessons Learned from Three Decades of Urban Complexity Science: Formulating Policy Recommendations”, organised by the Complexity Science Hub, in Vienna, Austria, from May 4–5, 2025. The event brought together leading researchers in urban complexity science from institutions such as the Santa Fe Institute, University of Chicago, University College London, Columbia University, and the Leibniz Institute of Ecological Urban and Regional Development. The aim was to reflect on key insights from the past thirty years of urban complexity research and to formulate evidence-based policy recommendations for the future.\nRepresenting the University of Liverpool and the Geographic Data Science Lab, Carmen was invited to deliver a stimulus talk to help guide and inspire some of the workshop discussions. In her presentation, she highlighted the potential of digital trace data for advancing our understanding of urban mobility. Mobility, she argued, is a core feature of urban life, underpinning the dynamic flows of people, goods, and information that define cities as complex systems. Carmen also addressed the methodological and ethical challenges that come with using digital trace data in policy-relevant research. Issues related to data accessibility, representativeness and the translation of complex findings into actionable policy recommendations remain significant hurdles. Her talk emphasised the need for DEBIAS’s methodological framework to mitigate biases in digital trace data."
-  },
-  {
-    "objectID": "updates/posts/2025/01/23/fcdo.html",
-    "href": "updates/posts/2025/01/23/fcdo.html",
-    "title": "DEBIAS at the FCDO",
-    "section": "",
-    "text": "Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery."
-  },
-  {
-    "objectID": "updates/posts/2024/11/20/valencia-floods.html",
-    "href": "updates/posts/2024/11/20/valencia-floods.html",
-    "title": "DEBIAS produces insights into the 2024 Valencia floods",
-    "section": "",
-    "text": "DEBIAS contributes analysis on the 2024 Valencia floods leveraging the use of mobile phone data. It contributes an article published in Population Europe."
-  },
-  {
-    "objectID": "updates/posts/2024/11/15/lambda.html",
-    "href": "updates/posts/2024/11/15/lambda.html",
-    "title": "DEBIAS contributes to the 2024 LAMBDA meeting",
-    "section": "",
-    "text": "DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning."
-  },
-  {
-    "objectID": "updates/posts/2024/10/07/world-bank.html",
-    "href": "updates/posts/2024/10/07/world-bank.html",
-    "title": "DEBIAS contribution to World Bank Workshop",
-    "section": "",
-    "text": "Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop. The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:\n\nDeliver essential resources and programmatic activities to support WB task teams to integrate MPD into national data systems for durable policy solutions and statistics\nPromote open MPD standards, tools, and practices\nDeliver programmatic activities designed to advance the level of maturity in the local MPD ecosystem\nPromote operational research to improve evidence-base and policy impact of MPD\nUse grant activities to facilitate lending in integrated national data systems and public data infrastructure\n\nAfter a competitive application process, task teams representing 18 countries were selected to join the first Cohort of the MPD-GDF Program. These teams were grouped into three clusters: LAC, West Africa and Integrated. During the workshop, the country teams developed their strategic implementation plans to put MPD to work for Policy in a rigorous and sustainable way. The workshop delivered sessions that cover: (a) process to set up a country Mobile Phone Data pipeline/program in a country to produce policy-relevant insights; (b) country examples of MPD for policy applications; and, (c) group activities to develop/elaborate country MPD implementation plan. MPD experts, including Francisco, contribute to present use cases where MDP has worked, discussed some of the existing challenges of their use, and supported Brazil to develop a strategic implementation plan for the adoption of MDP to develop statistical indicators to inform urban planning decision making.\nThe Brazilian team included Claudio Ferreira from Ministério das Cidades, Marcio Mutti from Anatel, Daniel Oliveira from Serpro and Aiga Stokenberga and Andrea Barone from The World Bank."
+    "text": "This is the first post going out form the DEBIAS project. We will use this blog to keep track of progress on the project and to announce milestones of the project along the way. If you are interested in human mobility, smart data from digital sources (including mobile phone data), geographic data science and AI, keep an eye on the blog and feel free to get in touch with Francisco and / or Carmen!"
   },
   {
     "objectID": "updates/posts/2024/09/09/logo.html",
@@ -238,11 +28,277 @@
     "text": "We are happy to unveil the logo for DEBIAS. Let us unpack what the logo represents. We have chosen an iceberg as a logo as it provides an effective representation of what we can see from smart data from digital sources in their raw form, and the parts that we do not see given their limited capacity to offer a representation of the full population. DEBIAS seeks to mitigate biases present in smart data from digital sources and move us closer to get a population-level representation."
   },
   {
-    "objectID": "updates/posts/2024/08/15/kickoff.html",
-    "href": "updates/posts/2024/08/15/kickoff.html",
-    "title": "Kicking off",
+    "objectID": "updates/posts/2024/10/07/world-bank.html",
+    "href": "updates/posts/2024/10/07/world-bank.html",
+    "title": "DEBIAS contribution to World Bank Workshop",
     "section": "",
-    "text": "This is the first post going out form the DEBIAS project. We will use this blog to keep track of progress on the project and to announce milestones of the project along the way. If you are interested in human mobility, smart data from digital sources (including mobile phone data), geographic data science and AI, keep an eye on the blog and feel free to get in touch with Francisco and / or Carmen!"
+    "text": "Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop. The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:\n\nDeliver essential resources and programmatic activities to support WB task teams to integrate MPD into national data systems for durable policy solutions and statistics\nPromote open MPD standards, tools, and practices\nDeliver programmatic activities designed to advance the level of maturity in the local MPD ecosystem\nPromote operational research to improve evidence-base and policy impact of MPD\nUse grant activities to facilitate lending in integrated national data systems and public data infrastructure\n\nAfter a competitive application process, task teams representing 18 countries were selected to join the first Cohort of the MPD-GDF Program. These teams were grouped into three clusters: LAC, West Africa and Integrated. During the workshop, the country teams developed their strategic implementation plans to put MPD to work for Policy in a rigorous and sustainable way. The workshop delivered sessions that cover: (a) process to set up a country Mobile Phone Data pipeline/program in a country to produce policy-relevant insights; (b) country examples of MPD for policy applications; and, (c) group activities to develop/elaborate country MPD implementation plan. MPD experts, including Francisco, contribute to present use cases where MDP has worked, discussed some of the existing challenges of their use, and supported Brazil to develop a strategic implementation plan for the adoption of MDP to develop statistical indicators to inform urban planning decision making.\nThe Brazilian team included Claudio Ferreira from Ministério das Cidades, Marcio Mutti from Anatel, Daniel Oliveira from Serpro and Aiga Stokenberga and Andrea Barone from The World Bank."
+  },
+  {
+    "objectID": "updates/posts/2024/11/15/lambda.html",
+    "href": "updates/posts/2024/11/15/lambda.html",
+    "title": "DEBIAS contributes to the 2024 LAMBDA meeting",
+    "section": "",
+    "text": "DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning."
+  },
+  {
+    "objectID": "updates/posts/2024/11/20/valencia-floods.html",
+    "href": "updates/posts/2024/11/20/valencia-floods.html",
+    "title": "DEBIAS produces insights into the 2024 Valencia floods",
+    "section": "",
+    "text": "DEBIAS contributes analysis on the 2024 Valencia floods leveraging the use of mobile phone data. It contributes an article published in Population Europe."
+  },
+  {
+    "objectID": "updates/posts/2025/01/23/fcdo.html",
+    "href": "updates/posts/2025/01/23/fcdo.html",
+    "title": "DEBIAS at the FCDO",
+    "section": "",
+    "text": "Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery."
+  },
+  {
+    "objectID": "updates/posts/2025/05/05/complexity-vienna.html",
+    "href": "updates/posts/2025/05/05/complexity-vienna.html",
+    "title": "DEBIAS at the Complexity Science Hub",
+    "section": "",
+    "text": "Carmen was invited to participate in the workshop titled “Cities as Complex Systems (CtCS2025) – Lessons Learned from Three Decades of Urban Complexity Science: Formulating Policy Recommendations”, organised by the Complexity Science Hub, in Vienna, Austria, from May 4–5, 2025. The event brought together leading researchers in urban complexity science from institutions such as the Santa Fe Institute, University of Chicago, University College London, Columbia University, and the Leibniz Institute of Ecological Urban and Regional Development. The aim was to reflect on key insights from the past thirty years of urban complexity research and to formulate evidence-based policy recommendations for the future.\nRepresenting the University of Liverpool and the Geographic Data Science Lab, Carmen was invited to deliver a stimulus talk to help guide and inspire some of the workshop discussions. In her presentation, she highlighted the potential of digital trace data for advancing our understanding of urban mobility. Mobility, she argued, is a core feature of urban life, underpinning the dynamic flows of people, goods, and information that define cities as complex systems. Carmen also addressed the methodological and ethical challenges that come with using digital trace data in policy-relevant research. Issues related to data accessibility, representativeness and the translation of complex findings into actionable policy recommendations remain significant hurdles. Her talk emphasised the need for DEBIAS’s methodological framework to mitigate biases in digital trace data."
+  },
+  {
+    "objectID": "talks/posts/2026/01/20/london-universities-population-seminar-series.html",
+    "href": "talks/posts/2026/01/20/london-universities-population-seminar-series.html",
+    "title": "London Universities Population Seminar Series at the London School of Economics",
+    "section": "",
+    "text": "Francisco presented Correcting Distorted Human Population Data from Mobile Phone Location Data at the London Universities Population Seminar Series, hosted at Connaught House, London School of Economics, on 20 January 2026.\nAccess to human population data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications and internet protocol data, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from DEBIAS, one of the Smart Data Research UK-funded accelerator projects, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted digital footprint human mobility counts. Third, it presented plans for future work in this area."
+  },
+  {
+    "objectID": "talks/posts/2026/03/02/hnpw-panel.html",
+    "href": "talks/posts/2026/03/02/hnpw-panel.html",
+    "title": "Humanitarian Networks and Partnerships Weeks (HNPW 2026)",
+    "section": "",
+    "text": "Francisco contributed to the panel Innovating Data for Humanitarian Action: Integrating Traditional and Digital Trace Data to Monitor Displacement at Humanitarian Networks and Partnerships Weeks (HNPW 2026) on 2 March 2026.\nThis session examined how internal displacement continues to rise at an alarming pace and how humanitarian actors face growing pressure to generate timely, reliable, and actionable insights on population movements. It presented an innovative, policy-driven framework that integrates traditional humanitarian data systems with emerging digital trace data, including mobile phone GPS signals and social media activity, to improve how displacement is monitored and understood.\nDrawing on newly published work developed by the University of Liverpool’s Geographic Data Science Lab in collaboration with IOM’s Displacement Tracking Matrix (DTM), the panel discussed how triangulating multiple data sources can strengthen humanitarian analysis and operational decision-making across conflict and climate-related disaster settings."
+  },
+  {
+    "objectID": "talks/posts/2024/09/09/bsps.html",
+    "href": "talks/posts/2024/09/09/bsps.html",
+    "title": "Presentations at the British Society for Population Studies conference",
+    "section": "",
+    "text": "The DEBIAS team participated in the British Society for Population Studies conference in Bath. Francisco organised and chaired the session “Migration 2: Migration, digital traces and methodological innovations”. Carmen delivered a talk titled “The impact of COVID-19 on mobility patterns in Latin America”, including research findings obtained from the analysis of mobile phone data from Meta to assess the medium-term effects of COVID-19 on internal mobility in Argentina, Colombia and Chile. The DEBIAS team have developed a methodology to address some key biases in these data. Keeps your eyes peeled for the publication coming up.\n\n\n\nBath. Source: UCL Media Services. Photographer: Mary Hinkley. Copyright: © UCL Media Services - University College London."
+  },
+  {
+    "objectID": "talks/posts/2024/09/02/exeter.html",
+    "href": "talks/posts/2024/09/02/exeter.html",
+    "title": "Keynote at the Annual Conference on Complex Systems",
+    "section": "",
+    "text": "Digital trace data, such as location data collected from smartphone apps, offers a unique opportunity to analyse population movements at high spatiotemporal granularity, with extensive coverage in near real-time. Yet, a key challenge for its use in human mobility research and evidence-based policymaking is the presence of biases. These issues were addressed in the keynote talk titled “Leveraging digital trace data for human mobility research” and delivered at UrbanSys, a satellite session within the Conference on Complex Systems, taking place in Exeter (UK) in early September 2024."
+  },
+  {
+    "objectID": "talks/posts/2024/11/15/lambda.html",
+    "href": "talks/posts/2024/11/15/lambda.html",
+    "title": "DEBIAS contributes to the 2024 LAMBDA meeting",
+    "section": "",
+    "text": "DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning."
+  },
+  {
+    "objectID": "talks/posts/2025/06/26/rmit.html",
+    "href": "talks/posts/2025/06/26/rmit.html",
+    "title": "Department of Mathematics and Geospatial Science Seminar Series at RMIT",
+    "section": "",
+    "text": "Francisco presented Beyond the Census: Leveraging digital data sources to dynamically capture human mobility and migration at the Department of Mathematics and Geospatial Science Seminar Series, RMIT, in Melbourne, Australia, on 26 June 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area."
+  },
+  {
+    "objectID": "talks/posts/2025/01/23/fcdo.html",
+    "href": "talks/posts/2025/01/23/fcdo.html",
+    "title": "DEBIAS at the FCDO",
+    "section": "",
+    "text": "Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery."
+  },
+  {
+    "objectID": "talks/posts/2025/08/05/nersa-narsc.html",
+    "href": "talks/posts/2025/08/05/nersa-narsc.html",
+    "title": "NERSA/NARSC Program in Mobility, Migration, and Regional Science",
+    "section": "",
+    "text": "Francisco presented Releasing the full potential of digital trace data for human migration research at the NERSA/NARSC Program in Mobility, Migration, and Regional Science on 5 August 2025.\nThis talk explored how technological advances have enabled the production, processing, analysis, and storage of large volumes of digital information, offering high geographic and temporal granularity, extensive coverage, and near-instant information to measure and transform our understanding of human mobility.\nThe presentation discussed how digital footprint data have contributed to expanding existing theories, developing new explanations, adopting new analytical tools and infrastructures, and advancing areas such as computational social science and geographic data science. It also identified major epistemological, methodological, and ethical challenges, and reflected on current practices and opportunities for future research in migration studies."
+  },
+  {
+    "objectID": "talks/posts/2025/09/10/meta-lightning-talk.html",
+    "href": "talks/posts/2025/09/10/meta-lightning-talk.html",
+    "title": "Meta Lightning Talks - AI & Data for Good at Meta - Q3 2025",
+    "section": "",
+    "text": "Francisco presented Beyond the Immediate Impacts of COVID-19 on Human Mobility at Meta Lightning Talks - AI & Data for Good at Meta - Q3 2025 on 10 September 2025.\nThis lightning talk examined mobility dynamics beyond the immediate impacts of COVID-19 on human mobility. Drawing on Facebook Population and Movement data, it showed how digital trace data can support timely evidence on shifting population patterns.\nThe talk also highlighted practical impact through collaboration with the United Nations to support disaster operations and the planning of sustainable cities, illustrating how data-driven mobility insights can inform real-world humanitarian and policy challenges."
+  },
+  {
+    "objectID": "talks/posts/2025/09/03/bsps.html",
+    "href": "talks/posts/2025/09/03/bsps.html",
+    "title": "British Society for Population Studies 2025 Conference",
+    "section": "",
+    "text": "Francisco presented Producing Population-level Estimates of Internal Displacement in Ukraine Using GPS Mobile Phone Data at the British Society for Population Studies 2025 Conference, hosted by the University of Swansea, Swansea, Wales, on 3 September 2025.\nThis talk presented methods to produce population-level estimates of internal displacement in Ukraine using GPS mobile phone data, with an emphasis on robust inference under crisis conditions.\nThe presentation focused on how high-frequency mobile phone location data can be used to generate timely and policy-relevant population estimates in contexts of displacement. It highlighted the value of digital trace data for understanding population movements during crises while maintaining attention to methodological robustness and inference challenges."
+  },
+  {
+    "objectID": "talks/posts/2025/07/16/ipc.html",
+    "href": "talks/posts/2025/07/16/ipc.html",
+    "title": "International Population Conference (IPC2025)",
+    "section": "",
+    "text": "Francisco presented Producing Population-level Estimates of Internal Displacement in Ukraine Using GPS Mobile Phone Data at the International Population Conference (IPC2025), held in Brisbane, Australia, on 16 July 2025.\nThis talk presented methods to produce population-level estimates of internal displacement in Ukraine using GPS mobile phone data, with emphasis on near real-time measurement and population inference.\nThe presentation focused on how high-frequency mobile phone location data can be used to generate timely and policy-relevant population estimates during crises. It highlighted the potential of digital trace data to support the measurement of displacement dynamics while maintaining attention to robust inference and methodological challenges."
+  },
+  {
+    "objectID": "talks/posts/2025/11/25/iom-report-launch.html",
+    "href": "talks/posts/2025/11/25/iom-report-launch.html",
+    "title": "International Organization for Migration Report Launch",
+    "section": "",
+    "text": "Francisco presented Dynamic Estimates of Displacement in Disaster Regions at the International Organization for Migration Report Launch, held online on 25 November 2025.\nThis talk presented dynamic estimates of displacement in disaster regions, highlighting policy-relevant approaches to triangulate multiple data sources for timely and actionable evidence.\nAccess to timely information on displacement is essential for operational response and recovery planning in disaster-affected regions. The presentation focused on how digital trace data and related information streams can be combined to generate dynamic estimates that support decision-making under rapidly changing conditions.\nThe talk discussed the value of integrating multiple data sources to produce more responsive and policy-relevant measures of displacement, helping humanitarian and policy actors better understand population movements and target support where it is most needed."
+  },
+  {
+    "objectID": "talks/posts/2025/05/14/jrc-workshop.html",
+    "href": "talks/posts/2025/05/14/jrc-workshop.html",
+    "title": "Workshop: Measurement of the Flows Across the Internal Borders of the European Union",
+    "section": "",
+    "text": "Francisco presented Mobile Phone Data for Cross-border Population & Expenditure Flows: Ideas & Challenges at the workshop Measurement of the flows across the internal borders of the European Union, held at the European Commission Joint Research Centre in Ispra, Italy, on 14 May 2025.\nThis workshop talk discussed the use of mobile phone data to estimate cross-border population and expenditure flows across internal European Union borders, focusing on methodological opportunities and practical challenges for robust measurement.\nThe presentation examined how digital trace data from mobile phones can support the measurement of cross-border dynamics, while also highlighting the importance of careful methodological design, data interpretation, and robust inference when using these emerging sources for official and policy-relevant analysis."
+  },
+  {
+    "objectID": "publications/2025/preprint-quantifying-bias/index.html#abstract",
+    "href": "publications/2025/preprint-quantifying-bias/index.html#abstract",
+    "title": "A systematic machine learning approach to measure and assess biases in mobile phone population data",
+    "section": "Abstract",
+    "text": "Abstract\nTraditional sources of population data, such as censuses and surveys, are costly, infrequent, and often unavailable in crisis-affected regions. Mobile phone application data offer near real-time, high-resolution insights into population distribution, but their utility is undermined by unequal access to and use of digital technologies, creating biases that threaten representativeness. Despite growing recognition of these issues, there is still no standard framework to measure and explain such biases, limiting the reliability of digital traces for research and policy. We develop and implement a systematic, replicable framework to quantify coverage bias in aggregated mobile phone application data without requiring individual-level demographic attributes. The approach combines a transparent indicator of population coverage with explainable machine learning to identify contextual drivers of spatial bias. Using four datasets for the United Kingdom benchmarked against the 2021 census, we show that mobile phone data consistently achieve higher population coverage than major national surveys, but substantial biases persist across data sources and subnational areas. Coverage bias is strongly associated with demographic, socioeconomic, and geographic features, often in complex nonlinear ways. Contrary to common assumptions, multi-application datasets do not necessarily reduce bias compared to single-app sources. Our findings establish a foundation for bias assessment standards in mobile phone data, offering practical tools for researchers, statistical agencies, and policymakers to harness these datasets responsibly and equitably."
+  },
+  {
+    "objectID": "talks/posts/2025/11/19/wittgenstein-centre-conference.html",
+    "href": "talks/posts/2025/11/19/wittgenstein-centre-conference.html",
+    "title": "Wittgenstein Centre Conference 2025",
+    "section": "",
+    "text": "Francisco presented Estimating Internal Displacement in Ukraine from High-Frequency GPS Mobile Phone Data at the Wittgenstein Centre Conference 2025, Demographic Perspectives on Migration in the 21st Century, hosted at the Austrian Academy of Sciences in Vienna, Austria, on 19 November 2025.\nThis talk presented methods to estimate internal displacement in Ukraine from high-frequency GPS mobile phone data, focusing on timely measurement and policy-relevant inference under crisis conditions.\nThe presentation examined how high-frequency mobile phone location data can support the measurement of internal displacement during rapidly evolving humanitarian crises. It emphasized the importance of producing timely and policy-relevant evidence to better understand population movements under conditions of conflict and instability.\nThe talk highlighted approaches to transform GPS mobile phone data into useful displacement estimates, contributing to broader efforts to strengthen migration and displacement research with new forms of digital trace data."
+  },
+  {
+    "objectID": "talks/posts/2025/07/11/university-of-queensland.html",
+    "href": "talks/posts/2025/07/11/university-of-queensland.html",
+    "title": "University of Queensland",
+    "section": "",
+    "text": "Francisco presented Correcting Distorted Human Mobility Data from Mobile Phone Applications at the School of the Environment, Faculty of Science, University of Queensland, Brisbane, Australia, on 11 July 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted digital footprint human mobility counts. Third, it presented plans for future work in this area."
+  },
+  {
+    "objectID": "talks/posts/2025/07/01/anu.html",
+    "href": "talks/posts/2025/07/01/anu.html",
+    "title": "Australian National University",
+    "section": "",
+    "text": "Francisco presented Correcting for Biases in Location Data from Mobile Phones to Estimate Mobility Flows at the School of Demography, Australian National University, Canberra, Australia, on 1 July 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area."
+  },
+  {
+    "objectID": "talks/posts/2025/09/02/rss-international.html",
+    "href": "talks/posts/2025/09/02/rss-international.html",
+    "title": "Royal Statistical Society International Conference 2025",
+    "section": "",
+    "text": "Francisco contributed to the Smart Data Research UK panel “Let’s do good things with data” at the Royal Statistical Society International Conference 2025, held at the Edinburgh International Conference Centre (EICC), The Exchange, Edinburgh, Scotland, on 2 September 2025.\nThis panel contribution focused on doing socially impactful work with data, highlighting opportunities, challenges, and practical pathways for using data for public good.\nThe session discussed how data-driven research can support socially meaningful outcomes when paired with strong methodological standards, thoughtful governance, and a clear focus on public value. It also reflected on the role of collaborative initiatives such as Smart Data Research UK in creating pathways for responsible and effective data use."
+  },
+  {
+    "objectID": "talks/posts/2025/09/23/oecd-mno.html",
+    "href": "talks/posts/2025/09/23/oecd-mno.html",
+    "title": "Integrating MNO Data into Official Statistics: Challenges and Innovation",
+    "section": "",
+    "text": "Francisco presented From experimental to official migration statistics: A conceptual and actionable framework for quality assurance in mobile-network-operator-derived estimates at Integrating MNO Data into Official Statistics: challenges and innovation, held at the Organisation for Economic Co-operation and Development (OECD), Paris, France, on 23 September 2025.\nThis talk presented a conceptual and actionable framework for quality assurance in mobile-network-operator-derived migration estimates, supporting the transition from experimental outputs to official migration statistics.\nThe presentation focused on how migration estimates derived from mobile network operator data can move from promising experimental products toward more robust and trusted official statistical outputs. It highlighted the need for clear quality assurance principles, transparent evaluation, and practical implementation pathways to support responsible use in official statistics."
+  },
+  {
+    "objectID": "talks/posts/2025/01/23-2/uji.html",
+    "href": "talks/posts/2025/01/23-2/uji.html",
+    "title": "DEBIAS at Erasmus Mundus MSc in Geospatial Technologies Program",
+    "section": "",
+    "text": "Carmen was pleased to be invited as a guest lecturer at the Erasmus Mundus MSc in Geospatial Technologies program. This international Master’s program is supported by the EU through the European Commission’s Erasmus+ programme, Erasmus Mundus action (2021–2027, project number 101049796). The MSc in Geospatial Technologies is a collaborative effort among three institutions, and the students get to spend a semester at each:\n\nUniversity of Münster, Institute for Geoinformatics, Münster, Germany.\nUniversitat Jaume I (UJI), Castellón, Dept. Lenguajes y Sistemas Informaticos, Castellón, Spain.\nUniversidade Nova de Lisboa, NOVA – Information Management School, Lisboa, Portugal.\n\nDuring her lecture at UJI, Carmen shared insights into DEBIAS and provided an introduction to network analysis for GIS. She demonstrated the potential of digital trace data in research while addressing the challenges related to addressing representativity biases in such data. The session encouraged students to critically consider both the opportunities and limitations of mobility data derived from digital technologies."
+  },
+  {
+    "objectID": "talks/posts/2025/06/20/transport-lab-sydney.html",
+    "href": "talks/posts/2025/06/20/transport-lab-sydney.html",
+    "title": "Transport Lab Seminar Series at the University of Sydney",
+    "section": "",
+    "text": "Francisco presented Correcting Distorted Human Mobility Data from Mobile Phone Applications at the Transport Lab Seminar Series, University of Sydney, Sydney, Australia, on 20 June 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from mobile phone applications and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from mobile phone applications. Third, it presented plans for future work in this area."
+  },
+  {
+    "objectID": "talks/posts/2025/06/24/university-of-melbourne-geography.html",
+    "href": "talks/posts/2025/06/24/university-of-melbourne-geography.html",
+    "title": "Geography Seminar Series at the University of Melbourne",
+    "section": "",
+    "text": "Francisco presented Correcting Distorted Human Mobility Data from Mobile Phone Applications at the Geography Seminar Series, Geography Department, University of Melbourne, Melbourne, Australia, on 24 June 2025.\nAccess to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.\nThe talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area."
+  },
+  {
+    "objectID": "talks/posts/2024/10/23/casa.html",
+    "href": "talks/posts/2024/10/23/casa.html",
+    "title": "DEBIAS at CASA-UCL",
+    "section": "",
+    "text": "Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.\nThis encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology."
+  },
+  {
+    "objectID": "talks/posts/2024/09/17/mpidr.html",
+    "href": "talks/posts/2024/09/17/mpidr.html",
+    "title": "Research visit at the Max Planck Institute for Demographic Research",
+    "section": "",
+    "text": "Francisco visited the the Max Planck Institute for Demographic Research (MPIDR). He participated in the International migration in Central and Eastern Europe: changing patterns, determinants, and measurement challenges. He was invited to deliver a presentation on a paper published in Population, Space and Place making use of digital footprint data to identify the potential subnational areas of settlement for Ukrainian refugees across Europe. Francisco was also invited to contribute to the flagship project Human Migration Database led by Emilio Zagheni. This database is the first-of-its-kind seeking to offer global data on annual international migration flows between countries."
+  },
+  {
+    "objectID": "talks/posts/2026/03/03/interchange-btai.html",
+    "href": "talks/posts/2026/03/03/interchange-btai.html",
+    "title": "Hosted Roundtables Programme 2026 - Interchange UK",
+    "section": "",
+    "text": "Francisco contributed to the roundtable Transport Demand and human behaviour: A new approach at the Hosted Roundtables Programme 2026, Interchange UK, on 3 March 2026.\nThis roundtable explored the relationship between economic activity, human behaviour, and transport demand, with a focus on reimagining forecasting, prediction, and modelling approaches. It considered how to move beyond traditional data sources by incorporating real-time data and the idea of “human weather” using population movement as a predictive tool.\nThe discussion addressed challenges such as accounting for diverse and unpredictable behaviours, developing more localised and adaptive models, governance and guidance, and better alignment between regional and national planning priorities. The session was hosted by BT Active Intelligence."
+  },
+  {
+    "objectID": "talks/posts/2026/03/25/seminario-ciencias-sociales.html",
+    "href": "talks/posts/2026/03/25/seminario-ciencias-sociales.html",
+    "title": "Seminario Ciencias Sociales at Universidad de la Republica",
+    "section": "",
+    "text": "Francisco presented A systematic machine learning approach to measure and assess biases in mobile phone population data at Seminario Ciencias Sociales, hosted by Universidad de la Republica in Montevideo, Uruguay, on 25 March 2026.\nTraditional sources of population data, such as censuses and surveys, are costly, infrequent, and often unavailable in crisis-affected regions. Mobile phone application data offer near real-time, high-resolution insights into population distribution, but their utility is undermined by unequal access to and use of digital technologies, creating biases that threaten representativeness. Despite growing recognition of these issues, there is still no standard framework to measure and explain such biases, limiting the reliability of digital traces for research and policy.\nThe talk presented a systematic, replicable framework to quantify coverage bias in aggregated mobile phone application data without requiring individual-level demographic attributes. The approach combines a transparent indicator of population coverage with explainable machine learning to identify contextual drivers of spatial bias. Using four datasets for the United Kingdom benchmarked against the 2021 census, the work shows that mobile phone data consistently achieve higher population coverage than major national surveys, but substantial biases persist across data sources and subnational areas.\nCoverage bias is strongly associated with demographic, socioeconomic, and geographic features, often in complex nonlinear ways. Contrary to common assumptions, multi-application datasets do not necessarily reduce bias compared to single-app sources. These findings provide a foundation for bias assessment standards in mobile phone data and offer practical tools for researchers, statistical agencies, and policymakers seeking to use these data responsibly and equitably."
+  },
+  {
+    "objectID": "updates/posts/2025/04/24/complenet.html",
+    "href": "updates/posts/2025/04/24/complenet.html",
+    "title": "DEBIAS at Complenet 2025",
+    "section": "",
+    "text": "Carmen was invited to deliver a keynote talk at the International Conference on Complex Networks, CompleNet 2025, held in Fortaleza, Brazil, from April 22–25, 2025. This interdisciplinary conference brings together researchers and practitioners from a wide range of fields working on topics related to complex networks, including the study of human mobility. During the keynote, Carmen shared insights into the use of digital trace data for mobility research and discussed key challenges, with a particular focus on biases inherent in such data. She presented recent work using Facebook data to examine long-term disparities in the recovery of urban mobility following COVID-19 in Latin America. This research, currently available as a preprint, proposes a novel methodology for data imputation designed to address biases arising from missing data."
+  },
+  {
+    "objectID": "updates/posts/2025/01/24/transport-geo.html",
+    "href": "updates/posts/2025/01/24/transport-geo.html",
+    "title": "DEBIAS’s new publication",
+    "section": "",
+    "text": "Francisco published a new article in the Journal of Transport Geography. The paper explores data from Beijing’s bus system. Specifically the paper sought to address: How predictable are public transit trips, and what factors shape this predictability? Leveraging 20 million bus trips from Beijing, the study analysed patterns of spatial and temporal variability in bus use, with the idea of informing interventions to create more sustainable transit systems.\nKey takeaways: ️\n\nBus trips beyond 10 km from urban centers show greater variability in timing and routes.\nA higher density of bus routes reduces unpredictability, but adding too many routes has diminishing returns.\nBoth low and high road densities increase variability, impacting travel predictability.\n\nUsing explainable machine learning (XGBoost and SHAP values), our analysis presents evidence of nonlinear relationships and tipping points—critical for designing responsive, efficient transit systems.\nWhat does this mean for urban mobility?\n\nPrioritize areas on the outskirts of cities with tailored route planning.\nFocus on densifying road networks in sparse regions, but avoid oversaturation.\nCreate transit systems that adapt to behavioral patterns, offering more flexibility and reliability.\n\nThese findings are a step toward building transit systems that reduce car dependency, combat climate change, and enhance urban sustainability."
+  },
+  {
+    "objectID": "updates/posts/2025/01/15/nowcasting.html",
+    "href": "updates/posts/2025/01/15/nowcasting.html",
+    "title": "DEBIAS joins the Collaborative Group on Nowcasting Populations",
+    "section": "",
+    "text": "We are thrilled to announce that our DEBIAS team has joined the Collaborative Group on Nowcasting Populations (CGNP)! This initiative, led by Dr. Andrea Aparicio Castro and the Nowcasting Populations (NowPop) team at the Leverhulme Centre for Demographic Science (LCDS), is funded by Oxford University’s Van Houten Fund.\nThe CGNP initiative brings together academics from leading institutions and research centers, including Oxford University’s Department of Sociology, University of Manchester’s Department of Social Statistics, University of Southampton and the University of Liverpool’s Geographic Data Science Lab.\nThrough a series of collaborative meetings hosted by the participating institutions, we aim to advance knowledge in real-time population estimation, mobility, and migration. Combining Bayesian methodologies with digital trace and traditional data sources, CGNP addresses critical challenges in contexts where conventional data collection is limited, such as conflict zones, offering timely insights to support humanitarian efforts.\nWe are excited to bring the expertise of the DEBIAS project to this collaboration. Stay tuned for updates on our collaborative journey with CGNP!\nFor more information about CGNP, contact Dr. Andrea Aparicio-Castro."
+  },
+  {
+    "objectID": "updates/posts/2024/11/17/debias-mexico.html",
+    "href": "updates/posts/2024/11/17/debias-mexico.html",
+    "title": "DEBIAS expands to Mexico",
+    "section": "",
+    "text": "We have secured additional funding for DEBIAS to extend the work to Mexico working with Miguel González-Leonardo from El Colegio De México, supported by its Programa Interdisciplinario de Ciencia de Datos."
+  },
+  {
+    "objectID": "updates/posts/2024/10/10/un-sprint.html",
+    "href": "updates/posts/2024/10/10/un-sprint.html",
+    "title": "DEBIAS at a UN webinar on Social and Demographic Statistics",
+    "section": "",
+    "text": "Francisco was invited to contribute one of the Sprint webinar of the Friends of Chair (FoC) Group on Social and Demographic Statistics. The series of Sprint webinars aims to explore key building blocks for an overarching conceptual framework for a social and demographic statistics system. The FoC group’s objective is to formulate strategic recommendations to enhance social and demographic statistics that better reflect society and its connections with the environment and the economy. The group has identified five key building blocks for this framework: people, relationships, outcomes, time, and places.\nFrancisco was invited as a panelist for a webinar on the critical role of information on “places” and geography to improve social and demographic statistics is co-organised by the National Institute of Statistics, Geography and Informatics (INEGI), Mexico, the National Institute of Statistics of Rwanda, the Economic Commission for Latin America and the Caribbean (ECLAC) and the UN Statistics Division (UNSD). Francisco was invited given his expertise in spatial inequalities and geographic data science.\nPlaces are crucial, but often underutilized, building block of social and demographic statistics. This session will examine how the places where people grow up, live, and work profoundly influence their lives, exposing disparities and shaping policy decisions. By exploring the use of georeferenced data, satellite imagery, and small area estimation techniques to fill data gaps, we will highlight how geography can integrate diverse data sources and enhance dissemination through geoportals. The insights gained from this session will inform recommendations on how to more effectively incorporate geography into social and demographic statistics for improved policymaking."
+  },
+  {
+    "objectID": "updates/posts/2024/10/23/casa.html",
+    "href": "updates/posts/2024/10/23/casa.html",
+    "title": "DEBIAS at CASA-UCL",
+    "section": "",
+    "text": "Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.\nThis encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology."
+  },
+  {
+    "objectID": "updates/posts/2024/09/13/un-task-team.html",
+    "href": "updates/posts/2024/09/13/un-task-team.html",
+    "title": "DEBIAS invited to a UN Committee of Experts",
+    "section": "",
+    "text": "Francisco has been invited to the United Nations Committee of Experts on Big Data and Data Science for Official Statistics. He will be contributing to the task team on Mobile Phone Data for Official Statistics and Policy, leading the task team on Migration Statistics and contributing to the Synthetic Mobile Phone Data group."
+  },
+  {
+    "objectID": "updates/posts/2026/02/27/ons-working-group.html",
+    "href": "updates/posts/2026/02/27/ons-working-group.html",
+    "title": "Francisco joins the ONS Working Group on Internal Migration Methods Development",
+    "section": "",
+    "text": "Francisco has been invited to join the Office for National Statistics (ONS) Working Group on Internal Migration Methods Development.\nThe Working Group on Internal Migration Methods Development (IMMD) will support the ONS on the development and implementation of improved methods to estimate internal migration and cross-border flows, as part of a wider programme of work to improve population estimates.\nThe group will provide a forum for discussion and feedback on research into new data sources and methods to estimate internal migration, helping ensure that the interests and views of users are represented. It will also support broader assurance efforts so that any new method is of suitable quality.\nIn its first stage, members of the group will provide:\n\nadvice on new data sources\nfeedback on research\nadvice on user requirements and potential areas of further research\nendorsement that users’ views and data needs have been fully considered and incorporated where possible"
   },
   {
     "objectID": "project/index.html",

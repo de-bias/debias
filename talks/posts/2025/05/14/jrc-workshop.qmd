@@ -1,0 +1,15 @@
+---
+title: "Workshop: Measurement of the Flows Across the Internal Borders of the European Union"
+author: "Francisco Rowe"
+date: "2025-05-14"
+categories: [talks]
+image: "https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_jrc_workshop/featured.png"
+---
+
+Francisco presented *Mobile Phone Data for Cross-border Population & Expenditure Flows: Ideas & Challenges* at the workshop *Measurement of the flows across the internal borders of the European Union*, held at the European Commission Joint Research Centre in Ispra, Italy, on 14 May 2025.
+
+This workshop talk discussed the use of mobile phone data to estimate cross-border population and expenditure flows across internal European Union borders, focusing on methodological opportunities and practical challenges for robust measurement.
+
+The presentation examined how digital trace data from mobile phones can support the measurement of cross-border dynamics, while also highlighting the importance of careful methodological design, data interpretation, and robust inference when using these emerging sources for official and policy-relevant analysis.
+
+![](https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_jrc_workshop/featured.png)

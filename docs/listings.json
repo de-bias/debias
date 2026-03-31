@@ -2,6 +2,7 @@
   {
     "listing": "/updates/index.html",
     "items": [
+      "/updates/posts/2026/02/27/ons-working-group.html",
       "/updates/posts/2025/05/05/complexity-vienna.html",
       "/updates/posts/2025/04/24/complenet.html",
       "/updates/posts/2025/01/24/transport-geo.html",
@@ -19,19 +20,32 @@
     ]
   },
   {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2025/preprint-quantifying-bias/index.html"
+    ]
+  },
+  {
     "listing": "/talks/index.html",
     "items": [
       "/talks/posts/2026/03/25/seminario-ciencias-sociales.html",
+      "/talks/posts/2026/03/03/interchange-btai.html",
+      "/talks/posts/2026/03/02/hnpw-panel.html",
       "/talks/posts/2026/01/20/london-universities-population-seminar-series.html",
       "/talks/posts/2025/11/25/iom-report-launch.html",
       "/talks/posts/2025/11/19/wittgenstein-centre-conference.html",
       "/talks/posts/2025/09/23/oecd-mno.html",
+      "/talks/posts/2025/09/10/meta-lightning-talk.html",
       "/talks/posts/2025/09/03/bsps.html",
       "/talks/posts/2025/09/02/rss-international.html",
+      "/talks/posts/2025/08/05/nersa-narsc.html",
+      "/talks/posts/2025/07/16/ipc.html",
       "/talks/posts/2025/07/11/university-of-queensland.html",
+      "/talks/posts/2025/07/01/anu.html",
       "/talks/posts/2025/06/26/rmit.html",
       "/talks/posts/2025/06/24/university-of-melbourne-geography.html",
       "/talks/posts/2025/06/20/transport-lab-sydney.html",
+      "/talks/posts/2025/05/14/jrc-workshop.html",
       "/talks/posts/2025/01/23/fcdo.html",
       "/talks/posts/2025/01/23-2/uji.html",
       "/talks/posts/2024/11/15/lambda.html",
@@ -39,12 +53,6 @@
       "/talks/posts/2024/09/17/mpidr.html",
       "/talks/posts/2024/09/09/bsps.html",
       "/talks/posts/2024/09/02/exeter.html"
-    ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/2025/preprint-quantifying-bias/index.html"
     ]
   }
 ]

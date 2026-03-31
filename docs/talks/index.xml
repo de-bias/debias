@@ -41,6 +41,52 @@
   <media:content url="de-bias.github.io/debias/talks/posts/2026/03/25/images/IMG_8190.PNG" medium="image"/>
 </item>
 <item>
+  <title>Hosted Roundtables Programme 2026 - Interchange UK</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2026/03/03/interchange-btai.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco contributed to the roundtable <em>Transport Demand and human behaviour: A new approach</em> at the Hosted Roundtables Programme 2026, Interchange UK, on 3 March 2026.</p>
+<p>This roundtable explored the relationship between economic activity, human behaviour, and transport demand, with a focus on reimagining forecasting, prediction, and modelling approaches. It considered how to move beyond traditional data sources by incorporating real-time data and the idea of “human weather” using population movement as a predictive tool.</p>
+<p>The discussion addressed challenges such as accounting for diverse and unpredictable behaviours, developing more localised and adaptive models, governance and guidance, and better alignment between regional and national planning priorities. The session was hosted by BT Active Intelligence.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_interchange_btai/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2026/03/03/interchange-btai.html</guid>
+  <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_interchange_btai/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Humanitarian Networks and Partnerships Weeks (HNPW 2026)</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2026/03/02/hnpw-panel.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco contributed to the panel <em>Innovating Data for Humanitarian Action: Integrating Traditional and Digital Trace Data to Monitor Displacement</em> at Humanitarian Networks and Partnerships Weeks (HNPW 2026) on 2 March 2026.</p>
+<p>This session examined how internal displacement continues to rise at an alarming pace and how humanitarian actors face growing pressure to generate timely, reliable, and actionable insights on population movements. It presented an innovative, policy-driven framework that integrates traditional humanitarian data systems with emerging digital trace data, including mobile phone GPS signals and social media activity, to improve how displacement is monitored and understood.</p>
+<p>Drawing on newly published work developed by the University of Liverpool’s Geographic Data Science Lab in collaboration with IOM’s Displacement Tracking Matrix (DTM), the panel discussed how triangulating multiple data sources can strengthen humanitarian analysis and operational decision-making across conflict and climate-related disaster settings.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_hnpw_panel/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2026/03/02/hnpw-panel.html</guid>
+  <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_hnpw_panel/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
   <title>London Universities Population Seminar Series at the London School of Economics</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/talks/posts/2026/01/20/london-universities-population-seminar-series.html</link>
@@ -135,8 +181,31 @@
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_oecd_mno/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
-  <title>DEBIAS at the British Society for Population Studies (BSPS) Conference</title>
-  <dc:creator>Carmen Cabrera</dc:creator>
+  <title>Meta Lightning Talks - AI &amp; Data for Good at Meta - Q3 2025</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/09/10/meta-lightning-talk.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Beyond the Immediate Impacts of COVID-19 on Human Mobility</em> at Meta Lightning Talks - AI &amp; Data for Good at Meta - Q3 2025 on 10 September 2025.</p>
+<p>This lightning talk examined mobility dynamics beyond the immediate impacts of COVID-19 on human mobility. Drawing on Facebook Population and Movement data, it showed how digital trace data can support timely evidence on shifting population patterns.</p>
+<p>The talk also highlighted practical impact through collaboration with the United Nations to support disaster operations and the planning of sustainable cities, illustrating how data-driven mobility insights can inform real-world humanitarian and policy challenges.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_meta/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/09/10/meta-lightning-talk.html</guid>
+  <pubDate>Tue, 09 Sep 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_meta/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>British Society for Population Studies 2025 Conference</title>
+  <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/talks/posts/2025/09/03/bsps.html</link>
   <description><![CDATA[ 
 
@@ -144,8 +213,10 @@
 
 
 
-<p>Carmen presented the <a href="https://de-bias.github.io/debias/publications/2025/preprint-quantifying-bias/">first paper of DEBIAS</a> at the <a href="https://www.lse.ac.uk/international-development/research/british-society-for-population-studies/annual-conference">British Society for Population Studies (BSPS) Conference</a>, held in Swansea from the 2nd - 4th of September 2025.</p>
-<p><img src="de-bias.github.io/debias/talks/posts/2025/09/03/images/bsps-cc.jpg" class="img-fluid"></p>
+<p>Francisco presented <em>Producing Population-level Estimates of Internal Displacement in Ukraine Using GPS Mobile Phone Data</em> at the British Society for Population Studies 2025 Conference, hosted by the University of Swansea, Swansea, Wales, on 3 September 2025.</p>
+<p>This talk presented methods to produce population-level estimates of internal displacement in Ukraine using GPS mobile phone data, with an emphasis on robust inference under crisis conditions.</p>
+<p>The presentation focused on how high-frequency mobile phone location data can be used to generate timely and policy-relevant population estimates in contexts of displacement. It highlighted the value of digital trace data for understanding population movements during crises while maintaining attention to methodological robustness and inference challenges.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_bsps/featured.png" class="img-fluid"></p>
 
 
 
@@ -153,7 +224,7 @@
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/09/03/bsps.html</guid>
   <pubDate>Tue, 02 Sep 2025 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/talks/posts/2025/09/03/images/bsps.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_bsps/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Royal Statistical Society International Conference 2025</title>
@@ -179,6 +250,52 @@
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rss_intl/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
+  <title>NERSA/NARSC Program in Mobility, Migration, and Regional Science</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/08/05/nersa-narsc.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Releasing the full potential of digital trace data for human migration research</em> at the NERSA/NARSC Program in Mobility, Migration, and Regional Science on 5 August 2025.</p>
+<p>This talk explored how technological advances have enabled the production, processing, analysis, and storage of large volumes of digital information, offering high geographic and temporal granularity, extensive coverage, and near-instant information to measure and transform our understanding of human mobility.</p>
+<p>The presentation discussed how digital footprint data have contributed to expanding existing theories, developing new explanations, adopting new analytical tools and infrastructures, and advancing areas such as computational social science and geographic data science. It also identified major epistemological, methodological, and ethical challenges, and reflected on current practices and opportunities for future research in migration studies.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_nersa_narsc/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/08/05/nersa-narsc.html</guid>
+  <pubDate>Mon, 04 Aug 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_nersa_narsc/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>International Population Conference (IPC2025)</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/07/16/ipc.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Producing Population-level Estimates of Internal Displacement in Ukraine Using GPS Mobile Phone Data</em> at the International Population Conference (IPC2025), held in Brisbane, Australia, on 16 July 2025.</p>
+<p>This talk presented methods to produce population-level estimates of internal displacement in Ukraine using GPS mobile phone data, with emphasis on near real-time measurement and population inference.</p>
+<p>The presentation focused on how high-frequency mobile phone location data can be used to generate timely and policy-relevant population estimates during crises. It highlighted the potential of digital trace data to support the measurement of displacement dynamics while maintaining attention to robust inference and methodological challenges.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_ipc/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/07/16/ipc.html</guid>
+  <pubDate>Tue, 15 Jul 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_ipc/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
   <title>University of Queensland</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/talks/posts/2025/07/11/university-of-queensland.html</link>
@@ -200,6 +317,29 @@
   <guid>de-bias.github.io/debias/talks/posts/2025/07/11/university-of-queensland.html</guid>
   <pubDate>Thu, 10 Jul 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_uq/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Australian National University</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/07/01/anu.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Correcting for Biases in Location Data from Mobile Phones to Estimate Mobility Flows</em> at the School of Demography, Australian National University, Canberra, Australia, on 1 July 2025.</p>
+<p>Access to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.</p>
+<p>The talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_anu/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/07/01/anu.html</guid>
+  <pubDate>Mon, 30 Jun 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_anu/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>Department of Mathematics and Geospatial Science Seminar Series at RMIT</title>
@@ -271,6 +411,29 @@
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_transportlab_sydney/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
+  <title>Workshop: Measurement of the Flows Across the Internal Borders of the European Union</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2025/05/14/jrc-workshop.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco presented <em>Mobile Phone Data for Cross-border Population &amp; Expenditure Flows: Ideas &amp; Challenges</em> at the workshop <em>Measurement of the flows across the internal borders of the European Union</em>, held at the European Commission Joint Research Centre in Ispra, Italy, on 14 May 2025.</p>
+<p>This workshop talk discussed the use of mobile phone data to estimate cross-border population and expenditure flows across internal European Union borders, focusing on methodological opportunities and practical challenges for robust measurement.</p>
+<p>The presentation examined how digital trace data from mobile phones can support the measurement of cross-border dynamics, while also highlighting the importance of careful methodological design, data interpretation, and robust inference when using these emerging sources for official and policy-relevant analysis.</p>
+<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_jrc_workshop/featured.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2025/05/14/jrc-workshop.html</guid>
+  <pubDate>Tue, 13 May 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_jrc_workshop/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
   <title>DEBIAS at the FCDO</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/talks/posts/2025/01/23/fcdo.html</link>
@@ -317,126 +480,6 @@
   <guid>de-bias.github.io/debias/talks/posts/2025/01/23-2/uji.html</guid>
   <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2025/01/23-2/images/UJI_image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>DEBIAS contributes to the 2024 LAMBDA meeting</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/talks/posts/2024/11/15/lambda.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>DEBIAS delivered a presentation at the Liverpool Advanced Methods for Big Data Analytics (LAMBDA) Research Centre hosted an interdisciplinary workshop titled ‘Machine Learning and AI’ on Friday 15 November 2024. Francisco presented work identifying the key area-level predictions contributing to increasing biases in human mobility data derived from mobile phone applications using explainable machine learning.</p>
-<div class="quarto-figure quarto-figure-&quot;centre">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/talks/posts/2024/11/15/images/debias-talk.png" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>talks</category>
-  <guid>de-bias.github.io/debias/talks/posts/2024/11/15/lambda.html</guid>
-  <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/talks/posts/2024/11/15/images/debias-talk.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>DEBIAS at CASA-UCL</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/talks/posts/2024/10/23/casa.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco was invited to deliver a seminar at the Bartlett Centre for Advanced Spatial Analysis Seminar Series. His talk focused on the use of human mobility data extracted from smartphones to develop population-level estimates. The talk focus on recent work that he has done in collaboration with Elisabetta Pietrostefani and Rodgers Iradukunda estimating internal population displacement in Ukraine during the Russia’s full-scale invasion. This work has aimed at contributing to supporting IOM - UN Migration humanitarian assistance efforts.</p>
-<p>This encompasses the broader idea of DEBIAS to produce bias-adjusted estimates of mobility from digital technology.</p>
-<iframe width="950" height="500" src="https://www.youtube.com/embed/r3I23TUBA8I?si=d8GqMpz9i91XrYHm" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
-</iframe>
-
-
-
- ]]></description>
-  <category>talks</category>
-  <guid>de-bias.github.io/debias/talks/posts/2024/10/23/casa.html</guid>
-  <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/talks/posts/2024/10/23/images/casa-desc.png" medium="image" type="image/png" height="78" width="144"/>
-</item>
-<item>
-  <title>Research visit at the Max Planck Institute for Demographic Research</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/talks/posts/2024/09/17/mpidr.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco visited the the Max Planck Institute for Demographic Research (MPIDR). He participated in the <em>International migration in Central and Eastern Europe: changing patterns, determinants, and measurement challenges</em>. He was invited to deliver a presentation on a <a href="https://doi.org/10.1002/psp.2790">paper</a> published in Population, Space and Place making use of digital footprint data to identify the potential subnational areas of settlement for Ukrainian refugees across Europe. Francisco was also invited to contribute to the flagship project <em>Human Migration Database</em> led by Emilio Zagheni. This database is the first-of-its-kind seeking to offer global data on annual international migration flows between countries.</p>
-<p><img src="de-bias.github.io/debias/talks/posts/2024/09/17/images/fco-mpidr-photo.jpg" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>talks</category>
-  <guid>de-bias.github.io/debias/talks/posts/2024/09/17/mpidr.html</guid>
-  <pubDate>Mon, 16 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/talks/posts/2024/09/17/images/fco-mpidr-photo.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Presentations at the British Society for Population Studies conference</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/talks/posts/2024/09/09/bsps.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>The DEBIAS team participated in the <a href="https://www.lse.ac.uk/international-development/research/british-society-for-population-studies">British Society for Population Studies</a> conference in Bath. Francisco organised and chaired the session <em>“Migration 2: Migration, digital traces and methodological innovations”</em>. Carmen delivered a talk titled “The impact of COVID-19 on mobility patterns in Latin America”, including research findings obtained from the analysis of mobile phone data from Meta to assess the medium-term effects of COVID-19 on internal mobility in Argentina, Colombia and Chile. The DEBIAS team have developed a methodology to address some key biases in these data. Keeps your eyes peeled for the publication coming up.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/talks/posts/2024/09/09/images/bath-photo.jpg" class="img-fluid figure-img"></p>
-<figcaption>Bath. Source: UCL Media Services. Photographer: Mary Hinkley. Copyright: © UCL Media Services - University College London.</figcaption>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>talks</category>
-  <guid>de-bias.github.io/debias/talks/posts/2024/09/09/bsps.html</guid>
-  <pubDate>Sun, 08 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/talks/posts/2024/09/09/images/bath-photo.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Keynote at the Annual Conference on Complex Systems</title>
-  <dc:creator>Carmen Cabrera</dc:creator>
-  <link>de-bias.github.io/debias/talks/posts/2024/09/02/exeter.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Digital trace data, such as location data collected from smartphone apps, offers a unique opportunity to analyse population movements at high spatiotemporal granularity, with extensive coverage in near real-time. Yet, a key challenge for its use in human mobility research and evidence-based policymaking is the presence of biases. These issues were addressed in the keynote talk titled “Leveraging digital trace data for human mobility research” and delivered at UrbanSys, a satellite session within the Conference on Complex Systems, taking place in Exeter (UK) in early September 2024.</p>
-<div class="quarto-figure quarto-figure-centre">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/talks/posts/2024/09/02/images/talk-ccs.jpeg" class="img-fluid quarto-figure quarto-figure-centre figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>talks</category>
-  <guid>de-bias.github.io/debias/talks/posts/2024/09/02/exeter.html</guid>
-  <pubDate>Sun, 01 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/talks/posts/2024/09/02/images/talk-ccs.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

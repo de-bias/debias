@@ -1,0 +1,15 @@
+---
+title: "Meta Lightning Talks - AI & Data for Good at Meta - Q3 2025"
+author: "Francisco Rowe"
+date: "2025-09-10"
+categories: [talks]
+image: "https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_meta/featured.png"
+---
+
+Francisco presented *Beyond the Immediate Impacts of COVID-19 on Human Mobility* at Meta Lightning Talks - AI & Data for Good at Meta - Q3 2025 on 10 September 2025.
+
+This lightning talk examined mobility dynamics beyond the immediate impacts of COVID-19 on human mobility. Drawing on Facebook Population and Movement data, it showed how digital trace data can support timely evidence on shifting population patterns.
+
+The talk also highlighted practical impact through collaboration with the United Nations to support disaster operations and the planning of sustainable cities, illustrating how data-driven mobility insights can inform real-world humanitarian and policy challenges.
+
+![](https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_meta/featured.png)

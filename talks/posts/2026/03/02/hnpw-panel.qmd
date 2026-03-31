@@ -1,0 +1,15 @@
+---
+title: "Humanitarian Networks and Partnerships Weeks (HNPW 2026)"
+author: "Francisco Rowe"
+date: "2026-03-02"
+categories: [talks]
+image: "https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_hnpw_panel/featured.png"
+---
+
+Francisco contributed to the panel *Innovating Data for Humanitarian Action: Integrating Traditional and Digital Trace Data to Monitor Displacement* at Humanitarian Networks and Partnerships Weeks (HNPW 2026) on 2 March 2026.
+
+This session examined how internal displacement continues to rise at an alarming pace and how humanitarian actors face growing pressure to generate timely, reliable, and actionable insights on population movements. It presented an innovative, policy-driven framework that integrates traditional humanitarian data systems with emerging digital trace data, including mobile phone GPS signals and social media activity, to improve how displacement is monitored and understood.
+
+Drawing on newly published work developed by the University of Liverpool's Geographic Data Science Lab in collaboration with IOM's Displacement Tracking Matrix (DTM), the panel discussed how triangulating multiple data sources can strengthen humanitarian analysis and operational decision-making across conflict and climate-related disaster settings.
+
+![](https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_hnpw_panel/featured.png)

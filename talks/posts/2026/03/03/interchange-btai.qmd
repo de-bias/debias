@@ -1,0 +1,15 @@
+---
+title: "Hosted Roundtables Programme 2026 - Interchange UK"
+author: "Francisco Rowe"
+date: "2026-03-03"
+categories: [talks]
+image: "https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_interchange_btai/featured.png"
+---
+
+Francisco contributed to the roundtable *Transport Demand and human behaviour: A new approach* at the Hosted Roundtables Programme 2026, Interchange UK, on 3 March 2026.
+
+This roundtable explored the relationship between economic activity, human behaviour, and transport demand, with a focus on reimagining forecasting, prediction, and modelling approaches. It considered how to move beyond traditional data sources by incorporating real-time data and the idea of "human weather" using population movement as a predictive tool.
+
+The discussion addressed challenges such as accounting for diverse and unpredictable behaviours, developing more localised and adaptive models, governance and guidance, and better alignment between regional and national planning priorities. The session was hosted by BT Active Intelligence.
+
+![](https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_interchange_btai/featured.png)

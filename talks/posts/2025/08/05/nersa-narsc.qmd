@@ -1,0 +1,15 @@
+---
+title: "NERSA/NARSC Program in Mobility, Migration, and Regional Science"
+author: "Francisco Rowe"
+date: "2025-08-05"
+categories: [talks]
+image: "https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_nersa_narsc/featured.png"
+---
+
+Francisco presented *Releasing the full potential of digital trace data for human migration research* at the NERSA/NARSC Program in Mobility, Migration, and Regional Science on 5 August 2025.
+
+This talk explored how technological advances have enabled the production, processing, analysis, and storage of large volumes of digital information, offering high geographic and temporal granularity, extensive coverage, and near-instant information to measure and transform our understanding of human mobility.
+
+The presentation discussed how digital footprint data have contributed to expanding existing theories, developing new explanations, adopting new analytical tools and infrastructures, and advancing areas such as computational social science and geographic data science. It also identified major epistemological, methodological, and ethical challenges, and reflected on current practices and opportunities for future research in migration studies.
+
+![](https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_nersa_narsc/featured.png)

@@ -1,0 +1,15 @@
+---
+title: "International Population Conference (IPC2025)"
+author: "Francisco Rowe"
+date: "2025-07-16"
+categories: [talks]
+image: "https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_ipc/featured.png"
+---
+
+Francisco presented *Producing Population-level Estimates of Internal Displacement in Ukraine Using GPS Mobile Phone Data* at the International Population Conference (IPC2025), held in Brisbane, Australia, on 16 July 2025.
+
+This talk presented methods to produce population-level estimates of internal displacement in Ukraine using GPS mobile phone data, with emphasis on near real-time measurement and population inference.
+
+The presentation focused on how high-frequency mobile phone location data can be used to generate timely and policy-relevant population estimates during crises. It highlighted the potential of digital trace data to support the measurement of displacement dynamics while maintaining attention to robust inference and methodological challenges.
+
+![](https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_ipc/featured.png)
