@@ -17,7 +17,7 @@
 <generator>quarto-1.9.30</generator>
 <lastBuildDate>Sat, 06 Jun 2026 21:00:00 GMT</lastBuildDate>
 <item>
-  <title>DEBIAS workshop at the Mobile Tartu PhD School</title>
+  <title>DEBIAS at Mobile Tartu</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/talks/posts/2026/06/07/mobile-tartu-phd-school.html</link>
   <description><![CDATA[ 
@@ -26,10 +26,9 @@
 
 
 
-<p>Carmen and Francisco led the workshop <em>Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework</em> at the Mobile Tartu PhD School, part of the 10th Mobile Tartu Conference hosted by the Mobility Lab at the University of Tartu.</p>
-<p>The workshop took place on the 7th and 8th June 2026 and introduced the DEBIAS project and (importantly!) a beta version of <code>debiasR</code>, a new R package under development to help identify, assess and correct coverage and representativeness biases in digital trace mobility data. Drawing on digital traces from sources such as GPS data and Call Detail Records, the session focused on how researchers can produce more reliable estimates of human mobility and critically engage with the biases embedded in these data.</p>
-<p>Participants worked through the conceptual foundations of the DEBIAS framework before applying <code>debiasR</code> in practical data analysis and group exercises. The workshop created space for doctoral researchers to test the package, reflect on its development and explore how bias correction methods can support urban, transport and demographic research using digital mobility data. On the 9th of June, attendees presented the work they had developed during the workshop, offering great insights as <code>debiasR</code> continues to evolve.</p>
-<p>Mobile Tartu brings together researchers working on human mobility, mobile big data and mobility data justice for resilient, just and sustainable societies. The PhD School provided a lively setting to share early DEBIAS tools with an international group of doctoral researchers and involve participants directly in the package development process.</p>
+<p>Carmen and Francisco brought DEBIAS to <a href="https://mobiletartu.ut.ee/">Mobile Tartu</a>. Mobile Tartu brings together researchers working on human mobility, mobile big data and mobility data justice for resilient, just and sustainable societies.</p>
+<p>On the 7th and 8th of June, both Carmen and Francisco led the workshop <em>Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework</em> at the Mobile Tartu PhD School, part of the 10th Mobile Tartu Conference hosted by the Mobility Lab at the University of Tartu. The workshop introduced the DEBIAS project and (importantly!) a beta version of <a href="https://de-bias.github.io/debiasR/">debiasR</a>, a new R package under development to help identify, assess and correct coverage and representativeness biases in digital trace mobility data. Drawing on digital traces from sources such as GPS data and Call Detail Records, the session focused on how researchers can produce more reliable estimates of human mobility and critically engage with the biases embedded in these data. Participants worked through the conceptual foundations of the DEBIAS framework before applying <code>debiasR</code> in practical data analysis and group exercises. Attendees had the chance to present the work they had developed during the workshop, offering great insights as <code>debiasR</code> continues to evolve.</p>
+<p>On the 9th of June, Francisco presented the DEBIAS progress at the The World Bank Group session supported through Global Data Facility programme chaired by the skilful Siim Esko, from <a href="https://positium.com/">Positium</a>.</p>
 <p><img src="de-bias.github.io/debias/talks/posts/2026/06/07/images/thumbnail.png" class="img-fluid"></p>
 
 
@@ -159,6 +158,30 @@
   <guid>de-bias.github.io/debias/talks/posts/2026/03/02/hnpw-panel.html</guid>
   <pubDate>Sun, 01 Mar 2026 22:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_hnpw_panel/featured.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>Keynote at the Winter Workshop on Complex Systems</title>
+  <dc:creator>Carmen Cabrera</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2026/01/29/winter-workshop-complex-systems.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Carmen gave a keynote at the 11th Winter Workshop on Complex Systems, held in Santuari de Lluc, Mallorca, from the 25th to the 30th of January 2026.</p>
+<p>The Winter Workshop on Complex Systems is a one-week event where young PhD and postdoctoral researchers from around the world come together to develop interdisciplinary projects in complex systems. The workshop has a long history of bringing participants together in an intensive research setting, with the 2026 edition hosted in Mallorca, Spain.</p>
+<p>Carmen’s keynote introduced the DEBIAS framework and ongoing work on the analysis of digital trace data to evaluate the impact of disruptions to day-to-day mobility. The talk connected DEBIAS to wider work on disruption and inequality in mobility, including research showing how <a href="https://doi.org/10.1093/pnasnexus/pgag078">extreme heat reduces and reshapes urban mobility</a> and how <a href="https://arxiv.org/abs/2504.15871">sustained changes to urban mobility after COVID-19 amplified socio-economic inequalities in Latin America</a>.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2026/01/29/images/thumbnail.jpeg" class="img-fluid"></p>
+<p><img src="de-bias.github.io/debias/talks/posts/2026/01/29/images/1770309685655.jpeg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2026/01/29/winter-workshop-complex-systems.html</guid>
+  <pubDate>Wed, 28 Jan 2026 22:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2026/01/29/images/thumbnail.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>London Universities Population Seminar Series at the London School of Economics</title>
@@ -460,29 +483,6 @@
   <guid>de-bias.github.io/debias/talks/posts/2025/06/24/university-of-melbourne-geography.html</guid>
   <pubDate>Mon, 23 Jun 2025 21:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_unimelb_geography/featured.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Transport Lab Seminar Series at the University of Sydney</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/talks/posts/2025/06/20/transport-lab-sydney.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco presented <em>Correcting Distorted Human Mobility Data from Mobile Phone Applications</em> at the Transport Lab Seminar Series, University of Sydney, Sydney, Australia, on 20 June 2025.</p>
-<p>Access to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.</p>
-<p>The talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from mobile phone applications and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from mobile phone applications. Third, it presented plans for future work in this area.</p>
-<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_transportlab_sydney/featured.png" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>talks</category>
-  <guid>de-bias.github.io/debias/talks/posts/2025/06/20/transport-lab-sydney.html</guid>
-  <pubDate>Thu, 19 Jun 2025 21:00:00 GMT</pubDate>
-  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_transportlab_sydney/featured.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
