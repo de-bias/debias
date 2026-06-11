@@ -1,6 +1,6 @@
 ---
 title: "Digital trace data for the study of urban dynamics: a really valuable asset… with caveats"
-author: "Carmen"
+author: "Carmen Cabrera"
 date: "2026-03-19"
 categories: [talks]
 image: "images/seminar-icta-uab.png"

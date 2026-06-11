@@ -18,7 +18,7 @@
 <lastBuildDate>Sat, 06 Jun 2026 21:00:00 GMT</lastBuildDate>
 <item>
   <title>DEBIAS workshop at the Mobile Tartu PhD School</title>
-  <dc:creator>Carmen Cabrera and Francisco Rowe</dc:creator>
+  <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/talks/posts/2026/06/07/mobile-tartu-phd-school.html</link>
   <description><![CDATA[ 
 
@@ -31,8 +31,6 @@
 <p>Participants worked through the conceptual foundations of the DEBIAS framework before applying <code>debiasR</code> in practical data analysis and group exercises. The workshop created space for doctoral researchers to test the package, reflect on its development and explore how bias correction methods can support urban, transport and demographic research using digital mobility data. On the 9th of June, attendees presented the work they had developed during the workshop, offering great insights as <code>debiasR</code> continues to evolve.</p>
 <p>Mobile Tartu brings together researchers working on human mobility, mobile big data and mobility data justice for resilient, just and sustainable societies. The PhD School provided a lively setting to share early DEBIAS tools with an international group of doctoral researchers and involve participants directly in the package development process.</p>
 <p><img src="de-bias.github.io/debias/talks/posts/2026/06/07/images/thumbnail.png" class="img-fluid"></p>
-<p><img src="de-bias.github.io/debias/talks/posts/2026/06/07/images/IMG_0899.jpeg" class="img-fluid"></p>
-<p><img src="de-bias.github.io/debias/talks/posts/2026/06/07/images/IMG_0906.jpeg" class="img-fluid"></p>
 
 
 
@@ -68,7 +66,7 @@
 </item>
 <item>
   <title>Digital trace data for the study of urban dynamics: a really valuable asset… with caveats</title>
-  <dc:creator>Carmen </dc:creator>
+  <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/talks/posts/2026/03/19/city-lab-barcelona.html</link>
   <description><![CDATA[ 
 
