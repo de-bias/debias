@@ -2,47 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>de-bias.github.io/debias/book/index.html</loc>
-    <lastmod>2026-03-31T21:31:22.093Z</lastmod>
+    <lastmod>2025-02-17T09:30:59.342Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/updates/index.html</loc>
     <lastmod>2024-10-03T17:35:53.787Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</loc>
-    <lastmod>2026-03-31T21:31:22.442Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2026/04/28/carmen-un-cebd-mobile-phone-data.html</loc>
+    <lastmod>2026-06-11T15:24:18.099Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</loc>
-    <lastmod>2026-03-31T21:31:22.442Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/09/13/un-task-team.html</loc>
+    <lastmod>2024-10-03T17:35:53.793Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</loc>
-    <lastmod>2026-03-31T21:31:22.451Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</loc>
+    <lastmod>2025-01-28T07:37:13.457Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/11/15/lambda.html</loc>
-    <lastmod>2026-03-31T21:31:22.457Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</loc>
+    <lastmod>2025-01-28T07:37:13.457Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/11/20/valencia-floods.html</loc>
-    <lastmod>2026-03-31T21:31:22.460Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/17/debias-mexico.html</loc>
+    <lastmod>2025-01-27T06:34:34.587Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</loc>
-    <lastmod>2026-03-31T21:31:22.463Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</loc>
+    <lastmod>2025-02-26T08:31:48.699Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2025/05/05/complexity-vienna.html</loc>
-    <lastmod>2026-03-31T21:31:22.474Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2025/01/24/transport-geo.html</loc>
+    <lastmod>2025-01-27T06:34:34.598Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/index.html</loc>
     <lastmod>2024-10-03T17:35:53.782Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/talks/posts/2026/01/20/london-universities-population-seminar-series.html</loc>
-    <lastmod>2026-05-05T08:26:09.450Z</lastmod>
+    <loc>de-bias.github.io/debias/talks/posts/2026/06/07/mobile-tartu.html</loc>
+    <lastmod>2026-06-11T12:51:28.300Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2026/01/29/winter-workshop-complex-systems.html</loc>
+    <lastmod>2026-06-11T12:43:07.748Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2026/03/25/seminario-ciencias-sociales.html</loc>
+    <lastmod>2026-05-05T08:26:09.454Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2026/03/02/hnpw-panel.html</loc>
@@ -50,15 +58,15 @@
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2024/09/09/bsps.html</loc>
-    <lastmod>2026-03-31T21:31:22.407Z</lastmod>
+    <lastmod>2024-10-03T17:35:53.784Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2024/09/02/exeter.html</loc>
-    <lastmod>2026-03-31T21:31:22.406Z</lastmod>
+    <lastmod>2025-02-26T08:29:49.943Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2024/11/15/lambda.html</loc>
-    <lastmod>2026-03-31T21:31:22.413Z</lastmod>
+    <lastmod>2025-09-08T08:52:47.406Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2025/06/26/rmit.html</loc>
@@ -66,7 +74,7 @@
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2025/01/23/fcdo.html</loc>
-    <lastmod>2026-03-31T21:31:22.420Z</lastmod>
+    <lastmod>2025-09-08T08:51:58.682Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2025/08/05/nersa-narsc.html</loc>
@@ -93,12 +101,16 @@
     <lastmod>2026-05-05T08:26:09.435Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/publications/2025/preprint-quantifying-bias/index.html</loc>
-    <lastmod>2026-03-31T21:31:22.404Z</lastmod>
+    <loc>de-bias.github.io/debias/publications/index.html</loc>
+    <lastmod>2025-09-05T09:30:05.490Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/publications/index.html</loc>
-    <lastmod>2026-03-31T21:31:22.404Z</lastmod>
+    <loc>de-bias.github.io/debias/publications/2025/preprint-quantifying-bias/index.html</loc>
+    <lastmod>2025-09-05T09:34:04.722Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2025/04/25/complenet.html</loc>
+    <lastmod>2026-06-11T15:32:00.961Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2025/11/19/wittgenstein-centre-conference.html</loc>
@@ -122,7 +134,7 @@
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2025/01/23-2/uji.html</loc>
-    <lastmod>2026-03-31T21:31:22.420Z</lastmod>
+    <lastmod>2025-02-26T08:29:14.942Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2025/06/20/transport-lab-sydney.html</loc>
@@ -134,51 +146,59 @@
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2024/10/23/casa.html</loc>
-    <lastmod>2026-03-31T21:31:22.410Z</lastmod>
+    <lastmod>2025-09-08T08:52:48.229Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2024/09/17/mpidr.html</loc>
-    <lastmod>2026-03-31T21:31:22.410Z</lastmod>
+    <lastmod>2024-10-03T17:35:53.787Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/posts/2026/03/03/interchange-btai.html</loc>
     <lastmod>2026-05-05T08:26:09.450Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/talks/posts/2026/03/25/seminario-ciencias-sociales.html</loc>
-    <lastmod>2026-05-05T08:26:09.454Z</lastmod>
+    <loc>de-bias.github.io/debias/talks/posts/2026/03/19/city-lab-barcelona.html</loc>
+    <lastmod>2026-06-11T12:04:59.022Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2026/01/20/london-universities-population-seminar-series.html</loc>
+    <lastmod>2026-05-05T08:26:09.450Z</lastmod>
+  </url>
+  <url>
+    <loc>de-bias.github.io/debias/talks/posts/2026/06/02/boston-visit-urbannet.html</loc>
+    <lastmod>2026-06-11T12:25:00.491Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/talks/index.html</loc>
     <lastmod>2024-10-03T17:35:53.783Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2025/04/24/complenet.html</loc>
-    <lastmod>2026-03-31T21:31:22.465Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2025/05/05/complexity-vienna.html</loc>
+    <lastmod>2025-05-18T17:35:57.812Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2025/01/24/transport-geo.html</loc>
-    <lastmod>2026-03-31T21:31:22.465Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</loc>
+    <lastmod>2025-01-28T07:37:13.457Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</loc>
-    <lastmod>2026-03-31T21:31:22.463Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/20/valencia-floods.html</loc>
+    <lastmod>2025-01-27T06:34:34.591Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/11/17/debias-mexico.html</loc>
-    <lastmod>2026-03-31T21:31:22.458Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/11/15/lambda.html</loc>
+    <lastmod>2025-01-27T06:34:34.587Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</loc>
-    <lastmod>2026-03-31T21:31:22.453Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</loc>
+    <lastmod>2025-01-28T07:37:13.454Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</loc>
-    <lastmod>2026-03-31T21:31:22.453Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</loc>
+    <lastmod>2024-10-03T17:35:53.789Z</lastmod>
   </url>
   <url>
-    <loc>de-bias.github.io/debias/updates/posts/2024/09/13/un-task-team.html</loc>
-    <lastmod>2026-03-31T21:31:22.445Z</lastmod>
+    <loc>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</loc>
+    <lastmod>2025-02-26T08:30:59.435Z</lastmod>
   </url>
   <url>
     <loc>de-bias.github.io/debias/updates/posts/2026/02/27/ons-working-group.html</loc>
@@ -186,26 +206,6 @@
   </url>
   <url>
     <loc>de-bias.github.io/debias/project/index.html</loc>
-    <lastmod>2026-03-31T21:31:22.403Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/talks/posts/2026/03/19/city-lab-barcelona.html</loc>
-    <lastmod>2026-06-11T12:04:59.022Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/talks/posts/2026/06/07/mobile-tartu-phd-school.html</loc>
-    <lastmod>2026-06-11T12:48:11.104Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/talks/posts/2026/06/02/boston-visit-urbannet.html</loc>
-    <lastmod>2026-06-11T12:25:00.491Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/talks/posts/2026/01/29/winter-workshop-complex-systems.html</loc>
-    <lastmod>2026-06-11T12:43:07.748Z</lastmod>
-  </url>
-  <url>
-    <loc>de-bias.github.io/debias/talks/posts/2026/06/07/mobile-tartu.html</loc>
-    <lastmod>2026-06-11T12:51:28.300Z</lastmod>
+    <lastmod>2025-02-26T08:32:19.466Z</lastmod>
   </url>
 </urlset>
