@@ -41,6 +41,32 @@
   <media:content url="de-bias.github.io/debias/talks/posts/2026/06/07/images/thumbnail.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
+  <title>DEBIAS in Boston: Northeastern University, MIT Senseable City Lab and UrbanNET</title>
+  <dc:creator>Carmen Cabrera</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2026/06/02/boston-visit-urbannet.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Carmen visited Boston to meet with DEBIAS project partners and present the project at UrbanNET, a satellite session of the NetSci Conference.</p>
+<p>On the 29th of May 2026, Carmen visited Northeastern University Network Science Institute, where she met with Professor Esteban Moro and the Social Urban Networks (SUN) group. The visit provided an opportunity to discuss the group’s work on urban mobility, social mixing and the impacts of transport interventions, as well as ongoing connections with the DEBIAS project.</p>
+<p>Carmen also visited MIT Senseable City Lab, where she met with Paolo Santi, Francois Gu and Pei Zhao to exchange ideas on data bias, remote work patterns, truck electrification and other emerging directions in urban data science.</p>
+<p>During the visit, Carmen presented DEBIAS at UrbanNET, one of the NetSci satellite sessions focused on urban systems, network science and complex systems methods. The session brought together researchers working with conventional and non-conventional data to understand urban mobility networks, city structure, socio-economic patterns, neighbourhood dynamics and the design and management of resilient urban systems.</p>
+<p>The Boston visit created a valuable opportunity to connect DEBIAS with leading research groups working at the intersection of human mobility, digital traces, network science and urban analytics.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2026/06/02/images/thumbnail.png" class="img-fluid"></p>
+<p><img src="de-bias.github.io/debias/talks/posts/2026/06/02/images/1780515119266.jpeg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2026/06/02/boston-visit-urbannet.html</guid>
+  <pubDate>Mon, 01 Jun 2026 21:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2026/06/02/images/thumbnail.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
   <title>Seminario Ciencias Sociales at Universidad de la Republica</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/talks/posts/2026/03/25/seminario-ciencias-sociales.html</link>
@@ -457,29 +483,6 @@
   <guid>de-bias.github.io/debias/talks/posts/2025/06/20/transport-lab-sydney.html</guid>
   <pubDate>Thu, 19 Jun 2025 21:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_transportlab_sydney/featured.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Workshop: Measurement of the Flows Across the Internal Borders of the European Union</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/talks/posts/2025/05/14/jrc-workshop.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco presented <em>Mobile Phone Data for Cross-border Population &amp; Expenditure Flows: Ideas &amp; Challenges</em> at the workshop <em>Measurement of the flows across the internal borders of the European Union</em>, held at the European Commission Joint Research Centre in Ispra, Italy, on 14 May 2025.</p>
-<p>This workshop talk discussed the use of mobile phone data to estimate cross-border population and expenditure flows across internal European Union borders, focusing on methodological opportunities and practical challenges for robust measurement.</p>
-<p>The presentation examined how digital trace data from mobile phones can support the measurement of cross-border dynamics, while also highlighting the importance of careful methodological design, data interpretation, and robust inference when using these emerging sources for official and policy-relevant analysis.</p>
-<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_jrc_workshop/featured.png" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>talks</category>
-  <guid>de-bias.github.io/debias/talks/posts/2025/05/14/jrc-workshop.html</guid>
-  <pubDate>Tue, 13 May 2025 21:00:00 GMT</pubDate>
-  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_jrc_workshop/featured.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
