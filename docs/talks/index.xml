@@ -14,8 +14,34 @@
 <title>DEBIAS</title>
 <link>de-bias.github.io/debias/talks/</link>
 </image>
-<generator>quarto-1.9.30</generator>
-<lastBuildDate>Sat, 06 Jun 2026 21:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Thu, 11 Jun 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Adjusting Distortions in Human Population Data from Mobile Phones</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/talks/posts/2026/06/12/adjusting-distortions-mobile-phones.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>At the <a href="https://mobiletartu.ut.ee/">10th Mobile Tartu Conference</a>, <a href="https://www.liverpool.ac.uk/people/francisco-javier-rowe-gonzalez">Francisco Rowe</a> and <a href="https://www.liverpool.ac.uk/people/carmen-cabrera-arnau">Carmen Cabrera</a> presented DEBIAS work in the World Bank Session on <a href="https://mobiletartu.ut.ee/programme/">“Challenges in Mobile Phone Data-Based Research”</a>. The talk was titled “Adjusting Distortions in Human Population Data from Mobile Phones”.</p>
+<p>The presentation addressed a central problem for the use of mobile phone and app-derived data in population research: these data offer high-frequency, spatially granular and near-real-time information, but they are not collected for research purposes. As a result, they can provide useful signals about spatial patterns, trends and changes in human mobility, while still producing distorted population-level estimates if their biases are ignored.</p>
+<p>The talk introduced the logic of DEBIAS. Traditional data sources such as censuses and surveys remain essential, but they can be expensive, infrequent, slow to release and geographically constrained. By contrast, digital trace data can support more timely evidence for planning and decision-making, particularly in contexts shaped by rapid-onset hazards such as epidemics, conflict and natural disasters. The challenge is that digital traces are selective windows into the population, shaped by differences in access, engagement and use across groups and places.</p>
+<p>Francisco and Carmen presented a framework for measuring, explaining and adjusting these distortions. The approach starts by quantifying bias in mobile-phone-derived population estimates, using benchmark population data to assess spatial coverage and representativeness. It then uses spatial analysis and explainable machine learning to identify the contextual features associated with bias across different data sources. The presentation showed that bias varies across sources and places, that residual distortions can remain even when overall spatial proportionality is high and that key predictors of bias often operate through complex non-linear relationships.</p>
+<p>The talk also outlined the next stage of DEBIAS: developing a general adjustment and validation framework for mobility flows. This includes Bayesian multilevel modelling to estimate true unobserved flows, account for source-specific bias and incorporate contextual information, followed by validation against benchmark mobility data. These ideas are being implemented through <a href="https://github.com/de-bias/debiasR">debiasR</a>, the DEBIAS R package designed to support transparent and reproducible bias assessment and correction.</p>
+<p>The main message was clear: mobile phone data can greatly enhance our understanding of human mobility for policy and planning, but only if biases are treated as a core methodological issue rather than a secondary limitation. Responsible use of digital trace data requires replicable quality assessment, source-specific adjustment strategies and a recognition that digital data are shaped by persistent and changing digital divides.</p>
+<p><img src="de-bias.github.io/debias/talks/posts/2026/06/12/images/adjusting-distortions-mobile-phones.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>talks</category>
+  <guid>de-bias.github.io/debias/talks/posts/2026/06/12/adjusting-distortions-mobile-phones.html</guid>
+  <pubDate>Thu, 11 Jun 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/talks/posts/2026/06/12/images/adjusting-distortions-mobile-phones.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>DEBIAS at Mobile Tartu</title>
   <dc:creator>Carmen Cabrera</dc:creator>
@@ -36,7 +62,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2026/06/07/mobile-tartu.html</guid>
-  <pubDate>Sat, 06 Jun 2026 21:00:00 GMT</pubDate>
+  <pubDate>Sat, 06 Jun 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2026/06/07/images/thumbnail.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
@@ -62,7 +88,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2026/06/02/boston-visit-urbannet.html</guid>
-  <pubDate>Mon, 01 Jun 2026 21:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Jun 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2026/06/02/images/thumbnail.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
@@ -86,7 +112,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2026/03/25/seminario-ciencias-sociales.html</guid>
-  <pubDate>Tue, 24 Mar 2026 22:00:00 GMT</pubDate>
+  <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2026/03/25/images/IMG_8190.PNG" medium="image"/>
 </item>
 <item>
@@ -110,7 +136,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2026/03/19/city-lab-barcelona.html</guid>
-  <pubDate>Wed, 18 Mar 2026 22:00:00 GMT</pubDate>
+  <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2026/03/19/images/seminar-icta-uab.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
@@ -133,7 +159,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2026/03/03/interchange-btai.html</guid>
-  <pubDate>Mon, 02 Mar 2026 22:00:00 GMT</pubDate>
+  <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_interchange_btai/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -156,7 +182,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2026/03/02/hnpw-panel.html</guid>
-  <pubDate>Sun, 01 Mar 2026 22:00:00 GMT</pubDate>
+  <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2026_hnpw_panel/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -180,7 +206,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2026/01/29/winter-workshop-complex-systems.html</guid>
-  <pubDate>Wed, 28 Jan 2026 22:00:00 GMT</pubDate>
+  <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2026/01/29/images/thumbnail.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -203,7 +229,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2026/01/20/london-universities-population-seminar-series.html</guid>
-  <pubDate>Mon, 19 Jan 2026 22:00:00 GMT</pubDate>
+  <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2026/01/20/images/featured.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
@@ -227,7 +253,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/11/25/iom-report-launch.html</guid>
-  <pubDate>Mon, 24 Nov 2025 22:00:00 GMT</pubDate>
+  <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2025/11/25/images/featured.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -251,7 +277,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/11/19/wittgenstein-centre-conference.html</guid>
-  <pubDate>Tue, 18 Nov 2025 22:00:00 GMT</pubDate>
+  <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/talks/posts/2025/11/19/images/featured.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
@@ -274,7 +300,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/09/23/oecd-mno.html</guid>
-  <pubDate>Mon, 22 Sep 2025 21:00:00 GMT</pubDate>
+  <pubDate>Mon, 22 Sep 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_oecd_mno/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -297,7 +323,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/09/10/meta-lightning-talk.html</guid>
-  <pubDate>Tue, 09 Sep 2025 21:00:00 GMT</pubDate>
+  <pubDate>Tue, 09 Sep 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_meta/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -320,7 +346,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/09/03/bsps.html</guid>
-  <pubDate>Tue, 02 Sep 2025 21:00:00 GMT</pubDate>
+  <pubDate>Tue, 02 Sep 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_bsps/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -343,7 +369,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/09/02/rss-international.html</guid>
-  <pubDate>Mon, 01 Sep 2025 21:00:00 GMT</pubDate>
+  <pubDate>Mon, 01 Sep 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rss_intl/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -366,7 +392,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/08/05/nersa-narsc.html</guid>
-  <pubDate>Mon, 04 Aug 2025 21:00:00 GMT</pubDate>
+  <pubDate>Mon, 04 Aug 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_nersa_narsc/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -389,7 +415,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/07/16/ipc.html</guid>
-  <pubDate>Tue, 15 Jul 2025 21:00:00 GMT</pubDate>
+  <pubDate>Tue, 15 Jul 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_ipc/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -412,7 +438,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/07/11/university-of-queensland.html</guid>
-  <pubDate>Thu, 10 Jul 2025 21:00:00 GMT</pubDate>
+  <pubDate>Thu, 10 Jul 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_uq/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -435,7 +461,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/07/01/anu.html</guid>
-  <pubDate>Mon, 30 Jun 2025 21:00:00 GMT</pubDate>
+  <pubDate>Mon, 30 Jun 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_anu/featured.png" medium="image" type="image/png"/>
 </item>
 <item>
@@ -458,31 +484,8 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/talks/posts/2025/06/26/rmit.html</guid>
-  <pubDate>Wed, 25 Jun 2025 21:00:00 GMT</pubDate>
+  <pubDate>Wed, 25 Jun 2025 23:00:00 GMT</pubDate>
   <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_rmit/featured.png" medium="image" type="image/png"/>
-</item>
-<item>
-  <title>Geography Seminar Series at the University of Melbourne</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/talks/posts/2025/06/24/university-of-melbourne-geography.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco presented <em>Correcting Distorted Human Mobility Data from Mobile Phone Applications</em> at the Geography Seminar Series, Geography Department, University of Melbourne, Melbourne, Australia, on 24 June 2025.</p>
-<p>Access to human mobility data is key for a wide variety of social challenges, including urban planning, sustainability, public health, and economic development. Location trace data collected through digital technologies, such as mobile applications, have become widely available to study human mobility and overcome key limitations of traditional data streams such as surveys and censuses. Yet digital trace data are not representative of the general population and consequently require statistical adjustment to mitigate existing biases and support robust statistical inference.</p>
-<p>The talk presented work from the ESRC-funded DEBIAS project, which aims to develop a generalisable framework to measure, assess, and correct existing biases in human mobility data extracted from digital trace data. First, it introduced a measure to quantify biases in spatial population counts derived from digital trace data and identify the key demographic, socioeconomic, and geographic features underlying these biases. Second, it outlined a proposed framework to mitigate biases in spatial population count data and generate bias-adjusted human mobility counts from digital trace sources. Third, it presented plans for future work in this area.</p>
-<p><img src="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_unimelb_geography/featured.png" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>talks</category>
-  <guid>de-bias.github.io/debias/talks/posts/2025/06/24/university-of-melbourne-geography.html</guid>
-  <pubDate>Mon, 23 Jun 2025 21:00:00 GMT</pubDate>
-  <media:content url="https://raw.githubusercontent.com/fcorowe/franciscorowe/main/content/talks/2025_unimelb_geography/featured.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

@@ -14,8 +14,35 @@
 <title>DEBIAS</title>
 <link>de-bias.github.io/debias/updates/</link>
 </image>
-<generator>quarto-1.9.30</generator>
-<lastBuildDate>Mon, 27 Apr 2026 21:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Thu, 11 Jun 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>DEBIAS at Mobile Tartu 2026</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/06/12/mobile-tartu-2026.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The DEBIAS team participated in the <a href="https://mobiletartu.ut.ee/">10th Mobile Tartu Conference</a>, hosted by the <a href="https://mobilitylab.ut.ee/">Mobility Lab</a> at the <a href="https://ut.ee/en">University of Tartu</a>. The conference brought together an international community working on human mobility, mobile big data and digital traces, with a strong focus on resilient, just and sustainable societies.</p>
+<p><a href="https://www.liverpool.ac.uk/people/francisco-javier-rowe-gonzalez">Francisco Rowe</a> and <a href="https://www.liverpool.ac.uk/people/carmen-cabrera-arnau">Carmen Cabrera</a>, from the <a href="https://www.liverpool.ac.uk/geographic-data-science/">Geographic Data Science Lab</a> at the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>, contributed to the conference and PhD School through three DEBIAS-related activities.</p>
+<p>First, we led the PhD School workshop <a href="https://mobiletartu.ut.ee/workshops-and-academic-lecture/">“Correcting Biases in Mobile-Phone Mobility Data: The DEBIAS Framework”</a>. The workshop introduced doctoral researchers to the DEBIAS framework and the beta version of <a href="https://github.com/de-bias/debiasR"><code>debiasR</code></a>, our new open-source R package for identifying, assessing and adjusting coverage and representativeness biases in mobile-phone-derived mobility data. Participants worked through conceptual, methodological and practical exercises on how to diagnose bias, apply correction methods and validate adjusted outputs against benchmark mobility data.</p>
+<p>Second, Francisco and Carmen presented the workshop outcomes with PhD School participants as part of the Mobile Tartu programme. This provided an opportunity to discuss how early-career researchers can use DEBIAS tools to critically evaluate the quality of digital trace data before using them for substantive mobility analysis.</p>
+<p>Third, Francisco presented DEBIAS research in the World Bank Session on <a href="https://mobiletartu.ut.ee/programme/">“Challenges in Mobile Phone Data-Based Research”</a>. The session connected directly with the aims of the <a href="https://www.worldbank.org/en/programs/global-data-facility/brief/putting-mobile-phone-data-to-work-for-policy">World Bank Global Data Facility Mobile Phone Data Programme</a>, which supports the responsible integration of mobile phone data into national data systems and policy applications. The session was chaired by <a href="https://blogs.worldbank.org/en/team/e/esperanza-magpantay">Esperanza Magpantay</a> from the <a href="https://www.itu.int/">International Telecommunication Union</a> and <a href="https://positium.com/about/our-people">Siim Esko</a> from <a href="https://positium.com/">Positium</a>.</p>
+<p>The conference also created valuable opportunities to strengthen links between DEBIAS, the <a href="https://unstats.un.org/bigdata/">UN Committee of Experts on Big Data and Data Science for Official Statistics</a>, the World Bank GDF-MPD programme and the wider international community developing methods for responsible, transparent and policy-relevant use of mobile phone data.</p>
+<p>We are grateful to <a href="https://mobilitylab.ut.ee/people/">Age Poom</a>, <a href="https://mobilitylab.ut.ee/people/">Anto Aasa</a>, <a href="https://mobilitylab.ut.ee/people/">Olle Järv</a> and the wider Mobility Lab organising team for hosting such a stimulating conference. We also thank <a href="https://www.sdruk.ukri.org/">Smart Data Research UK</a> for supporting DEBIAS and making this work possible.</p>
+<p><img src="de-bias.github.io/debias/updates/posts/2026/06/12/images/mobile-tartu-2026.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/06/12/mobile-tartu-2026.html</guid>
+  <pubDate>Thu, 11 Jun 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/06/12/images/mobile-tartu-2026.png" medium="image" type="image/png" height="192" width="144"/>
+</item>
 <item>
   <title>Carmen joins the UN Committee of Experts on Big Data and Data Science for Official Statistics</title>
   <dc:creator>Carmen Cabrera</dc:creator>
@@ -41,7 +68,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/04/28/carmen-un-cebd-mobile-phone-data.html</guid>
-  <pubDate>Mon, 27 Apr 2026 21:00:00 GMT</pubDate>
+  <pubDate>Mon, 27 Apr 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/04/28/images/un-logo.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -75,7 +102,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/02/27/ons-working-group.html</guid>
-  <pubDate>Thu, 26 Feb 2026 22:00:00 GMT</pubDate>
+  <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
   <media:content url="https://service-manual.ons.gov.uk/assets/_800xAUTO_crop_center-center_none/example-brand-logo-english-black.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -97,7 +124,7 @@
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/05/05/complexity-vienna.html</guid>
-  <pubDate>Sat, 03 May 2025 21:00:00 GMT</pubDate>
+  <pubDate>Sat, 03 May 2025 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/05/05/images/table-photo.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -132,7 +159,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/01/24/transport-geo.html</guid>
-  <pubDate>Thu, 23 Jan 2025 22:00:00 GMT</pubDate>
+  <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/01/24/images/tg-paper.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 <item>
@@ -157,7 +184,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</guid>
-  <pubDate>Thu, 23 Jan 2025 22:00:00 GMT</pubDate>
+  <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -181,7 +208,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</guid>
-  <pubDate>Tue, 14 Jan 2025 22:00:00 GMT</pubDate>
+  <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/01/15/images/nowcasting.png" medium="image" type="image/png" height="53" width="144"/>
 </item>
 <item>
@@ -206,7 +233,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/11/20/valencia-floods.html</guid>
-  <pubDate>Tue, 19 Nov 2024 22:00:00 GMT</pubDate>
+  <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/11/20/images/pop-eu.png" medium="image" type="image/png" height="91" width="144"/>
 </item>
 <item>
@@ -231,7 +258,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/11/17/debias-mexico.html</guid>
-  <pubDate>Sat, 16 Nov 2024 22:00:00 GMT</pubDate>
+  <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/11/17/images/debias-mexico.png" medium="image" type="image/png" height="78" width="144"/>
 </item>
 <item>
@@ -256,7 +283,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/11/15/lambda.html</guid>
-  <pubDate>Thu, 14 Nov 2024 22:00:00 GMT</pubDate>
+  <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/11/15/images/debias-talk.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
@@ -279,7 +306,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</guid>
-  <pubDate>Tue, 22 Oct 2024 21:00:00 GMT</pubDate>
+  <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/23/images/casa-desc.png" medium="image" type="image/png" height="78" width="144"/>
 </item>
 <item>
@@ -304,7 +331,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</guid>
-  <pubDate>Wed, 09 Oct 2024 21:00:00 GMT</pubDate>
+  <pubDate>Wed, 09 Oct 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/10/images/un-sprint.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 <item>
@@ -338,7 +365,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</guid>
-  <pubDate>Sun, 06 Oct 2024 21:00:00 GMT</pubDate>
+  <pubDate>Sun, 06 Oct 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/07/images/gdf-mdp_wb.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -363,7 +390,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/09/13/un-task-team.html</guid>
-  <pubDate>Thu, 12 Sep 2024 21:00:00 GMT</pubDate>
+  <pubDate>Thu, 12 Sep 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/09/13/images/un-website.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
@@ -388,7 +415,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</guid>
-  <pubDate>Thu, 05 Sep 2024 21:00:00 GMT</pubDate>
+  <pubDate>Thu, 05 Sep 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/09/09/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -409,7 +436,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</guid>
-  <pubDate>Wed, 14 Aug 2024 21:00:00 GMT</pubDate>
+  <pubDate>Wed, 14 Aug 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/08/15/images/launch.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
