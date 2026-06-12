@@ -15,7 +15,36 @@
 <link>de-bias.github.io/debias/updates/</link>
 </image>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Thu, 11 Jun 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Francisco Rowe contributes to new UN-CEBD Practical Manual on Mobile Phone Data</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/06/15/un-cebd-mobile-phone-data-manual.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are pleased to share that <a href="https://www.liverpool.ac.uk/people/francisco-javier-rowe-gonzalez">Francisco Rowe</a>, Professor in Population Data Science at the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a> and Lead of the <a href="https://www.liverpool.ac.uk/geographic-data-science/">Geographic Data Science Lab</a>, has contributed to the new <a href="https://unstats.un.org/bigdata/task-teams/mobile-phone/index.cshtml">UN-CEBD Task Team on Mobile Phone Data</a> Practical Manual: <a href="https://doi.org/10.5281/zenodo.20451460">Design and Implementation of Mobile Phone Data Initiatives</a>.</p>
+<p>The manual provides practical guidance for organisations seeking to design and implement mobile phone data initiatives for official statistics, public policy, development and humanitarian applications. It covers key aspects of the implementation journey, including institutional readiness, partnerships with mobile network operators, data access, governance, privacy, safeguards, processing pipelines, quality assurance and communication.</p>
+<p>The resource was developed through the UN-CEBD Task Team on Mobile Phone Data, which brings together experts working to advance the ethical, secure and high-quality integration of mobile phone data into official statistics. It was launched in connection with the Global Data Festival session <a href="https://www.worldbank.org/en/events/2026/06/03/global-data-festival-2026">“Global Push to Put Mobile Phone Data to Work for Statistics”</a>, which highlighted how mobile phone data can support more timely, granular and responsive statistics for policy and decision-making.</p>
+<p>Francisco’s contribution builds on the wider aims of <a href="https://de-bias.github.io/debias/">DEBIAS</a>: developing methods and tools to identify, assess and correct biases in human mobility data derived from digital traces. Mobile phone data can offer valuable evidence on population mobility, migration, tourism, population dynamics, disaster contexts and information society indicators. Yet their responsible use depends on robust governance, clear implementation pathways and systematic attention to data quality, coverage and representativeness.</p>
+<p>The manual is also closely aligned with the <a href="https://www.worldbank.org/en/programs/global-data-facility/brief/putting-mobile-phone-data-to-work-for-policy">Global Data Facility Mobile Phone Data Programme</a>, a joint initiative of the <a href="https://www.worldbank.org/">World Bank</a> and the <a href="https://www.itu.int/">International Telecommunication Union</a>, which supports countries in sustainably adopting mobile phone data as a source for producing timely and policy-relevant statistics.</p>
+<p>We encourage national statistical offices, telecommunications regulators, ministries, policymakers, development partners, researchers and mobile phone data practitioners to explore the manual and use it as a practical resource for responsible mobile phone data initiatives.</p>
+<p>The manual is available here: <a href="https://doi.org/10.5281/zenodo.20451460">Design and Implementation of Mobile Phone Data Initiatives</a>.</p>
+<p><img src="de-bias.github.io/debias/updates/posts/2026/06/15/images/un-cebd-mobile-phone-data-manual.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>policy</category>
+  <category>official-statistics</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/06/15/un-cebd-mobile-phone-data-manual.html</guid>
+  <pubDate>Sun, 14 Jun 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/06/15/images/un-cebd-mobile-phone-data-manual.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
 <item>
   <title>DEBIAS at Mobile Tartu 2026</title>
   <dc:creator>Francisco Rowe</dc:creator>
@@ -42,6 +71,63 @@
   <guid>de-bias.github.io/debias/updates/posts/2026/06/12/mobile-tartu-2026.html</guid>
   <pubDate>Thu, 11 Jun 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/12/images/mobile-tartu-2026.png" medium="image" type="image/png" height="192" width="144"/>
+</item>
+<item>
+  <title>First beta version of debiasR now available</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/06/12/debiasr-beta.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are pleased to announce the release of the first beta testing version of <a href="https://de-bias.github.io/debiasR/"><code>debiasR</code></a>, our new R software package for assessing and correcting population representation bias in digital trace data.</p>
+<p><code>debiasR</code> is being developed as part of the <a href="https://de-bias.github.io/debias/">DEBIAS project</a>, which aims to create a framework to measure and correct biases in human mobility data extracted from digital footprints. The package is designed to support researchers, analysts and data providers working with spatio-temporally aggregated population data, including population counts by location and origin-destination flows between places.</p>
+<p>The current beta version provides tools and documentation to support three core tasks:</p>
+<ol type="1">
+<li>measuring coverage and representativeness bias in population count data;</li>
+<li>adjusting biased origin-destination mobility flows; and</li>
+<li>validating adjusted mobility flows against benchmark data.</li>
+</ol>
+<p>Mobile-phone-derived mobility data are used to illustrate the package functions, but the underlying logic can be applied to other digital trace data sources with similar spatial and temporal aggregation structures and an appropriate validation target.</p>
+<p>The package can be installed from GitHub using:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">pak<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pak</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"de-bias/debiasR"</span>)</span></code></pre></div></div>
+<p>or alternatively:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">remotes<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install_github</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"de-bias/debiasR"</span>)</span></code></pre></div></div>
+<p>Users who want to reproduce the empirical examples in the vignettes can also install the companion data package:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">pak<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pak</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></div>
+<p>This is an early testing version. We are now inviting researchers, developers and potential users to install the package, test its stability and help us identify bugs, usability issues, missing documentation and opportunities for improvement.</p>
+<p>Feedback can be submitted through the <a href="https://github.com/de-bias/debiasR"><code>debiasR</code> GitHub repository</a>. Please use <a href="https://github.com/de-bias/debiasR/issues">GitHub Issues</a> to report bugs, request features or suggest methodological improvements. We also welcome contributions through pull requests, following the package <a href="https://de-bias.github.io/debiasR/CONTRIBUTING.html">contributing guidelines</a>.</p>
+<p>The first formal alpha release is expected in July 2026. Feedback during this beta testing phase will help us improve the package before that release and ensure that <code>debiasR</code> is robust, transparent and useful for the wider mobility data research community.</p>
+<p><img src="de-bias.github.io/debias/updates/posts/2026/06/12/images/debiasr-website.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>software</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/06/12/debiasr-beta.html</guid>
+  <pubDate>Thu, 11 Jun 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/06/12/images/debiasr-website.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
   <title>Carmen joins the UN Committee of Experts on Big Data and Data Science for Official Statistics</title>
