@@ -15,7 +15,43 @@
 <link>de-bias.github.io/debias/updates/</link>
 </image>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 14 Jun 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>DEBIAS Workshop and Symposium to set standards for bias-adjusted digital mobility data</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/06/16/debias-workshop-symposium.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>DEBIAS will host the <strong>DEBIAS Workshop and Symposium: Setting standards for bias-adjusted digital mobility data</strong> on 7 and 8 July 2026 at the <a href="https://www.liverpool.ac.uk/">University of Liverpool</a>, UK.</p>
+<p>The two-day event will bring together researchers, national statistical offices, industry partners and international organisations working on the responsible use of digitally collected mobility data. Confirmed participating organisations include the UN International Organization for Migration, the UK’s Foreign, Commonwealth and Development Office (FCDO), the World Bank and Spain’s Instituto Nacional de Estadística (INE). The aim is to move from recognising challenges around bias, representativeness, validation and transparency towards practical standards and solutions for bias-adjusted mobility data.</p>
+<p>The event connects directly with the goals of <a href="https://de-bias.github.io/debias/">DEBIAS</a>: improving the quality, transparency and usability of mobility data collected from mobile phones and digital platforms. As these data are increasingly used in research, policy and operational decision-making, robust approaches for evaluating and correcting bias are becoming essential for producing reliable mobility indicators.</p>
+<p>The programme has two main parts. On 7 July 2026, a hands-on technical workshop will demonstrate bias adjustment workflows developed within the DEBIAS project. Participants will work through practical approaches for evaluating coverage and representativeness, applying adjustment methods and validating adjusted mobility outputs against benchmark data.</p>
+<p>On 8 July 2026, a symposium will examine the methodological, governance and ethical dimensions of bias-adjusted mobility indicators. Confirmed keynote speakers include Prof Esteban Moro (Northeastern University, US) and Damien Jusselme (Head of Data Science and Analytics, UN International Organization for Migration).</p>
+<p>Applications for free registration closed on 15 April 2026 and were managed through <a href="https://forms.cloud.microsoft/e/9eWNt3GcK0">the application form</a>. The call also invited expressions of interest from participants who wanted to give a lightning presentation on ongoing or recent work related to bias evaluation, adjustment methodologies, validation approaches or applied uses of digital mobility data.</p>
+<p>A limited number of travel bursaries was made available for Early Career Researchers to support travel expenses to Liverpool. Bursary recipients will become part of the DEBIAS Fellows Network, contributing to ongoing collaboration, future development of the DEBIAS software package and related research initiatives.</p>
+<p>By convening technical, policy and operational perspectives in Liverpool, the workshop and symposium will support the next stage of DEBIAS work: translating methods for bias adjustment into shared standards for producing, validating and using digital mobility indicators.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/updates/posts/2026/06/16/images/university-of-liverpool-victoria-building.jpg" class="img-fluid figure-img"></p>
+<figcaption>The Victoria Building at the University of Liverpool.</figcaption>
+</figure>
+</div>
+<p><em>Photo: Phil Nash (Rodhullandemu), via <a href="https://commons.wikimedia.org/wiki/File:Victoria_Building,_University_of_Liverpool_2019.jpg">Wikimedia Commons</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</em></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>events</category>
+  <category>workshop</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/06/16/debias-workshop-symposium.html</guid>
+  <pubDate>Mon, 15 Jun 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/06/16/images/university-of-liverpool-victoria-building.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Francisco Rowe contributes to new UN-CEBD Practical Manual on Mobile Phone Data</title>
   <dc:creator>Francisco Rowe</dc:creator>
