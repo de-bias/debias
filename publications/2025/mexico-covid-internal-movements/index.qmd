@@ -1,0 +1,25 @@
+---
+title: "Beyond the Immediate Impacts of COVID-19 on Internal Population Movements in Mexico: Facebook Data Reveal Urban Decay and Slow Recovery—A Research Note"
+author:
+- Miguel González-Leonardo
+- Carmen Cabrera
+- Ruth Neville
+- Andrea Nasuto
+- Francisco Rowe
+date: '2025-08-01'
+description: ' '
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1215/00703370-12183205
+---
+
+## URL: <https://doi.org/10.1215/00703370-12183205>
+
+## Summary
+
+This research note examines how COVID-19 reshaped long-distance internal population movements in Mexico between April 2020 and May 2022.
+Using location data from Facebook users, the paper tracks changes in movements of more than 100 kilometres across the rural-urban hierarchy.
+It finds a substantial decline in long-distance mobility during 2020, especially in flows to and from large cities, followed by a gradual and uneven recovery through 2021 and 2022.
+The study shows how digital trace data can reveal medium-term mobility disruptions in contexts where conventional high-resolution migration statistics are limited.

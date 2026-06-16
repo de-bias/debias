@@ -1,0 +1,22 @@
+---
+title: "Estimating internal displacement in Ukraine from high-frequency GPS mobile phone data"
+author:
+- Rodgers Iradukunda
+- Francisco Rowe
+- Elisabetta Pietrostefani
+date: '2025-11-27'
+description: ' '
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1057/s41599-025-06137-4
+---
+
+## URL: <https://doi.org/10.1057/s41599-025-06137-4>
+
+## Summary
+
+This article develops a framework for estimating internal displacement from high-frequency GPS mobile phone data while correcting for the fact that mobile phone records represent only part of the population.
+Using anonymised location data from 25 million mobile devices, the study estimates the scale, timing and geography of internal displacement in Ukraine during the first months of the 2022 Russian invasion.
+The results provide validated population-level estimates at detailed spatial and temporal resolutions, showing how bias-adjusted digital mobility data can support humanitarian monitoring and operational decision-making during crises.
