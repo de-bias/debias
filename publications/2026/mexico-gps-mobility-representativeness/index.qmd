@@ -1,0 +1,27 @@
+---
+title: "One country, multiple portraits: representativeness in GPS-based mobility data is source-specific and spatially dependent"
+author:
+- Carmen Cabrera
+- Francisco Rowe
+- Miguel González-Leonardo
+- Juan Ignacio Vilchis-García
+- Elisa Omodei
+- Maribel Hernández-Rosales
+date: '2026-06-22'
+description: ' '
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Preprint
+  url: https://doi.org/10.48550/arXiv.2606.23616
+---
+
+## URL: <https://doi.org/10.48550/arXiv.2606.23616>
+
+## Summary
+
+This preprint examines whether GPS-based mobile phone data provide representative estimates of population distribution across 2,478 municipalities in Mexico.
+It compares coverage bias in a single-platform source, Facebook, and a multi-app aggregator, Veraset, against the 2020 Mexican Population Census.
+Facebook provides higher and more evenly distributed coverage, while the multi-app data concentrate users in larger, wealthier and more digitally connected municipalities.
+The analysis also shows that coverage bias is spatially structured and driven by different factors across sources.
+Using explainable machine learning and spatial statistical models, the study demonstrates that representativeness is both source-specific and spatially dependent, providing evidence to support better bias adjustments in unequal and data-scarce settings.
