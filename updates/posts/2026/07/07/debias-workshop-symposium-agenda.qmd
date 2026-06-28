@@ -1,0 +1,106 @@
+---
+title: "DEBIAS Workshop and Symposium 2026: Agenda"
+author: "Carmen Cabrera"
+date: "2026-07-07"
+categories: [updates, events, workshop]
+image: "images/debias-logo.jpeg"
+image-alt: "DEBIAS logo."
+---
+
+The **DEBIAS Workshop and Symposium: Setting standards for bias-adjusted digital mobility data** will take place in Liverpool on the 7th and 8th of July 2026.
+The programme brings together researchers and practitioners working with digital trace data to examine how bias can be measured, understood and corrected in human mobility research.
+Further information about the event is available in the [workshop and symposium announcement](../../06/16/debias-workshop-symposium.qmd).
+
+## Day 1: Technical training workshop
+
+**Date:** 7th of July 2026  
+**Workshop venue:** Waterhouse Building, Block J, Large Seminar Room, first floor  
+**Informal networking venue:** Pen Factory, 13 Hope Street, Liverpool L1 9BQ
+
+| Time | Session |
+|---|---|
+| 14:30–17:00 | Technical training workshop |
+| 17:00–19:00 | Informal networking |
+
+## Day 2: Symposium
+
+**Date:** 8th of July 2026  
+**Venue:** The Spine, 2 Paddington Village, Liverpool L7 3FA
+
+| Time | Session |
+|---|---|
+| *09:30–10:00* | *Registration and coffee* |
+| 10:00–10:15 | Welcome and symposium overview |
+| 10:15–10:40 | DEBIAS: framework, evidence and tools |
+| 10:40–11:10 | Keynote 1: Prof. Esteban Moro, Northeastern University |
+| *11:10–11:30* | *Coffee break* |
+| 11:30–12:30 | Lightning talks I |
+| *12:30–13:30* | *Lunch* |
+| 13:30–14:00 | Keynote 2: Damien Jusselme, UN International Organization for Migration |
+| 14:00–15:00 | Lightning talks II |
+| *15:00–15:20* | *Coffee break* |
+| 15:20–16:40 | Structured discussion: measuring and correcting bias in practice |
+| 16:40–17:00 | Closing reflections and next steps |
+
+### Lightning talks I
+
+- Xianghui Zhang — University of Liverpool, UK
+- Andrew Renninger — University of Glasgow, UK
+- Ciro Beneduce — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy
+- Massimiliano Luca — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy
+- Yuanxuan Yang — University of Leeds, UK
+- Anirudh Govind — KU Leuven, Belgium
+- Lenka Hasova — University of Bristol, UK
+- Mohamed Shamroukh — Loughborough University, UK
+- Paolo Andrich — University of Oxford, UK
+- Hongyi Zou — University of Canterbury, New Zealand
+- Antonio Desiderio — ISI Foundation, Italy
+
+### Lightning talks II
+
+- Ana Belén Marín Valverde — National Statistics Institute (INE), Spain
+- Paul Blanchard — World Bank, France
+- Yuan Liao — Chalmers University, Sweden
+- Roland Hosner — Flowminder, Austria
+- Wenlan Zhang — University College London, UK
+- Daniela Perrotta — Max Planck Institute for Demographic Research, Germany
+- Qianwen Duan — University of Southampton, UK
+- Samuel Benkimoun — Université de Rouen, France
+- Trivik Verma — Loughborough University, UK
+- Ekta Aggarwal — University of Southampton, UK
+
+## Venue map
+
+The interactive map shows the workshop, networking and symposium venues.
+
+<div class="venue-map">
+<iframe
+  src="https://www.google.com/maps/d/embed?mid=16v9jTlKLf5845xJ5IknIjjtOENaRld4"
+  title="DEBIAS Workshop and Symposium venues"
+  loading="lazy"
+  allowfullscreen>
+</iframe>
+</div>
+
+[View venue map in Google Maps](https://www.google.com/maps/d/viewer?mid=16v9jTlKLf5845xJ5IknIjjtOENaRld4&usp=sharing){target="_blank"}
+
+```{=html}
+<style>
+.venue-map {
+  margin: 1rem 0;
+}
+
+.venue-map iframe {
+  border: 0;
+  display: block;
+  min-height: 500px;
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .venue-map iframe {
+    min-height: 380px;
+  }
+}
+</style>
+```
