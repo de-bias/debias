@@ -411,5 +411,33 @@
     "title": "One country, multiple portraits: representativeness in GPS-based mobility data is source-specific and spatially dependent",
     "section": "Summary",
     "text": "Summary\nThis preprint examines whether GPS-based mobile phone data provide representative estimates of population distribution across 2,478 municipalities in Mexico. It compares coverage bias in a single-platform source, Facebook, and a multi-app aggregator, Veraset, against the 2020 Mexican Population Census. Facebook provides higher and more evenly distributed coverage, while the multi-app data concentrate users in larger, wealthier and more digitally connected municipalities. The analysis also shows that coverage bias is spatially structured and driven by different factors across sources. Using explainable machine learning and spatial statistical models, the study demonstrates that representativeness is both source-specific and spatially dependent, providing evidence to support better bias adjustments in unequal and data-scarce settings."
+  },
+  {
+    "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html",
+    "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html",
+    "title": "DEBIAS Workshop and Symposium 2026: Agenda",
+    "section": "",
+    "text": "The DEBIAS Workshop and Symposium: Setting standards for bias-adjusted digital mobility data will take place in Liverpool on the 7th and 8th of July 2026. The programme brings together researchers and practitioners working with digital trace data to examine how bias can be measured, understood and corrected in human mobility research. Further information about the event is available in the workshop and symposium announcement."
+  },
+  {
+    "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#day-1-technical-training-workshop",
+    "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#day-1-technical-training-workshop",
+    "title": "DEBIAS Workshop and Symposium 2026: Agenda",
+    "section": "Day 1: Technical training workshop",
+    "text": "Day 1: Technical training workshop\nDate: 7th of July 2026\nWorkshop venue: Waterhouse Building, Block J, Large Seminar Room, first floor\nInformal networking venue: Pen Factory, 13 Hope Street, Liverpool L1 9BQ\n\n\n\nTime\nSession\n\n\n\n\n14:30–17:00\nTechnical training workshop\n\n\n17:00–19:00\nInformal networking"
+  },
+  {
+    "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#day-2-symposium",
+    "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#day-2-symposium",
+    "title": "DEBIAS Workshop and Symposium 2026: Agenda",
+    "section": "Day 2: Symposium",
+    "text": "Day 2: Symposium\nDate: 8th of July 2026\nVenue: The Spine, 2 Paddington Village, Liverpool L7 3FA\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:30–10:00\nRegistration and coffee\n\n\n10:00–10:15\nWelcome and symposium overview\n\n\n10:15–10:40\nDEBIAS: framework, evidence and tools\n\n\n10:40–11:10\nKeynote 1: Prof. Esteban Moro, Northeastern University\n\n\n11:10–11:30\nCoffee break\n\n\n11:30–12:30\nLightning talks I\n\n\n12:30–13:30\nLunch\n\n\n13:30–14:00\nKeynote 2: Damien Jusselme, UN International Organization for Migration\n\n\n14:00–15:00\nLightning talks II\n\n\n15:00–15:20\nCoffee break\n\n\n15:20–16:40\nStructured discussion: measuring and correcting bias in practice\n\n\n16:40–17:00\nClosing reflections and next steps\n\n\n\n\nLightning talks I\n\nXianghui Zhang — University of Liverpool, UK\nAndrew Renninger — University of Glasgow, UK\nCiro Beneduce — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy\nMassimiliano Luca — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy\nYuanxuan Yang — University of Leeds, UK\nAnirudh Govind — KU Leuven, Belgium\nLenka Hasova — University of Bristol, UK\nMohamed Shamroukh — Loughborough University, UK\nPaolo Andrich — University of Oxford, UK\nHongyi Zou — University of Canterbury, New Zealand\nAntonio Desiderio — ISI Foundation, Italy\n\n\n\nLightning talks II\n\nAna Belén Marín Valverde — National Statistics Institute (INE), Spain\nPaul Blanchard — World Bank, France\nYuan Liao — Chalmers University, Sweden\nRoland Hosner — Flowminder, Austria\nWenlan Zhang — University College London, UK\nDaniela Perrotta — Max Planck Institute for Demographic Research, Germany\nQianwen Duan — University of Southampton, UK\nSamuel Benkimoun — Université de Rouen, France\nTrivik Verma — Loughborough University, UK\nEkta Aggarwal — University of Southampton, UK"
+  },
+  {
+    "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#venue-map",
+    "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#venue-map",
+    "title": "DEBIAS Workshop and Symposium 2026: Agenda",
+    "section": "Venue map",
+    "text": "Venue map\nThe interactive map shows the workshop, networking and symposium venues.\n\n\n\n\nView venue map in Google Maps"
   }
 ]
