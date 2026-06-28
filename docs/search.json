@@ -404,5 +404,12 @@
     "title": "Sustained changes to urban mobility after COVID-19 amplified socio-economic inequalities in Latin America",
     "section": "Summary",
     "text": "Summary\nThis preprint studies sustained changes in urban mobility after COVID-19 in Argentina, Chile and Colombia. Using more than 170 million anonymised Meta-Facebook mobile phone records from March 2020 to May 2022, it examines how mobility changed across socioeconomic and rural-urban gradients. The analysis finds that mobility fell most sharply and remained below pre-pandemic levels in high-density and less deprived areas, while lower-density and more deprived communities returned to baseline more quickly. The findings show how pandemic mobility shocks reinforced inequalities and altered the role of urban cores in Latin American mobility systems."
+  },
+  {
+    "objectID": "publications/2026/mexico-gps-mobility-representativeness/index.html#summary",
+    "href": "publications/2026/mexico-gps-mobility-representativeness/index.html#summary",
+    "title": "One country, multiple portraits: representativeness in GPS-based mobility data is source-specific and spatially dependent",
+    "section": "Summary",
+    "text": "Summary\nThis preprint examines whether GPS-based mobile phone data provide representative estimates of population distribution across 2,478 municipalities in Mexico. It compares coverage bias in a single-platform source, Facebook, and a multi-app aggregator, Veraset, against the 2020 Mexican Population Census. Facebook provides higher and more evenly distributed coverage, while the multi-app data concentrate users in larger, wealthier and more digitally connected municipalities. The analysis also shows that coverage bias is spatially structured and driven by different factors across sources. Using explainable machine learning and spatial statistical models, the study demonstrates that representativeness is both source-specific and spatially dependent, providing evidence to support better bias adjustments in unequal and data-scarce settings."
   }
 ]
