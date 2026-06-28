@@ -54,7 +54,6 @@ Further information about the event is available in the [workshop and symposium 
 - Mohamed Shamroukh — Loughborough University, UK
 - Paolo Andrich — University of Oxford, UK
 - Hongyi Zou — University of Canterbury, New Zealand
-- Antonio Desiderio — ISI Foundation, Italy
 
 ### Lightning talks II
 
@@ -68,6 +67,7 @@ Further information about the event is available in the [workshop and symposium 
 - Samuel Benkimoun — Université de Rouen, France
 - Trivik Verma — Loughborough University, UK
 - Ekta Aggarwal — University of Southampton, UK
+- Antonio Desiderio — ISI Foundation, Italy
 
 ## Venue map
 
