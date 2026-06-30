@@ -44,7 +44,7 @@ Further information about the event is available in the [workshop and symposium 
 
 ### Lightning talks I
 
-- Xianghui Zhang — University of Liverpool, UK
+- Antonio Desiderio — ISI Foundation, Italy
 - Andrew Renninger — University of Glasgow, UK
 - Ciro Beneduce — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy
 - Massimiliano Luca — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy
@@ -67,7 +67,6 @@ Further information about the event is available in the [workshop and symposium 
 - Samuel Benkimoun — Université de Rouen, France
 - Trivik Verma — Loughborough University, UK
 - Ekta Aggarwal — University of Southampton, UK
-- Antonio Desiderio — ISI Foundation, Italy
 
 ## Venue map
 
