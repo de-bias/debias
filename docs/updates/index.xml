@@ -188,6 +188,42 @@
   <media:content url="de-bias.github.io/debias/updates/posts/2026/07/07/images/debias-logo.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>New Python tutorial on bias in mobile phone data</title>
+  <dc:creator>Carmen Cabrera</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/06/24/ossen-python-tutorial.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Carmen was invited to give a lecture at the <a href="https://www.maths.ox.ac.uk/events/summer-schools/economic-networks">Oxford Summer School in Economic Networks</a> on the 24th of June 2026. The session took place at Lady Margaret Hall, <a href="https://www.ox.ac.uk/">University of Oxford</a>.</p>
+<p>The lecture, titled <em>Urban systems, as portrayed by digital traces</em>, introduced participants to the use of digital trace data in urban research and presented the DEBIAS framework.</p>
+<p>The lecture was followed by a hands-on computational tutorial in Python prepared by Jishan Duan and Miao Zeng, PhD candidates at <a href="https://www.ucl.ac.uk/">UCL</a>’s <a href="https://www.ucl.ac.uk/casa">Centre for Advanced Spatial Analysis</a>. The tutorial enabled participants to work directly with mobile phone data and explore practical questions related to coverage and representativeness bias.</p>
+<section id="python-tutorial-materials" class="level2">
+<h2 class="anchored" data-anchor-id="python-tutorial-materials">Python tutorial materials</h2>
+<p>The code and supporting materials are openly available through the OSSEN mobile phone data bias tutorial repository:</p>
+<p><a href="https://github.com/jishan96/OSSEN_MPD_bias" class="btn btn-primary" target="_blank">Access the Python tutorial on GitHub</a></p>
+<p>The Oxford Summer School in Economic Networks brings together postgraduate researchers from different disciplines to learn about network theory, quantitative methods and their applications. The Summer School is affiliated with the <a href="https://www.inet.ox.ac.uk/">Institute for New Economic Thinking</a> at the <a href="https://www.oxfordmartin.ox.ac.uk/">Oxford Martin School</a> and the <a href="https://www.maths.ox.ac.uk/">University of Oxford’s Mathematical Institute</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/updates/posts/2026/06/24/images/lady-margaret-hall.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Lady Margaret Hall at the University of Oxford.</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>updates</category>
+  <category>training</category>
+  <category>software</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/06/24/ossen-python-tutorial.html</guid>
+  <pubDate>Tue, 23 Jun 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/06/24/images/lady-margaret-hall.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>DEBIAS Workshop and Symposium to set standards for bias-adjusted digital mobility data</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/16/debias-workshop-symposium.html</link>
@@ -710,27 +746,6 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <guid>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</guid>
   <pubDate>Thu, 05 Sep 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/09/09/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Kicking off</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is the first post going out form the DEBIAS project. We will use this blog to keep track of progress on the project and to announce milestones of the project along the way. If you are interested in human mobility, smart data from digital sources (including mobile phone data), geographic data science and AI, keep an eye on the blog and feel free to get in touch with <a href="mailto:f.rowe-gonzalez%40liverpool.ac.uk">Francisco</a> and / or <a href="mailto:c.cabrera%40liverpool.ac.uk">Carmen</a>!</p>
-<p><img src="de-bias.github.io/debias/updates/posts/2024/08/15/images/launch.jpg" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2024/08/15/kickoff.html</guid>
-  <pubDate>Wed, 14 Aug 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2024/08/15/images/launch.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
