@@ -439,5 +439,19 @@
     "title": "DEBIAS Workshop and Symposium 2026: Agenda",
     "section": "Venue map",
     "text": "Venue map\nThe interactive map shows the workshop, networking and symposium venues.\n\n\n\n\nView venue map in Google Maps"
+  },
+  {
+    "objectID": "updates/posts/2026/06/24/ossen-python-tutorial.html",
+    "href": "updates/posts/2026/06/24/ossen-python-tutorial.html",
+    "title": "New Python tutorial on bias in mobile phone data",
+    "section": "",
+    "text": "Carmen was invited to give a lecture at the Oxford Summer School in Economic Networks on the 24th of June 2026. The session took place at Lady Margaret Hall, University of Oxford.\nThe lecture, titled Urban systems, as portrayed by digital traces, introduced participants to the use of digital trace data in urban research and presented the DEBIAS framework.\nThe lecture was followed by a hands-on computational tutorial in Python prepared by Jishan Duan and Miao Zeng, PhD candidates at UCL’s Centre for Advanced Spatial Analysis. The tutorial enabled participants to work directly with mobile phone data and explore practical questions related to coverage and representativeness bias."
+  },
+  {
+    "objectID": "updates/posts/2026/06/24/ossen-python-tutorial.html#python-tutorial-materials",
+    "href": "updates/posts/2026/06/24/ossen-python-tutorial.html#python-tutorial-materials",
+    "title": "New Python tutorial on bias in mobile phone data",
+    "section": "Python tutorial materials",
+    "text": "Python tutorial materials\nThe code and supporting materials are openly available through the OSSEN mobile phone data bias tutorial repository:\nAccess the Python tutorial on GitHub\nThe Oxford Summer School in Economic Networks brings together postgraduate researchers from different disciplines to learn about network theory, quantitative methods and their applications. The Summer School is affiliated with the Institute for New Economic Thinking at the Oxford Martin School and the University of Oxford’s Mathematical Institute.\n\n\n\nLady Margaret Hall at the University of Oxford."
   }
 ]
