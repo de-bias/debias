@@ -17,7 +17,7 @@
 <generator>quarto-1.9.30</generator>
 <lastBuildDate>Mon, 06 Jul 2026 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>DEBIAS Workshop and Symposium 2026: Agenda</title>
+  <title>DEBIAS Workshop and Symposium 2026: Key information</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/07/07/debias-workshop-symposium-agenda.html</link>
   <description><![CDATA[ 
@@ -27,6 +27,14 @@
 
 
 <p>The <strong>DEBIAS Workshop and Symposium: Setting standards for bias-adjusted digital mobility data</strong> will take place in Liverpool on the 7th and 8th of July 2026. The programme brings together researchers and practitioners working with digital trace data to examine how bias can be measured, understood and corrected in human mobility research. Further information about the event is available in the <a href="../../../../../updates/posts/2026/06/16/debias-workshop-symposium.html">workshop and symposium announcement</a>.</p>
+<section id="technical-training-workshop-brief" class="level2">
+<h2 class="anchored" data-anchor-id="technical-training-workshop-brief">Technical training workshop brief</h2>
+<p>Participants attending the technical training workshop on the 7th of July should prepare their laptops before the session. The pre-workshop brief explains which software and R packages are required, with links and installation instructions for R, RStudio Desktop and Quarto. Please complete these steps in advance so that the practical work can begin promptly.</p>
+<p><a href="files/pre-workshop-training-brief.pdf" class="btn btn-primary" download="">Download the pre-workshop training brief (PDF)</a></p>
+</section>
+<section id="agenda" class="level2">
+<h2 class="anchored" data-anchor-id="agenda">Agenda</h2>
+</section>
 <section id="day-1-technical-training-workshop" class="level2">
 <h2 class="anchored" data-anchor-id="day-1-technical-training-workshop">Day 1: Technical training workshop</h2>
 <p><strong>Date:</strong> 7th of July 2026<br>

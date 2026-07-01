@@ -415,28 +415,28 @@
   {
     "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html",
     "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html",
-    "title": "DEBIAS Workshop and Symposium 2026: Agenda",
+    "title": "DEBIAS Workshop and Symposium 2026: Key information",
     "section": "",
     "text": "The DEBIAS Workshop and Symposium: Setting standards for bias-adjusted digital mobility data will take place in Liverpool on the 7th and 8th of July 2026. The programme brings together researchers and practitioners working with digital trace data to examine how bias can be measured, understood and corrected in human mobility research. Further information about the event is available in the workshop and symposium announcement."
   },
   {
     "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#day-1-technical-training-workshop",
     "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#day-1-technical-training-workshop",
-    "title": "DEBIAS Workshop and Symposium 2026: Agenda",
+    "title": "DEBIAS Workshop and Symposium 2026: Key information",
     "section": "Day 1: Technical training workshop",
     "text": "Day 1: Technical training workshop\nDate: 7th of July 2026\nWorkshop venue: Waterhouse Building, Block J, Large Seminar Room, first floor\nInformal networking venue: Pen Factory, 13 Hope Street, Liverpool L1 9BQ\n\n\n\nTime\nSession\n\n\n\n\n14:30–17:00\nTechnical training workshop\n\n\n17:00–19:00\nInformal networking"
   },
   {
     "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#day-2-symposium",
     "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#day-2-symposium",
-    "title": "DEBIAS Workshop and Symposium 2026: Agenda",
+    "title": "DEBIAS Workshop and Symposium 2026: Key information",
     "section": "Day 2: Symposium",
     "text": "Day 2: Symposium\nDate: 8th of July 2026\nVenue: The Spine, 2 Paddington Village, Liverpool L7 3FA\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:30–10:00\nRegistration and coffee\n\n\n10:00–10:15\nWelcome and symposium overview\n\n\n10:15–10:40\nDEBIAS: framework, evidence and tools\n\n\n10:40–11:10\nKeynote 1: Prof. Esteban Moro, Northeastern University\n\n\n11:10–11:30\nCoffee break\n\n\n11:30–12:30\nLightning talks I\n\n\n12:30–13:30\nLunch\n\n\n13:30–14:00\nKeynote 2: Damien Jusselme, UN International Organization for Migration\n\n\n14:00–15:00\nLightning talks II\n\n\n15:00–15:20\nCoffee break\n\n\n15:20–16:40\nStructured discussion: measuring and correcting bias in practice\n\n\n16:40–17:00\nClosing reflections and next steps\n\n\n\n\nLightning talks I\n\nAntonio Desiderio — ISI Foundation, Italy\nAndrew Renninger — University of Glasgow, UK\nCiro Beneduce — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy\nMassimiliano Luca — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy\nYuanxuan Yang — University of Leeds, UK\nAnirudh Govind — KU Leuven, Belgium\nLenka Hasova — University of Bristol, UK\nMohamed Shamroukh — Loughborough University, UK\nPaolo Andrich — University of Oxford, UK\nHongyi Zou — University of Canterbury, New Zealand\n\n\n\nLightning talks II\n\nAna Belén Marín Valverde — National Statistics Institute (INE), Spain\nPaul Blanchard — World Bank, France\nYuan Liao — Chalmers University, Sweden\nRoland Hosner — Flowminder, Austria\nWenlan Zhang — University College London, UK\nDaniela Perrotta — Max Planck Institute for Demographic Research, Germany\nQianwen Duan — University of Southampton, UK\nSamuel Benkimoun — Université de Rouen, France\nTrivik Verma — Loughborough University, UK\nEkta Aggarwal — University of Southampton, UK"
   },
   {
     "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#venue-map",
     "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#venue-map",
-    "title": "DEBIAS Workshop and Symposium 2026: Agenda",
+    "title": "DEBIAS Workshop and Symposium 2026: Key information",
     "section": "Venue map",
     "text": "Venue map\nThe interactive map shows the workshop, networking and symposium venues.\n\n\n\n\nView venue map in Google Maps"
   },
@@ -453,5 +453,19 @@
     "title": "New Python tutorial on bias in mobile phone data",
     "section": "Python tutorial materials",
     "text": "Python tutorial materials\nThe code and supporting materials are openly available through the OSSEN mobile phone data bias tutorial repository:\nAccess the Python tutorial on GitHub\nThe Oxford Summer School in Economic Networks brings together postgraduate researchers from different disciplines to learn about network theory, quantitative methods and their applications. The Summer School is affiliated with the Institute for New Economic Thinking at the Oxford Martin School and the University of Oxford’s Mathematical Institute.\n\n\n\nLady Margaret Hall at the University of Oxford."
+  },
+  {
+    "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#technical-training-workshop-brief",
+    "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#technical-training-workshop-brief",
+    "title": "DEBIAS Workshop and Symposium 2026: Key information",
+    "section": "Technical training workshop brief",
+    "text": "Technical training workshop brief\nParticipants attending the technical training workshop on the 7th of July should prepare their laptops before the session. The pre-workshop brief explains which software and R packages are required, with links and installation instructions for R, RStudio Desktop and Quarto. Please complete these steps in advance so that the practical work can begin promptly.\nDownload the pre-workshop training brief (PDF)"
+  },
+  {
+    "objectID": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#agenda",
+    "href": "updates/posts/2026/07/07/debias-workshop-symposium-agenda.html#agenda",
+    "title": "DEBIAS Workshop and Symposium 2026: Key information",
+    "section": "Agenda",
+    "text": "Agenda"
   }
 ]
