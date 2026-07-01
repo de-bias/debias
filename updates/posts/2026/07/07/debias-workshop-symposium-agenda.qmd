@@ -68,7 +68,7 @@ Please complete these steps in advance so that the practical work can begin prom
 
 - Ana Belén Marín Valverde — National Statistics Institute (INE), Spain
 - Paul Blanchard — World Bank, France
-- Yuan Liao — Chalmers University, Sweden
+- Yuan Liao — Lund University, Sweden
 - Roland Hosner — Flowminder, Austria
 - Wenlan Zhang — University College London, UK
 - Daniela Perrotta — Max Planck Institute for Demographic Research, Germany
