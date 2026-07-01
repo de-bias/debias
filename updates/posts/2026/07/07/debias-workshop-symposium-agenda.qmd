@@ -54,7 +54,6 @@ Please complete these steps in advance so that the practical work can begin prom
 
 ### Lightning talks I
 
-- Antonio Desiderio — ISI Foundation, Italy
 - Andrew Renninger — University of Glasgow, UK
 - Ciro Beneduce — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy
 - Massimiliano Luca — Mobile and Social Computing Lab, Bruno Kessler Foundation, Italy
@@ -76,7 +75,7 @@ Please complete these steps in advance so that the practical work can begin prom
 - Qianwen Duan — University of Southampton, UK
 - Samuel Benkimoun — Université de Rouen, France
 - Trivik Verma — Loughborough University, UK
-- Ekta Aggarwal — University of Southampton, UK
+- Antonio Desiderio — ISI Foundation, Italy
 
 ## Venue map
 
