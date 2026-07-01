@@ -1,5 +1,5 @@
 ---
-title: "DEBIAS Workshop and Symposium 2026: Agenda"
+title: "DEBIAS Workshop and Symposium 2026: Key information"
 author: "Carmen Cabrera"
 date: "2026-07-07"
 categories: [updates, events, workshop]
@@ -10,6 +10,16 @@ image-alt: "DEBIAS logo."
 The **DEBIAS Workshop and Symposium: Setting standards for bias-adjusted digital mobility data** will take place in Liverpool on the 7th and 8th of July 2026.
 The programme brings together researchers and practitioners working with digital trace data to examine how bias can be measured, understood and corrected in human mobility research.
 Further information about the event is available in the [workshop and symposium announcement](../../06/16/debias-workshop-symposium.qmd).
+
+## Technical training workshop brief
+
+Participants attending the technical training workshop on the 7th of July should prepare their laptops before the session.
+The pre-workshop brief explains which software and R packages are required, with links and installation instructions for R, RStudio Desktop and Quarto.
+Please complete these steps in advance so that the practical work can begin promptly.
+
+[Download the pre-workshop training brief (PDF)](files/pre-workshop-training-brief.pdf){.btn .btn-primary download=""}
+
+## Agenda
 
 ## Day 1: Technical training workshop
 
