@@ -14,7 +14,7 @@
 <title>DEBIAS</title>
 <link>de-bias.github.io/debias/updates/</link>
 </image>
-<generator>quarto-1.9.30</generator>
+<generator>quarto-1.9.38</generator>
 <lastBuildDate>Mon, 06 Jul 2026 23:00:00 GMT</lastBuildDate>
 <item>
   <title>DEBIAS Workshop and Symposium 2026: Key information</title>
@@ -441,6 +441,63 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <media:content url="https://service-manual.ons.gov.uk/assets/_800xAUTO_crop_center-center_none/example-brand-logo-english-black.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
+  <title>From experimental to official migration statistics</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2025/09/23/oecd-mno-migration-statistics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.liverpool.ac.uk/people/francisco-javier-rowe-gonzalez">Francisco Rowe</a> presented <em>From experimental to official migration statistics: A conceptual and actionable framework for quality assurance in mobile-network-operator-derived estimates</em> at <a href="https://cros.ec.europa.eu/system/files/2025-10/Book%20of%20Abstracts_MNO-MINDS%20Conference.pdf">Integrating MNO Data into Official Statistics: challenges and innovation</a>, hosted at the <a href="https://www.oecd.org/">OECD</a> on 23 September 2025.</p>
+<p>The talk presented a conceptual and actionable framework for quality assurance in mobile-network-operator-derived migration estimates, supporting the transition from experimental outputs to official migration statistics.</p>
+<p>Mobile network operator data can provide timely and spatially detailed evidence on population mobility and migration, but their use in official statistics requires careful attention to data access, coverage, representativeness, processing pipelines, validation and communication. The presentation focused on how experimental estimates can be assessed and strengthened so they can better support trusted statistical production.</p>
+<p>The contribution connects directly with the aims of <a href="https://de-bias.github.io/debias/">DEBIAS</a>: developing transparent methods and tools to identify, assess and correct biases in human mobility data derived from digital traces. It also aligns with wider international efforts to make mobile phone data useful for official statistics while maintaining high standards for quality, governance and responsible use.</p>
+<p>The conference programme is available here: <a href="https://cros.ec.europa.eu/system/files/2025-10/Book%20of%20Abstracts_MNO-MINDS%20Conference.pdf">Book of Abstracts: MNO-MINDS Conference</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/updates/posts/2025/09/23/images/oecd-logo.svg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="500"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>talks</category>
+  <category>official-statistics</category>
+  <guid>de-bias.github.io/debias/updates/posts/2025/09/23/oecd-mno-migration-statistics.html</guid>
+  <pubDate>Mon, 22 Sep 2025 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2025/09/23/images/oecd-logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Mobile Phone Data for Cross-border Population &amp; Expenditure Flows</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2025/05/14/jrc-cross-border-flows.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.liverpool.ac.uk/people/francisco-javier-rowe-gonzalez">Francisco Rowe</a> presented <em>Mobile Phone Data for Cross-border Population &amp; Expenditure Flows: Ideas &amp; Challenges</em> at the workshop <a href="https://ec.europa.eu/newsroom/regio/items/889871/en">“Measurement of the flows across the internal borders of the European Union”</a>, hosted by the <a href="https://joint-research-centre.ec.europa.eu/">European Commission Joint Research Centre</a> on 14 May 2025.</p>
+<p>The workshop brought together experts to discuss new ways to measure mobility, labour and service flows across internal European Union borders. The talk discussed the use of mobile phone data to estimate cross-border population and expenditure flows, focusing on methodological opportunities and practical challenges for robust measurement.</p>
+<p>Mobile phone data offer a promising source for understanding cross-border movements at fine spatial and temporal scales, but their use requires careful attention to coverage, representativeness, validation, data governance and interpretability. These issues are closely connected to the aims of <a href="https://de-bias.github.io/debias/">DEBIAS</a>: developing transparent approaches to assess and correct biases in digital trace data used to study human mobility.</p>
+<p>More information about the workshop is available from the European Commission newsroom: <a href="https://ec.europa.eu/newsroom/regio/items/889871/en">Measuring Cross-Border Flows: JRC Workshop Insights</a>.</p>
+<p><img src="de-bias.github.io/debias/updates/posts/2025/05/14/images/jrc-cross-border-flows-workshop.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>talks</category>
+  <category>policy</category>
+  <guid>de-bias.github.io/debias/updates/posts/2025/05/14/jrc-cross-border-flows.html</guid>
+  <pubDate>Tue, 13 May 2025 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2025/05/14/images/jrc-cross-border-flows-workshop.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>DEBIAS at the Complexity Science Hub</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/05/05/complexity-vienna.html</link>
@@ -702,56 +759,6 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <guid>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</guid>
   <pubDate>Sun, 06 Oct 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/07/images/gdf-mdp_wb.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>DEBIAS invited to a UN Committee of Experts</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2024/09/13/un-task-team.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco has been invited to the <a href="https://data.org/organizations/un-committee-of-experts-on-big-data-and-data-science-for-official-statistics-un-cebd/">United Nations Committee of Experts on Big Data and Data Science for Official Statistics</a>. He will be contributing to the task team on <a href="https://unstats.un.org/bigdata/task-teams/index.cshtml"><em>Mobile Phone Data for Official Statistics and Policy</em></a>, leading the task team on <em>Migration Statistics</em> and contributing to the <em>Synthetic Mobile Phone Data group</em>.</p>
-<div class="quarto-figure quarto-figure-&quot;centre">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/updates/posts/2024/09/13/images/un-website.png" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2024/09/13/un-task-team.html</guid>
-  <pubDate>Thu, 12 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2024/09/13/images/un-website.png" medium="image" type="image/png" height="102" width="144"/>
-</item>
-<item>
-  <title>Logo for DEBIAS</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We are happy to unveil the logo for DEBIAS. Let us unpack what the logo represents. We have chosen an iceberg as a logo as it provides an effective representation of what we can see from smart data from digital sources in their raw form, and the parts that we do not see given their limited capacity to offer a representation of the full population. DEBIAS seeks to mitigate biases present in smart data from digital sources and move us closer to get a population-level representation.</p>
-<div class="quarto-figure quarto-figure-&quot;centre">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/updates/posts/2024/09/09/images/logo-white.jpeg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2024/09/09/logo.html</guid>
-  <pubDate>Thu, 05 Sep 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2024/09/09/images/logo-white.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

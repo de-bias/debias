@@ -10,6 +10,8 @@
       "/updates/posts/2026/06/12/debiasr-beta.html",
       "/updates/posts/2026/04/28/carmen-un-cebd-mobile-phone-data.html",
       "/updates/posts/2026/02/27/ons-working-group.html",
+      "/updates/posts/2025/09/23/oecd-mno-migration-statistics.html",
+      "/updates/posts/2025/05/14/jrc-cross-border-flows.html",
       "/updates/posts/2025/05/05/complexity-vienna.html",
       "/updates/posts/2025/01/24/transport-geo.html",
       "/updates/posts/2025/01/23/fcdo.html",
@@ -23,6 +25,16 @@
       "/updates/posts/2024/09/13/un-task-team.html",
       "/updates/posts/2024/09/09/logo.html",
       "/updates/posts/2024/08/15/kickoff.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2026/mexico-gps-mobility-representativeness/index.html",
+      "/publications/2025/ukraine-internal-displacement-mobile-phone-data/index.html",
+      "/publications/2025/mexico-covid-internal-movements/index.html",
+      "/publications/2025/latin-america-urban-mobility-covid/index.html",
+      "/publications/2025/preprint-quantifying-bias/index.html"
     ]
   },
   {
@@ -59,16 +71,6 @@
       "/talks/posts/2024/09/17/mpidr.html",
       "/talks/posts/2024/09/09/bsps.html",
       "/talks/posts/2024/09/02/exeter.html"
-    ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/2026/mexico-gps-mobility-representativeness/index.html",
-      "/publications/2025/ukraine-internal-displacement-mobile-phone-data/index.html",
-      "/publications/2025/mexico-covid-internal-movements/index.html",
-      "/publications/2025/latin-america-urban-mobility-covid/index.html",
-      "/publications/2025/preprint-quantifying-bias/index.html"
     ]
   }
 ]

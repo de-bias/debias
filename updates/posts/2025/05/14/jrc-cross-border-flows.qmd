@@ -1,0 +1,22 @@
+---
+title: "Mobile Phone Data for Cross-border Population & Expenditure Flows"
+author: "Francisco Rowe"
+date: "2025-05-14"
+categories: [updates, talks, policy]
+image: "images/jrc-cross-border-flows-workshop.jpg"
+editor:
+  markdown:
+    wrap: sentence
+---
+
+[Francisco Rowe](https://www.liverpool.ac.uk/people/francisco-javier-rowe-gonzalez) presented *Mobile Phone Data for Cross-border Population & Expenditure Flows: Ideas & Challenges* at the workshop [“Measurement of the flows across the internal borders of the European Union”](https://ec.europa.eu/newsroom/regio/items/889871/en), hosted by the [European Commission Joint Research Centre](https://joint-research-centre.ec.europa.eu/) on 14 May 2025.
+
+The workshop brought together experts to discuss new ways to measure mobility, labour and service flows across internal European Union borders.
+The talk discussed the use of mobile phone data to estimate cross-border population and expenditure flows, focusing on methodological opportunities and practical challenges for robust measurement.
+
+Mobile phone data offer a promising source for understanding cross-border movements at fine spatial and temporal scales, but their use requires careful attention to coverage, representativeness, validation, data governance and interpretability.
+These issues are closely connected to the aims of [DEBIAS](https://de-bias.github.io/debias/): developing transparent approaches to assess and correct biases in digital trace data used to study human mobility.
+
+More information about the workshop is available from the European Commission newsroom: [Measuring Cross-Border Flows: JRC Workshop Insights](https://ec.europa.eu/newsroom/regio/items/889871/en).
+
+![](images/jrc-cross-border-flows-workshop.jpg)

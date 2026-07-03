@@ -1,0 +1,24 @@
+---
+title: "From experimental to official migration statistics"
+author: "Francisco Rowe"
+date: "2025-09-23"
+categories: [updates, talks, official-statistics]
+image: "images/oecd-logo.svg"
+editor:
+  markdown:
+    wrap: sentence
+---
+
+[Francisco Rowe](https://www.liverpool.ac.uk/people/francisco-javier-rowe-gonzalez) presented *From experimental to official migration statistics: A conceptual and actionable framework for quality assurance in mobile-network-operator-derived estimates* at [Integrating MNO Data into Official Statistics: challenges and innovation](https://cros.ec.europa.eu/system/files/2025-10/Book%20of%20Abstracts_MNO-MINDS%20Conference.pdf), hosted at the [OECD](https://www.oecd.org/) on 23 September 2025.
+
+The talk presented a conceptual and actionable framework for quality assurance in mobile-network-operator-derived migration estimates, supporting the transition from experimental outputs to official migration statistics.
+
+Mobile network operator data can provide timely and spatially detailed evidence on population mobility and migration, but their use in official statistics requires careful attention to data access, coverage, representativeness, processing pipelines, validation and communication.
+The presentation focused on how experimental estimates can be assessed and strengthened so they can better support trusted statistical production.
+
+The contribution connects directly with the aims of [DEBIAS](https://de-bias.github.io/debias/): developing transparent methods and tools to identify, assess and correct biases in human mobility data derived from digital traces.
+It also aligns with wider international efforts to make mobile phone data useful for official statistics while maintaining high standards for quality, governance and responsible use.
+
+The conference programme is available here: [Book of Abstracts: MNO-MINDS Conference](https://cros.ec.europa.eu/system/files/2025-10/Book%20of%20Abstracts_MNO-MINDS%20Conference.pdf).
+
+![](images/oecd-logo.svg){fig-align="center" width="500"}
