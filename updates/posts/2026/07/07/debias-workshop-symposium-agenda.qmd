@@ -63,6 +63,7 @@ Please complete these steps in advance so that the practical work can begin prom
 - Mohamed Shamroukh — Loughborough University, UK
 - Paolo Andrich — University of Oxford, UK
 - Hongyi Zou — University of Canterbury, New Zealand
+- Junyuan Liu — University College London, UK
 
 ### Lightning talks II
 
