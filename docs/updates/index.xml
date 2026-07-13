@@ -15,7 +15,34 @@
 <link>de-bias.github.io/debias/updates/</link>
 </image>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Mon, 06 Jul 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 12 Jul 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Introducing the DEBIAS Fellow Network</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/07/13/debias-fellow-network.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are pleased to announce the launch of the DEBIAS Fellow Network, a new international community of researchers and practitioners working on digital trace data, human mobility, population measurement and responsible data science.</p>
+<p>The Fellow Network will create a space for sustained exchange around the central questions that motivate <a href="https://de-bias.github.io/debias/">DEBIAS</a>: how to identify, assess and correct biases in mobility data derived from digital footprints. These questions are increasingly important as mobile phone, app-derived and other digital trace data are used to support research, official statistics, humanitarian response, urban planning and policy analysis.</p>
+<p>Our first cohort brings together Anirudh Govind, Antonio Desiderio, Ciro Beneduce, Gregor Zens, Hongyi Zou, Lenka Hasova, Massimiliano Luca, Mohamed Shamroukh, Olena Holubowska, Paolo Andrich, Qianwen Duan, Samuel Benkimoun and Yuan Liao. The Fellows bring expertise across geographic data science, computational social science, migration and mobility research, official statistics, machine learning, data governance and applied policy analysis.</p>
+<p>Through the network, Fellows will contribute to DEBIAS project ideas, extensions, presentations, methods discussions, software testing, software development and more. They will help us refine the DEBIAS framework, strengthen documentation and examples for <a href="https://github.com/de-bias/debiasR"><code>debiasR</code></a>, develop applied case studies and identify practical challenges that arise when digital trace data are used to produce population and mobility evidence.</p>
+<p>The network also reflects a broader aim of DEBIAS: building methods that are not only technically robust, but also transparent, reproducible and useful for the communities that rely on mobility data. By connecting researchers across institutions, countries and application areas, the Fellow Network will support shared learning on how to diagnose bias, validate adjusted outputs and communicate uncertainty in ways that can improve responsible data use.</p>
+<p>We look forward to working with the DEBIAS Fellows and to sharing their contributions through future project updates, workshops and software releases.</p>
+<p><img src="de-bias.github.io/debias/updates/posts/2026/07/13/images/debias-fellow-network.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>community</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/07/13/debias-fellow-network.html</guid>
+  <pubDate>Sun, 12 Jul 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/07/13/images/debias-fellow-network.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>DEBIAS Workshop and Symposium 2026: Key information</title>
   <dc:creator>Carmen Cabrera</dc:creator>
@@ -725,40 +752,6 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <guid>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</guid>
   <pubDate>Wed, 09 Oct 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/10/images/un-sprint.png" medium="image" type="image/png" height="86" width="144"/>
-</item>
-<item>
-  <title>DEBIAS contribution to World Bank Workshop</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the <a href="https://www.worldbank.org/en/events/2024/09/25/global-data-facility-mobile-phone-data-program-for-policy-cohort-1-launch-workshop">Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop</a>. The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:</p>
-<ul>
-<li><p>Deliver essential resources and programmatic activities to support WB task teams to integrate MPD into national data systems for durable policy solutions and statistics</p></li>
-<li><p>Promote open MPD standards, tools, and practices</p></li>
-<li><p>Deliver programmatic activities designed to advance the level of maturity in the local MPD ecosystem</p></li>
-<li><p>Promote operational research to improve evidence-base and policy impact of MPD</p></li>
-<li><p>Use grant activities to facilitate lending in integrated national data systems and public data infrastructure</p></li>
-</ul>
-<p>After a competitive application process, task teams representing 18 countries were selected to join the first Cohort of the MPD-GDF Program. These teams were grouped into three clusters: LAC, West Africa and Integrated. During the workshop, the country teams developed their strategic implementation plans to put MPD to work for Policy in a rigorous and sustainable way. The workshop delivered sessions that cover: (a) process to set up a country Mobile Phone Data pipeline/program in a country to produce policy-relevant insights; (b) country examples of MPD for policy applications; and, (c) group activities to develop/elaborate country MPD implementation plan. MPD experts, including Francisco, contribute to present use cases where MDP has worked, discussed some of the existing challenges of their use, and supported Brazil to develop a strategic implementation plan for the adoption of MDP to develop statistical indicators to inform urban planning decision making.</p>
-<p>The Brazilian team included <a href="https://www.linkedin.com/in/claudio-ferreira-jr-832b2529/">Claudio Ferreira</a> from Ministério das Cidades, <a href="https://www.linkedin.com/in/marciomutti/">Marcio Mutti</a> from Anatel, <a href="https://www.linkedin.com/in/daniel-oliveira-62956a26/">Daniel Oliveira</a> from Serpro and <a href="https://www.linkedin.com/in/aiga-stokenberga-7143543b/">Aiga Stokenberga</a> and <a href="https://www.linkedin.com/in/abarone/">Andrea Barone</a> from The World Bank.</p>
-<div class="quarto-figure quarto-figure-&quot;centre">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/updates/posts/2024/10/07/images/gdf-mdp_wb.jpg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</guid>
-  <pubDate>Sun, 06 Oct 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2024/10/07/images/gdf-mdp_wb.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
