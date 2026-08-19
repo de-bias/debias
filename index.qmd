@@ -158,6 +158,24 @@ A key problem with mobility data derived from digital technologies is that they 
 :::
 :::
 
+::: {.content-container}
+::: {.top-story .purple-background}
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .top-story-text}
+## New data story
+**[Who is missing from the map?](stories/making-hidden-biases-visible/)** Our research on hidden biases in mobile phone population data is now published in *Royal Society Open Science*, and told as an interactive data story.
+
+[Explore the story →](stories/making-hidden-biases-visible/)
+:::
+::: {.g-col-12 .g-col-lg-8 .top-story-img}
+[![](stories/making-hidden-biases-visible/assets/social-card.png){width=100%}](stories/making-hidden-biases-visible/)
+:::
+:::
+
+:::
+:::
+
 ::: {.pullout-container}
 ::: {.header-block .black-background}
 ![](./images/all-logos.png){width=100%}

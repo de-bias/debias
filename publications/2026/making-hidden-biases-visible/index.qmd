@@ -1,0 +1,31 @@
+---
+title: "Making hidden biases visible in population location data from mobile phones"
+author:
+- name: Carmen Cabrera
+  orcid: 0000-0002-2732-6436
+- Francisco Rowe
+date: '2026-08-19'
+slug: making-hidden-biases-visible
+image: featured.png
+description: ' '
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Journal article
+  url: https://doi.org/10.1098/rsos.251703
+- icon: bar-chart-line-fill
+  name: Data story
+  url: https://de-bias.github.io/debias/stories/making-hidden-biases-visible/
+---
+
+## URL: <https://doi.org/10.1098/rsos.251703>
+
+## Citation
+
+Cabrera, C. and Rowe, F. (2026) Making hidden biases visible in population location data from mobile phones. *Royal Society Open Science*, 13, 251703. https://doi.org/10.1098/rsos.251703
+
+## Summary
+
+Mobile phone application data offer near real-time, high-resolution insight into population distribution, but unequal access to and use of digital technologies creates biases that threaten their representativeness. This study develops and applies a systematic, replicable framework to quantify coverage bias in aggregated mobile phone data without requiring individual-level demographic attributes. Combining a transparent population-coverage indicator with explainable machine learning, it compares four mobile-app datasets against the 2021 Census across 331 local authority areas in England and Wales. A strong aggregate correlation with Census counts coexists with substantial variation in local coverage; the same places shift position across sources, and coverage bias relates to area characteristics in different, often nonlinear ways. The results show that representativeness must be diagnosed and adjustments validated source by source.
+
+Explore the findings interactively in the accompanying data story, [Who is missing from the map?](https://de-bias.github.io/debias/stories/making-hidden-biases-visible/)
