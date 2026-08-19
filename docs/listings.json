@@ -2,6 +2,7 @@
   {
     "listing": "/updates/index.html",
     "items": [
+      "/updates/posts/2026/08/19/making-hidden-biases-visible.html",
       "/updates/posts/2026/07/13/debias-fellow-network.html",
       "/updates/posts/2026/07/07/debias-workshop-symposium-agenda.html",
       "/updates/posts/2026/06/24/ossen-python-tutorial.html",
@@ -14,8 +15,8 @@
       "/updates/posts/2025/09/23/oecd-mno-migration-statistics.html",
       "/updates/posts/2025/05/14/jrc-cross-border-flows.html",
       "/updates/posts/2025/05/05/complexity-vienna.html",
-      "/updates/posts/2025/01/24/transport-geo.html",
       "/updates/posts/2025/01/23/fcdo.html",
+      "/updates/posts/2025/01/24/transport-geo.html",
       "/updates/posts/2025/01/15/nowcasting.html",
       "/updates/posts/2024/11/20/valencia-floods.html",
       "/updates/posts/2024/11/17/debias-mexico.html",

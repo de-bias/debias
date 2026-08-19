@@ -502,5 +502,12 @@
     "title": "Making hidden biases visible in population location data from mobile phones",
     "section": "Summary",
     "text": "Summary\nMobile phone application data offer near real-time, high-resolution insight into population distribution, but unequal access to and use of digital technologies creates biases that threaten their representativeness. This study develops and applies a systematic, replicable framework to quantify coverage bias in aggregated mobile phone data without requiring individual-level demographic attributes. Combining a transparent population-coverage indicator with explainable machine learning, it compares four mobile-app datasets against the 2021 Census across 331 local authority areas in England and Wales. A strong aggregate correlation with Census counts coexists with substantial variation in local coverage; the same places shift position across sources, and coverage bias relates to area characteristics in different, often nonlinear ways. The results show that representativeness must be diagnosed and adjustments validated source by source.\nExplore the findings interactively in the accompanying data story, Who is missing from the map?"
+  },
+  {
+    "objectID": "updates/posts/2026/08/19/making-hidden-biases-visible.html",
+    "href": "updates/posts/2026/08/19/making-hidden-biases-visible.html",
+    "title": "New data story: Who is missing from the map?",
+    "section": "",
+    "text": "Our study on hidden biases in mobile phone population data is now published in Royal Society Open Science, and we have released an accompanying interactive data story.\nMaking hidden biases visible in population location data from mobile phones, by Carmen Cabrera and Francisco Rowe, compares four mobile-app datasets with the 2021 Census across 331 local authority areas in England and Wales. A strong aggregate correlation with Census counts coexists with substantial variation in local coverage; the same places shift position across sources, and coverage bias relates to area characteristics in different, often nonlinear ways. The results show that representativeness must be diagnosed and adjustments validated source by source.\nTo make these findings accessible beyond the paper, we built Who is missing from the map?, a two-act scrollytelling story that walks through the evidence interactively, including a local-authority explorer and a source-by-source view of area-level drivers of bias.\nExplore the story · Read the published article"
   }
 ]

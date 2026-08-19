@@ -14,8 +14,33 @@
 <title>DEBIAS</title>
 <link>de-bias.github.io/debias/updates/</link>
 </image>
-<generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 12 Jul 2026 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Wed, 19 Aug 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New data story: Who is missing from the map?</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/08/19/making-hidden-biases-visible.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Our study on hidden biases in mobile phone population data is now published in <em>Royal Society Open Science</em>, and we have released an accompanying interactive data story.</p>
+<p><a href="https://doi.org/10.1098/rsos.251703">Making hidden biases visible in population location data from mobile phones</a>, by Carmen Cabrera and Francisco Rowe, compares four mobile-app datasets with the 2021 Census across 331 local authority areas in England and Wales. A strong aggregate correlation with Census counts coexists with substantial variation in local coverage; the same places shift position across sources, and coverage bias relates to area characteristics in different, often nonlinear ways. The results show that representativeness must be diagnosed and adjustments validated source by source.</p>
+<p>To make these findings accessible beyond the paper, we built <a href="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/"><em>Who is missing from the map?</em></a>, a two-act scrollytelling story that walks through the evidence interactively, including a local-authority explorer and a source-by-source view of area-level drivers of bias.</p>
+<p><a href="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/">Explore the story</a> · <a href="https://doi.org/10.1098/rsos.251703">Read the published article</a></p>
+<p><img src="de-bias.github.io/debias/updates/posts/2026/08/19/images/making-hidden-biases-visible.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>publication</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/08/19/making-hidden-biases-visible.html</guid>
+  <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/08/19/images/making-hidden-biases-visible.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
 <item>
   <title>Introducing the DEBIAS Fellow Network</title>
   <dc:creator>Francisco Rowe</dc:creator>
@@ -40,7 +65,7 @@
   <category>updates</category>
   <category>community</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/07/13/debias-fellow-network.html</guid>
-  <pubDate>Sun, 12 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/07/13/images/debias-fellow-network.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
@@ -218,7 +243,7 @@
   <category>events</category>
   <category>workshop</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/07/07/debias-workshop-symposium-agenda.html</guid>
-  <pubDate>Mon, 06 Jul 2026 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/07/07/images/debias-logo.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -254,7 +279,7 @@
   <category>training</category>
   <category>software</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/24/ossen-python-tutorial.html</guid>
-  <pubDate>Tue, 23 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/24/images/lady-margaret-hall.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -290,7 +315,7 @@
   <category>events</category>
   <category>workshop</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/16/debias-workshop-symposium.html</guid>
-  <pubDate>Mon, 15 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/16/images/university-of-liverpool-victoria-building.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -319,7 +344,7 @@
   <category>policy</category>
   <category>official-statistics</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/15/un-cebd-mobile-phone-data-manual.html</guid>
-  <pubDate>Sun, 14 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/15/images/un-cebd-mobile-phone-data-manual.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -346,7 +371,7 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/12/mobile-tartu-2026.html</guid>
-  <pubDate>Thu, 11 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/12/images/mobile-tartu-2026.png" medium="image" type="image/png" height="192" width="144"/>
 </item>
 <item>
@@ -403,7 +428,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <category>updates</category>
   <category>software</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/12/debiasr-beta.html</guid>
-  <pubDate>Thu, 11 Jun 2026 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/12/images/debiasr-website.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -431,7 +456,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/04/28/carmen-un-cebd-mobile-phone-data.html</guid>
-  <pubDate>Mon, 27 Apr 2026 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/04/28/images/un-logo.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -496,7 +521,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <category>talks</category>
   <category>official-statistics</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/09/23/oecd-mno-migration-statistics.html</guid>
-  <pubDate>Mon, 22 Sep 2025 23:00:00 GMT</pubDate>
+  <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/09/23/images/oecd-logo.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
@@ -522,7 +547,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <category>talks</category>
   <category>policy</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/05/14/jrc-cross-border-flows.html</guid>
-  <pubDate>Tue, 13 May 2025 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/05/14/images/jrc-cross-border-flows-workshop.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -544,8 +569,33 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/05/05/complexity-vienna.html</guid>
-  <pubDate>Sat, 03 May 2025 23:00:00 GMT</pubDate>
+  <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/05/05/images/table-photo.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>DEBIAS at the FCDO</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="600"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</guid>
+  <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>DEBIAS’s new publication</title>
@@ -581,31 +631,6 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <guid>de-bias.github.io/debias/updates/posts/2025/01/24/transport-geo.html</guid>
   <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/01/24/images/tg-paper.png" medium="image" type="image/png" height="99" width="144"/>
-</item>
-<item>
-  <title>DEBIAS at the FCDO</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="600"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</guid>
-  <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>DEBIAS joins the Collaborative Group on Nowcasting Populations</title>
@@ -726,33 +751,8 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</guid>
-  <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
+  <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/23/images/casa-desc.png" medium="image" type="image/png" height="78" width="144"/>
-</item>
-<item>
-  <title>DEBIAS at a UN webinar on Social and Demographic Statistics</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco was invited to contribute one of the <a href="https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/">Sprint webinar of the Friends of Chair (FoC) Group on Social and Demographic Statistics</a>. The series of Sprint webinars aims to explore key building blocks for an overarching conceptual framework for a social and demographic statistics system. The FoC group’s objective is to formulate strategic recommendations to enhance social and demographic statistics that better reflect society and its connections with the environment and the economy. The group has identified five key building blocks for this framework: people, relationships, outcomes, time, and places.</p>
-<p>Francisco was invited as a <a href="https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/documents/Places-Sprint.pdf">panelist</a> for a webinar on the critical role of information on “places” and geography to improve social and demographic statistics is co-organised by the National Institute of Statistics, Geography and Informatics (INEGI), Mexico, the National Institute of Statistics of Rwanda, the Economic Commission for Latin America and the Caribbean (ECLAC) and the UN Statistics Division (UNSD). Francisco was invited given his expertise in spatial inequalities and geographic data science.</p>
-<p><em>Places are crucial, but often underutilized, building block of social and demographic statistics. This session will examine how the places where people grow up, live, and work profoundly influence their lives, exposing disparities and shaping policy decisions. By exploring the use of georeferenced data, satellite imagery, and small area estimation techniques to fill data gaps, we will highlight how geography can integrate diverse data sources and enhance dissemination through geoportals. The insights gained from this session will inform recommendations on how to more effectively incorporate geography into social and demographic statistics for improved policymaking.</em></p>
-<iframe width="950" height="500" start="10" src="https://www.youtube.com/embed/L7FVcRMYy1o?si=w3u78ysMEf-WFFa2" title="Sprint webinar: Places" frameborder="0" allow="accelerometer; display: block;
-   margin: 0 auto; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
-</iframe>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</guid>
-  <pubDate>Wed, 09 Oct 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2024/10/10/images/un-sprint.png" medium="image" type="image/png" height="86" width="144"/>
 </item>
 </channel>
 </rss>
