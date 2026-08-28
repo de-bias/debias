@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
-      xmlns:media="http://search.yahoo.com/mrss/" 
-      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+<rss  xmlns:atom="http://www.w3.org/2005/Atom"
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns:content="http://purl.org/rss/1.0/modules/content/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
       version="2.0">
 <channel>
 <title>DEBIAS</title>
@@ -14,23 +14,29 @@
 <title>DEBIAS</title>
 <link>de-bias.github.io/debias/updates/</link>
 </image>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Wed, 19 Aug 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Tue, 18 Aug 2026 23:00:00 GMT</lastBuildDate>
 <item>
-  <title>New data story: Who is missing from the map?</title>
+  <title>Explore who is missing from the map</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/08/19/making-hidden-biases-visible.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
 
 
-<p>Our study on hidden biases in mobile phone population data is now published in <em>Royal Society Open Science</em>, and we have released an accompanying interactive data story.</p>
-<p><a href="https://doi.org/10.1098/rsos.251703">Making hidden biases visible in population location data from mobile phones</a>, by Carmen Cabrera and Francisco Rowe, compares four mobile-app datasets with the 2021 Census across 331 local authority areas in England and Wales. A strong aggregate correlation with Census counts coexists with substantial variation in local coverage; the same places shift position across sources, and coverage bias relates to area characteristics in different, often nonlinear ways. The results show that representativeness must be diagnosed and adjustments validated source by source.</p>
-<p>To make these findings accessible beyond the paper, we built <a href="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/"><em>Who is missing from the map?</em></a>, a two-act scrollytelling story that walks through the evidence interactively, including a local-authority explorer and a source-by-source view of area-level drivers of bias.</p>
-<p><a href="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/">Explore the story</a> · <a href="https://doi.org/10.1098/rsos.251703">Read the published article</a></p>
-<p><img src="de-bias.github.io/debias/updates/posts/2026/08/19/images/making-hidden-biases-visible.png" class="img-fluid"></p>
+<p>Digital-trace data can provide timely, geographically detailed population signals when censuses and surveys are too slow for rapidly unfolding challenges. Yet these data can also be biased, producing a distorted representation of local populations.</p>
+<p>Our study, <a href="https://doi.org/10.1098/rsos.251703"><em>Making hidden biases visible in population location data from mobile phones</em></a>, compares four mobile-app datasets with the 2021 Census across 331 local authority areas in England and Wales. It shows that a strong correlation between resident and active-user population counts does not assess bias or representativeness. Local coverage varies substantially, the same places change position across data sources, and coverage relates to population attributes in different and often nonlinear ways.</p>
+<p>Our revised interactive story, <em>Who is missing from the map?</em>, now guides readers from the value and limitations of digital-trace data through the evidence on local coverage, cross-source differences and the population attributes associated with under- or over-representation. It includes a local-authority explorer and visual comparisons across Twitter/X, Meta and two multi-application datasets.</p>
+<p><a href="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/" class="btn btn-primary btn-lg">Explore the interactive story →</a></p>
+<p><a href="https://doi.org/10.1098/rsos.251703">Read the published article</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/updates/posts/2026/08/19/images/who-is-missing-map-story.png" class="img-fluid figure-img"></p>
+<figcaption>Who is missing from the map? A visual introduction to uneven population coverage in digital-trace data.</figcaption>
+</figure>
+</div>
 
 
 
@@ -38,14 +44,14 @@
   <category>updates</category>
   <category>publication</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/08/19/making-hidden-biases-visible.html</guid>
-  <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2026/08/19/images/making-hidden-biases-visible.png" medium="image" type="image/png" height="76" width="144"/>
+  <pubDate>Tue, 18 Aug 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/08/19/images/who-is-missing-map-story.png" medium="image" type="image/png" height="76" width="144"/>
 </item>
 <item>
   <title>Introducing the DEBIAS Fellow Network</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/07/13/debias-fellow-network.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -65,14 +71,14 @@
   <category>updates</category>
   <category>community</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/07/13/debias-fellow-network.html</guid>
-  <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+  <pubDate>Sun, 12 Jul 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/07/13/images/debias-fellow-network.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>DEBIAS Workshop and Symposium 2026: Key information</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/07/07/debias-workshop-symposium-agenda.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -243,14 +249,14 @@
   <category>events</category>
   <category>workshop</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/07/07/debias-workshop-symposium-agenda.html</guid>
-  <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 06 Jul 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/07/07/images/debias-logo.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>New Python tutorial on bias in mobile phone data</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/24/ossen-python-tutorial.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -279,14 +285,14 @@
   <category>training</category>
   <category>software</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/24/ossen-python-tutorial.html</guid>
-  <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 23 Jun 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/24/images/lady-margaret-hall.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>DEBIAS Workshop and Symposium to set standards for bias-adjusted digital mobility data</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/16/debias-workshop-symposium.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -315,14 +321,14 @@
   <category>events</category>
   <category>workshop</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/16/debias-workshop-symposium.html</guid>
-  <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/16/images/university-of-liverpool-victoria-building.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Francisco Rowe contributes to new UN-CEBD Practical Manual on Mobile Phone Data</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/15/un-cebd-mobile-phone-data-manual.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -344,14 +350,14 @@
   <category>policy</category>
   <category>official-statistics</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/15/un-cebd-mobile-phone-data-manual.html</guid>
-  <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+  <pubDate>Sun, 14 Jun 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/15/images/un-cebd-mobile-phone-data-manual.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
   <title>DEBIAS at Mobile Tartu 2026</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/12/mobile-tartu-2026.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -371,14 +377,14 @@
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/12/mobile-tartu-2026.html</guid>
-  <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/12/images/mobile-tartu-2026.png" medium="image" type="image/png" height="192" width="144"/>
 </item>
 <item>
   <title>First beta version of debiasR now available</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/12/debiasr-beta.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -428,14 +434,14 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <category>updates</category>
   <category>software</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/06/12/debiasr-beta.html</guid>
-  <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+  <pubDate>Thu, 11 Jun 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/06/12/images/debiasr-website.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
   <title>Carmen joins the UN Committee of Experts on Big Data and Data Science for Official Statistics</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/04/28/carmen-un-cebd-mobile-phone-data.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -456,14 +462,14 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2026/04/28/carmen-un-cebd-mobile-phone-data.html</guid>
-  <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 27 Apr 2026 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2026/04/28/images/un-logo.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Francisco joins the ONS Working Group on Internal Migration Methods Development</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/02/27/ons-working-group.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -497,7 +503,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>From experimental to official migration statistics</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/09/23/oecd-mno-migration-statistics.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -521,14 +527,14 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <category>talks</category>
   <category>official-statistics</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/09/23/oecd-mno-migration-statistics.html</guid>
-  <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 22 Sep 2025 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/09/23/images/oecd-logo.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>Mobile Phone Data for Cross-border Population &amp; Expenditure Flows</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/05/14/jrc-cross-border-flows.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -547,14 +553,14 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <category>talks</category>
   <category>policy</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/05/14/jrc-cross-border-flows.html</guid>
-  <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 13 May 2025 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/05/14/images/jrc-cross-border-flows-workshop.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>DEBIAS at the Complexity Science Hub</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/05/05/complexity-vienna.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -569,39 +575,14 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
  ]]></description>
   <category>talks</category>
   <guid>de-bias.github.io/debias/updates/posts/2025/05/05/complexity-vienna.html</guid>
-  <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
+  <pubDate>Sat, 03 May 2025 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2025/05/05/images/table-photo.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>DEBIAS at the FCDO</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="600"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</guid>
-  <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>DEBIAS’s new publication</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/01/24/transport-geo.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -633,10 +614,35 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <media:content url="de-bias.github.io/debias/updates/posts/2025/01/24/images/tg-paper.png" medium="image" type="image/png" height="99" width="144"/>
 </item>
 <item>
+  <title>DEBIAS at the FCDO</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</link>
+  <description><![CDATA[
+
+
+
+
+
+<p>Francisco was invited to present how work on the use of human mobility data extracted from smartphones to develop population-level estimates at the Foreign, Commonwealth and Development Office (FCDO). The FCDO closely monitors the impacts of the Ukraine-Russia conflict on local economies and the speed of their recovery.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" width="600"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <guid>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</guid>
+  <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2025/01/23/images/fcdo.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>DEBIAS joins the Collaborative Group on Nowcasting Populations</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -660,7 +666,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS produces insights into the 2024 Valencia floods</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2024/11/20/valencia-floods.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -685,7 +691,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS expands to Mexico</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2024/11/17/debias-mexico.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -710,7 +716,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS contributes to the 2024 LAMBDA meeting</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2024/11/15/lambda.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -735,7 +741,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS at CASA-UCL</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -751,7 +757,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
  ]]></description>
   <category>updates</category>
   <guid>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</guid>
-  <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/23/images/casa-desc.png" medium="image" type="image/png" height="78" width="144"/>
 </item>
 </channel>
