@@ -1,0 +1,28 @@
+---
+title: "Sustained changes to urban mobility after COVID-19 reinforced socioeconomic inequalities in Argentina, Chile and Colombia"
+author:
+- Carmen Cabrera
+- Miguel González-Leonardo
+- Andrea Nasuto
+- Ruth Neville
+- Francisco Rowe
+date: '2026-11-26'
+description: ' '
+subtitle: ' '
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1038/s41467-026-79361-4
+---
+
+## URL: <https://doi.org/10.1038/s41467-026-79361-4>
+
+Published in *Nature Communications*.
+
+## Summary
+
+This article shows how digital trace data can reveal lasting changes in human mobility that are difficult to capture through conventional statistics. Using more than 170 million anonymised and aggregated Meta-Facebook location records, it tracks mobility across socioeconomic and rural-urban gradients in Argentina, Chile and Colombia.
+
+The analysis explicitly addresses missing records and uneven data coverage. It uses WorldPop population benchmarks and spatial interaction models to estimate population and movement counts suppressed for privacy, and adjusts for fluctuations in active-user coverage over time. Comparisons with external benchmarks and analyses with and without imputation assess the robustness of the findings, while recognising that these corrections do not eliminate all representativeness limitations.
+
+Two years after the pandemic began, mobility in the highest-density urban cores remained around 25–50% below pre-pandemic levels, while the most affluent third of communities had not returned to baseline. These differences reflect the scale of the initial mobility shock rather than subsequent recovery rates, highlighting how major disruptions can reinforce mobility inequalities.
