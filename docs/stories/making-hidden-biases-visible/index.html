@@ -1,0 +1,555 @@
+<!doctype html>
+<html lang="en-GB" class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Making hidden biases visible in population location data from mobile phones — DEBIAS data story</title>
+  <meta name="description" content="A high correlation can make digital population data look representative. See why local coverage varies—and why different sources need different fixes.">
+  <link rel="canonical" href="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/">
+  <meta name="citation_title" content="Making hidden biases visible in population location data from mobile phones">
+  <meta name="citation_author" content="Carmen Cabrera">
+  <meta name="citation_author" content="Francisco Rowe">
+  <meta name="citation_publication_date" content="2026-08-19">
+  <meta name="citation_journal_title" content="Royal Society Open Science">
+  <meta name="citation_volume" content="13">
+  <meta name="citation_issue" content="8">
+  <meta name="citation_doi" content="10.1098/rsos.251703">
+  <meta name="citation_pdf_url" content="https://royalsocietypublishing.org/rsos/article-pdf/doi/10.1098/rsos.251703/6159209/rsos.251703.pdf">
+  <meta name="theme-color" content="#fbfaf6">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Who is missing from the map? — Making hidden biases visible">
+  <meta property="og:description" content="Even when the population counts line up overall, local coverage can still vary—and different sources are uneven in different places.">
+  <meta property="og:url" content="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/">
+  <meta property="og:image" content="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/assets/social-card.png">
+  <meta property="article:published_time" content="2026-08-19">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Who is missing from the map? — Making hidden biases visible">
+  <meta name="twitter:description" content="Correlation is a first check—not proof. Different sources show different local bias patterns.">
+  <meta name="twitter:image" content="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/assets/social-card.png">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css?v=research-nav">
+  <script>document.documentElement.classList.replace('no-js', 'js');</script>
+  <script src="app.js?v=map-copy-aa" defer></script>
+  <script src="source-story.js?v=source-copy-ae" defer></script>
+  <script src="context-radials.js" defer></script>
+  <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" defer></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Who is missing from the map?",
+    "url": "https://de-bias.github.io/debias/stories/making-hidden-biases-visible/",
+    "datePublished": "2026-08-19",
+    "isBasedOn": {
+      "@type": "ScholarlyArticle",
+      "name": "Making hidden biases visible in population location data from mobile phones",
+      "doi": "10.1098/rsos.251703",
+      "url": "https://doi.org/10.1098/rsos.251703",
+      "author": [
+        {"@type": "Person", "name": "Carmen Cabrera"},
+        {"@type": "Person", "name": "Francisco Rowe"}
+      ],
+      "datePublished": "2026-08-19",
+      "isPartOf": {"@type": "Periodical", "name": "Royal Society Open Science"}
+    }
+  }
+  </script>
+</head>
+<body class="debias-story">
+  <a class="skip-link" href="#main">Skip to the story</a>
+
+  <header class="site-header" aria-label="Site header">
+    <a class="brand" href="index.html" aria-label="DEBIAS data story home">
+      <strong>DEBIAS</strong>
+      <span>DEBIAS research project</span>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a href="index.html" aria-current="page">Story</a>
+      <a href="explore.html">Explore</a>
+      <a href="research.html">Research</a>
+      <a href="https://doi.org/10.1098/rsos.251703">Paper</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section id="intro" class="cover" aria-labelledby="hero-title">
+      <div class="cover-grid">
+        <div class="cover-copy">
+          <p class="eyebrow">DEBIAS data story · Published in <em>Royal Society Open Science</em></p>
+          <h1 id="hero-title" tabindex="-1">Who is missing<br>from the map?</h1>
+          <div class="message-box">
+            <p>Rapidly unfolding social challenges such as natural disasters, conflicts and epidemics require timely and granular data to understand population changes and appropriately inform planning and decision-making.</p>
+            <p>However, existing data platforms, including censuses and surveys, are often slow and expensive. Passively generated data via digital technology, including mobile phone apps, have demonstrated great utility in supporting responses to many urgent social challenges, such as the COVID-19 pandemic, the war in Ukraine and flood-induced disaster management in Pakistan. They can provide temporally and geographically granular population data in near-real time.</p>
+            <p>Yet, digital-trace data can be biased and provide a distorted representation of local populations. Generally, the correlation between the geographical distributions of resident and active-user populations is assessed, but this does not offer an assessment of bias or representativeness.</p>
+            <p><strong>High correlation may exist. But local coverage may still vary and local populations remain poorly represented.</strong></p>
+          </div>
+          <p class="cover-caveat"><strong>Digital-trace counts provide a useful signal but they do not represent the local populations.</strong> Comparing active-user counts from Meta illustrates wide variation in coverage for places with similar population counts.</p>
+        </div>
+
+      </div>
+    </section>
+
+    <section id="story" class="evidence-story" aria-label="Evidence in four views">
+      <div class="visual-column">
+        <div class="visual-panel">
+          <div class="visual-topline">
+            <p id="story-progress" class="story-progress" aria-live="polite">1 / 8 · Pair</p>
+            <a class="text-link" href="#pair">Read from the start ↑</a>
+          </div>
+          <div class="pair-shell" aria-label="Comparison of Watford and North East Derbyshire">
+            <div class="pair-layout">
+              <article class="place-card place-card-low" data-lad-code="E07000103" data-population="102246" data-meta="2419" data-rate="2.3658627">
+                <h2>Watford</h2>
+                <p class="place-population"><strong>102,246</strong> residents</p>
+                <p class="place-estimate place-estimate-inline">Meta active-user estimate: <strong>2,419</strong></p>
+                <p class="place-rate"><strong>2.37</strong> accounts per 100</p>
+                <svg class="record-grid" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
+                  <defs>
+                    <pattern id="watford-grid" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="6.8" height="6.8" rx="0.7" fill="#fff"/></pattern>
+                    <mask id="watford-mask"><rect width="100" height="100" fill="url(#watford-grid)"/></mask>
+                  </defs>
+                  <rect width="100" height="100" fill="#d8d8d5" mask="url(#watford-mask)"/>
+                  <rect width="23.7" height="10" fill="#078481" mask="url(#watford-mask)"/>
+                </svg>
+              </article>
+
+              <div class="pair-ratio" aria-label="6.7 times different local rates">
+                <span aria-hidden="true"></span>
+                <strong>6.7×</strong>
+                <p>different local<br>population coverage rates</p>
+                <span aria-hidden="true"></span>
+              </div>
+
+              <article class="place-card place-card-high" data-lad-code="E07000038" data-population="102001" data-meta="16204" data-rate="15.8861188">
+                <h2>North East<br>Derbyshire</h2>
+                <p class="place-population"><strong>102,001</strong> residents</p>
+                <p class="place-estimate place-estimate-inline">Meta active-user estimate: <strong>16,204</strong></p>
+                <p class="place-rate"><strong>15.89</strong> accounts per 100</p>
+                <svg class="record-grid" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
+                  <defs>
+                    <pattern id="derbyshire-grid" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="6.8" height="6.8" rx="0.7" fill="#fff"/></pattern>
+                    <mask id="derbyshire-mask"><rect width="100" height="100" fill="url(#derbyshire-grid)"/></mask>
+                  </defs>
+                  <rect width="100" height="100" fill="#d8d8d5" mask="url(#derbyshire-mask)"/>
+                  <rect width="100" height="10" fill="#f2553d" mask="url(#derbyshire-mask)"/>
+                  <rect y="10" width="58.9" height="10" fill="#f2553d" mask="url(#derbyshire-mask)"/>
+                </svg>
+              </article>
+            </div>
+          </div>
+          <div class="chart-shell" hidden>
+            <svg id="story-svg" viewBox="0 0 900 680" role="img" aria-labelledby="chart-title chart-description">
+              <title id="chart-title">Census population and Meta active-user estimates</title>
+              <desc id="chart-description">A scatter plot of 331 local authorities. The relationship is strong, but local rates vary.</desc>
+              <text class="loading-label" x="450" y="340" text-anchor="middle">Loading the evidence…</text>
+            </svg>
+            <div id="chart-tooltip" class="chart-tooltip" role="status" hidden></div>
+          </div>
+          <p id="chart-summary" class="chart-summary" hidden></p>
+          <nav class="chapter-rail visual-rail" aria-label="Interactive story chapters">
+            <button class="is-current" type="button" data-go-state="0" aria-current="step"><span></span>Pair</button>
+            <button type="button" data-go-state="1"><span></span>Counts</button>
+            <button type="button" data-go-state="2"><span></span>Rates</button>
+            <button type="button" data-go-state="3"><span></span>Map</button>
+            <a href="#source-intro"><span></span>Sources</a>
+            <a href="#context-fingerprints"><span></span>Understand</a>
+            <a href="#verdict"><span></span>Conclusions</a>
+            <a href="#learn-more"><span></span>Learn</a>
+          </nav>
+        </div>
+      </div>
+
+      <div class="steps-column">
+        <article id="pair" class="story-step pair-figure-step is-active" data-state="0" tabindex="-1">
+          <p class="step-kicker">1 / 8 · Pair</p>
+          <h2>Comparing two places</h2>
+          <p>Places can have similar resident population counts but have widely different coverage levels in digital-trace data. Using data from Meta, we illustrate how population coverage varies across UK local authorities. Comparing Watford and North East Derbyshire illustrate how two places with similar resident population counts can have a <strong>6.7 time difference</strong> in population coverage.</p>
+          <figure class="step-static">
+            <img src="media/01-revealing-pair.svg" loading="lazy" decoding="async" alt="Watford and North East Derbyshire have similar resident populations but Meta coverage rates of 2.37 and 15.89 accounts per 100 residents.">
+          </figure>
+        </article>
+
+        <article id="counts" class="story-step counts-intro-step" data-state="1" tabindex="-1">
+          <p class="step-kicker">2 / 8 · Counts</p>
+          <h2>Population counts still line up.</h2>
+          <p>Across local authorities, census populations and Meta’s active-user population estimates have a Pearson correlation of <strong>r = .91</strong>. More populated places generally have more accounts. Yet, this high correlation does not quantify limited coverage or representation.</p>
+          <p class="key-line"><strong>Local variations in coverage rates reveal which populations are under- or over-represented in digital-trace data.</strong></p>
+          <figure class="step-static">
+            <picture>
+              <source media="(max-width: 760px)" srcset="media/02-counts-line-up-mobile.svg">
+              <img src="media/02-counts-line-up.svg" loading="lazy" decoding="async" alt="Scatter plot showing a strong positive relationship between census population and Meta active-user estimates; Pearson r equals 0.91.">
+            </picture>
+          </figure>
+        </article>
+
+        <article id="rates" class="story-step" data-state="2" tabindex="-1">
+          <p class="step-kicker">3 / 8 · Population coverage rates</p>
+          <h2>Putting places on the same scale</h2>
+          <p>Expressing Meta coverage as user accounts per 100 census residents, local variations become clearer. They vary widely around Meta’s fitted rate of <strong>8.09</strong> per 100 residents across local authorities.</p>
+          <p class="key-line">The middle 90% of areas spans <strong>4.61 to 12.31</strong> accounts per 100 residents, equivalent to a <strong>2.7x</strong> range. Such level of variation is typical in digital-trace data from various sources.</p>
+          <figure class="step-static">
+            <picture>
+              <source media="(max-width: 760px)" srcset="media/03-local-rates-mobile.svg">
+              <img src="media/03-local-rates.svg" loading="lazy" decoding="async" alt="Strip plot showing 331 local Meta coverage rates around a fitted rate of 8.09 estimates per 100 residents.">
+            </picture>
+            <figcaption>Dividing by population reveals the spread.</figcaption>
+          </figure>
+        </article>
+
+        <article id="map" class="story-step" data-state="3" tabindex="-1">
+          <p class="step-kicker">4 / 8 · Map</p>
+          <h2>Mapping population coverage rates</h2>
+          <p>Mapping coverage rates relative to the fitted Meta rate reveals under- (darker teal colours) and over-represented (darker coral colours) places.</p>
+          <p class="key-line">Coverage rates vary systematically but differently with demographic, socioeconomic, accessibility, mobility and geographical features of local areas. Analysing these relationships helps more precisely identify which population groups may be under- or overrepresented in digital-trace data.</p>
+          <figure class="step-static">
+            <picture>
+              <source media="(max-width: 760px)" srcset="media/04-local-map-mobile.svg">
+              <img src="media/04-local-map.svg" loading="lazy" decoding="async" alt="Map showing local authorities with fewer or more Meta active-user estimates per resident than the fitted rate.">
+            </picture>
+            <figcaption>Difference between local and fitted rate · estimates per 100</figcaption>
+          </figure>
+        </article>
+      </div>
+    </section>
+
+    <section id="source-intro" class="source-act" aria-labelledby="source-act-title">
+      <header class="source-intro wrap">
+        <p class="eyebrow">Different data sources, different patterns</p>
+        <h2 id="source-act-title">The same place is portrayed differently through different data.</h2>
+        <p>Meta is one data source and offers one representation of local populations. But there are more sources. Each may display a high correlation score but offers its own distorted representation of local populations. We investigate four sources.</p>
+        <p class="source-boundary"><strong>Each data source has its own fitted coverage rate.</strong> Still, the same area can land on opposite sides of a fitted coverage rate depending on the digital-trace data source used to represent their local populations.</p>
+        <details class="source-method-note">
+          <summary>What differs between the four sources?</summary>
+          <p>Twitter/X uses inferred monthly home locations of active accounts and Meta uses active-user population estimates for March 2021. Multi-app1 uses inferred home locations of qualifying devices from the first week of April; Multi-app2 uses inferred home locations from preprocessed multi-application GPS data for November. The fitted index normalises scale; it does not make the sources equivalent.</p>
+        </details>
+      </header>
+
+      <div class="source-story wrap" aria-label="Cross-source evidence in two views">
+        <div class="source-visual-column">
+          <div class="source-visual-panel">
+            <div class="source-visual-topline">
+              <p id="source-progress" class="source-progress">5 / 8 · Sources</p>
+              <a class="text-link" href="#source-intro">Sources intro ↑</a>
+            </div>
+            <div class="source-chart-shell">
+              <svg id="source-svg" viewBox="0 0 900 650" role="img" aria-labelledby="source-chart-title source-chart-description">
+                <title id="source-chart-title">Watford and North East Derbyshire across four digital sources</title>
+                <desc id="source-chart-description">The two local authorities change sides of their source-specific fitted rates when the data source changes.</desc>
+                <text class="loading-label" x="450" y="325" text-anchor="middle">Loading the four-source comparison…</text>
+              </svg>
+            </div>
+            <p id="source-summary" class="source-summary">Each source portrays the same place differently.</p>
+            <nav class="chapter-rail source-rail" aria-label="Story outline">
+              <a href="#pair"><span></span>Pair</a>
+              <a href="#counts"><span></span>Counts</a>
+              <a href="#rates"><span></span>Rates</a>
+              <a href="#map"><span></span>Map</a>
+              <a class="is-current" href="#source-intro"><span></span>Sources</a>
+              <a href="#context-fingerprints"><span></span>Understand</a>
+              <a href="#verdict"><span></span>Conclusions</a>
+              <a href="#learn-more"><span></span>Learn</a>
+            </nav>
+          </div>
+        </div>
+
+        <div class="source-steps-column">
+          <article id="source-fingerprint" class="source-step is-active" data-source-step="0" tabindex="-1">
+            <p class="step-kicker">5 / 8 · Sources</p>
+            <h2>Population coverage for the same area can vary widely across data sources</h2>
+            <p>Focusing on Watford and North East Derbyshire shows large differences in coverage by data source. For Watford, the fitted coverage rate is below for Meta, but above for Twitter/X, Multi-app1 and Multi-app2. For North East Derbyshire, it is above for Meta and Multi-app2, but below for Twitter/X and Multi-app1.</p>
+            <p class="key-line">The places have not changed. The source has.</p>
+            <figure class="source-static">
+              <div class="source-table-wrap">
+                <table class="source-fingerprint-table">
+                  <caption>Relative to each source’s fitted population coverage rate</caption>
+                  <thead><tr><th scope="col">Source</th><th scope="col">Watford</th><th scope="col">North East Derbyshire</th></tr></thead>
+                  <tbody>
+                    <tr><th scope="row">Twitter/X</th><td class="is-above">1.09× <small>9% above</small></td><td class="is-below">0.49× <small>51% below</small></td></tr>
+                    <tr><th scope="row">Meta</th><td class="is-below">0.29× <small>71% below</small></td><td class="is-above">1.96× <small>96% above</small></td></tr>
+                    <tr><th scope="row">Multi-app1</th><td class="is-above">1.44× <small>44% above</small></td><td class="is-below">0.83× <small>17% below</small></td></tr>
+                    <tr><th scope="row">Multi-app2</th><td class="is-above">1.27× <small>27% above</small></td><td class="is-above">1.21× <small>21% above</small></td></tr>
+                  </tbody>
+                </table>
+              </div>
+            </figure>
+          </article>
+
+          <article id="source-switches" class="source-step" data-source-step="1" tabindex="-1">
+            <h2>91% of local authorities change position</h2>
+            <p><strong>300 of 331 local authority areas</strong> display higher or lower coverage rates than the fitted or expected rate in at least one data source. This indicates that patterns of under- or over-representation across areas are the norm, rather than an exception.</p>
+            <figure class="source-static source-switch-static">
+              <div class="source-switch-number" aria-hidden="true"><strong>300</strong><span>/ 331</span></div>
+              <div class="source-unit-grid source-unit-grid-fallback" aria-hidden="true"><i class="is-pair"></i><i class="is-pair"></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+              <figcaption>300 of 331 authorities change sides across the four source-specific fitted rates from being over- to under-represented or vice versa.</figcaption>
+            </figure>
+          </article>
+        </div>
+      </div>
+      <section id="context-fingerprints" class="source-shapes context-fingerprints wrap" aria-labelledby="context-fingerprints-title" data-default-source="twitter">
+        <header class="source-shapes-heading context-fingerprints-heading">
+          <p class="step-kicker">6 / 8 · Understand the influence of local attributes</p>
+          <h2 id="context-fingerprints-title" class="context-section-title">Understanding which populations are under- or over-represented.</h2>
+          <p>Coverage rates vary systematically with local population attributes. By analysing this variation, we can identify which population groups are likely under- or over-represented in digital-trace data. We investigate differences across our four data sources: Twitter/X, Meta, Multi-App1 and Multi-App2.</p>
+          <p class="context-render-label">We use a machine-learning based model (XGBoost) to analyse which place-based attributes are the most important predictors of low or high population coverage bias. <strong>These attributes identify the population groups which are under- or over-represented in a particular digital-trace dataset.</strong></p>
+        </header>
+
+        <div class="context-source-controls" role="group" aria-label="Choose a digital-trace data source">
+          <button class="is-active" type="button" data-context-source="twitter" aria-pressed="true">Twitter/X</button>
+          <button type="button" data-context-source="meta" aria-pressed="false">Meta</button>
+          <button type="button" data-context-source="multiapp1" aria-pressed="false">Multi-app1</button>
+          <button type="button" data-context-source="multiapp2" aria-pressed="false">Multi-app2</button>
+        </div>
+        <p class="context-current" aria-live="polite">Selected source: <strong id="context-source-name">Twitter/X</strong></p>
+        <p class="context-label-note">Choose a digital-trace data source. The radial plots below identify the most important place-based attributes associated with variability in population coverage rates. For example, the share of the population aged 20–29 and share of households without a car are the most important predictors of low population coverage rates.</p>
+        <p class="context-boundary"><strong>We find that the associations between local attributes and population coverage rates can flatten, reverse direction or change shape across the range of observed records.</strong> Machine learning is employed to capture these non-linear relationships.</p>
+
+        <div class="context-radial-grid">
+          <figure class="context-radial-card" data-context-card="demographic">
+            <header><span>A</span><h3>Demographic context</h3></header>
+            <img class="context-radial-svg" data-context-domain="demographic" src="media/radial-generated/twitter-demographic.svg" loading="lazy" decoding="async" width="600" height="560" alt="Site-styled radial fingerprint of relative demographic feature importance for the Twitter/X coverage-bias model.">
+            <figcaption>Ten demographic characteristics of local areas.</figcaption>
+          </figure>
+          <figure class="context-radial-card" data-context-card="socioeconomic">
+            <header><span>B</span><h3>Socioeconomic context</h3></header>
+            <img class="context-radial-svg" data-context-domain="socioeconomic" src="media/radial-generated/twitter-socioeconomic.svg" loading="lazy" decoding="async" width="600" height="560" alt="Site-styled radial fingerprint of relative socioeconomic feature importance for the Twitter/X coverage-bias model.">
+            <figcaption>Eleven socioeconomic characteristics of local areas.</figcaption>
+          </figure>
+          <figure class="context-radial-card" data-context-card="resource_access">
+            <header><span>C</span><h3>Resource accessibility</h3></header>
+            <img class="context-radial-svg" data-context-domain="resource_access" src="media/radial-generated/twitter-resource_access.svg" loading="lazy" decoding="async" width="600" height="560" alt="Site-styled radial fingerprint of relative resource-access feature importance for the Twitter/X coverage-bias model.">
+            <figcaption>Four Census household proxies—not direct measures of internet or device access.</figcaption>
+          </figure>
+          <figure class="context-radial-card" data-context-card="mobility_geography">
+            <header><span>D</span><h3>Mobility &amp; geography</h3></header>
+            <img class="context-radial-svg" data-context-domain="mobility_geography" src="media/radial-generated/twitter-mobility_geography.svg" loading="lazy" decoding="async" width="600" height="560" alt="Site-styled radial fingerprint of relative mobility and geographic feature importance for the Twitter/X coverage-bias model.">
+            <figcaption>Two model domains combined in one display group.</figcaption>
+          </figure>
+        </div>
+
+        <div class="context-domain-controls" aria-label="Browse area-context display groups">
+          <button type="button" data-context-prev aria-label="Show previous area-context display group">Previous</button>
+          <p id="context-domain-position" aria-live="polite">1 of 4 · Demographic context</p>
+          <button type="button" data-context-next aria-label="Show next area-context display group">Next</button>
+        </div>
+
+        <details id="context-feature-details" class="context-provenance context-feature-details">
+          <summary>View the complete feature-importance values</summary>
+          <div class="context-feature-table-wrap">
+            <p class="context-table-swipe">Swipe horizontally to see raw values and ranks.</p>
+            <table class="context-feature-table">
+              <caption id="context-feature-table-caption">Twitter/X accepted-revision main-model feature importance</caption>
+              <thead>
+                <tr><th scope="col">Context</th><th scope="col">Area characteristic</th><th scope="col">Raw mean absolute SHAP</th><th scope="col">Relative importance (0–1)</th><th scope="col">Source rank</th></tr>
+              </thead>
+              <tbody id="context-feature-table-body">
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Population aged 0–9</td><td data-label="Raw mean absolute SHAP">0.00002691794021183855</td><td data-label="Relative importance (0–1)">0.140856123551</td><td data-label="Source rank">12</td></tr>
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Population aged 10–19</td><td data-label="Raw mean absolute SHAP">0.0000649645600550803</td><td data-label="Relative importance (0–1)">0.339946371288</td><td data-label="Source rank">3</td></tr>
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Population aged 60–69</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Households with six or more people</td><td data-label="Raw mean absolute SHAP">0.00003805668792388726</td><td data-label="Relative importance (0–1)">0.199142931961</td><td data-label="Source rank">6</td></tr>
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Female population</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Population aged 30–39</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Population aged 50–59</td><td data-label="Raw mean absolute SHAP">0.000012332312306408194</td><td data-label="Relative importance (0–1)">0.064532489939</td><td data-label="Source rank">17</td></tr>
+                <tr class="is-labelled"><td data-label="Context">Demographic</td><td data-label="Area characteristic">Population aged 20–29</td><td data-label="Raw mean absolute SHAP">0.00019110237832216587</td><td data-label="Relative importance (0–1)">1</td><td data-label="Source rank">1</td></tr>
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Population aged 40–49</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Demographic</td><td data-label="Area characteristic">Population aged 70 and over</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Routine occupations</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Population with Level 4 qualifications or above</td><td data-label="Raw mean absolute SHAP">0.000027273989262934978</td><td data-label="Relative importance (0–1)">0.142719256047</td><td data-label="Source rank">11</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Population with no qualifications</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Never worked and long-term unemployed</td><td data-label="Raw mean absolute SHAP">0.000009591420828893087</td><td data-label="Relative importance (0–1)">0.050189960549</td><td data-label="Source rank">18</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Small employers and own-account workers</td><td data-label="Raw mean absolute SHAP">0.00005770954486924102</td><td data-label="Relative importance (0–1)">0.301982347765</td><td data-label="Source rank">5</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Full-time students</td><td data-label="Raw mean absolute SHAP">0.000030419167037705294</td><td data-label="Relative importance (0–1)">0.159177333662</td><td data-label="Source rank">9</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Lower supervisory and technical occupations</td><td data-label="Raw mean absolute SHAP">0.00003005039306236026</td><td data-label="Relative importance (0–1)">0.157247614217</td><td data-label="Source rank">10</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Semi-routine occupations</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Intermediate occupations</td><td data-label="Raw mean absolute SHAP">0.000019170659907499414</td><td data-label="Relative importance (0–1)">0.100316176469</td><td data-label="Source rank">15</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Higher managerial, administrative and professional occupations</td><td data-label="Raw mean absolute SHAP">0.000034953457907249684</td><td data-label="Relative importance (0–1)">0.18290435846</td><td data-label="Source rank">7</td></tr>
+                <tr><td data-label="Context">Socioeconomic</td><td data-label="Area characteristic">Lower managerial, administrative and professional occupations</td><td data-label="Raw mean absolute SHAP">0.000059920262322560554</td><td data-label="Relative importance (0–1)">0.313550583978</td><td data-label="Source rank">4</td></tr>
+                <tr><td data-label="Context">Resource accessibility</td><td data-label="Area characteristic">Households without central heating</td><td data-label="Raw mean absolute SHAP">0.000020664578218914</td><td data-label="Relative importance (0–1)">0.108133548103</td><td data-label="Source rank">13</td></tr>
+                <tr class="is-labelled"><td data-label="Context">Resource accessibility</td><td data-label="Area characteristic">Households without a car or van</td><td data-label="Raw mean absolute SHAP">0.00012899871064449975</td><td data-label="Relative importance (0–1)">0.675024098481</td><td data-label="Source rank">2</td></tr>
+                <tr><td data-label="Context">Resource accessibility</td><td data-label="Area characteristic">Households owned</td><td data-label="Raw mean absolute SHAP">0.000019936567481754933</td><td data-label="Relative importance (0–1)">0.104324015519</td><td data-label="Source rank">14</td></tr>
+                <tr><td data-label="Context">Resource accessibility</td><td data-label="Area characteristic">Households not deprived in any dimension</td><td data-label="Raw mean absolute SHAP">0.000008992498082396038</td><td data-label="Relative importance (0–1)">0.047055919248</td><td data-label="Source rank">19</td></tr>
+                <tr><td data-label="Context">Mobility &amp; geography</td><td data-label="Area characteristic">Population density</td><td data-label="Raw mean absolute SHAP">0.00003367524472512583</td><td data-label="Relative importance (0–1)">0.176215728034</td><td data-label="Source rank">8</td></tr>
+                <tr><td data-label="Context">Mobility &amp; geography</td><td data-label="Area characteristic">Rural population</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Mobility &amp; geography</td><td data-label="Area characteristic">Population born outside the UK</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+                <tr><td data-label="Context">Mobility &amp; geography</td><td data-label="Area characteristic">Employed residents working mainly at or from home</td><td data-label="Raw mean absolute SHAP">0.000012688271766345006</td><td data-label="Relative importance (0–1)">0.066395153623</td><td data-label="Source rank">16</td></tr>
+                <tr><td data-label="Context">Mobility &amp; geography</td><td data-label="Area characteristic">Population resident in the UK for less than two years</td><td data-label="Raw mean absolute SHAP">0</td><td data-label="Relative importance (0–1)">0</td><td data-label="Source rank">20</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </details>
+
+        <noscript>
+          <div class="context-noscript-links">
+            <p><strong>JavaScript-free fingerprint links.</strong> Open any site-styled SVG directly:</p>
+            <ul>
+              <li><strong>Twitter/X:</strong> <a href="media/radial-generated/twitter-demographic.svg">Demographic</a> · <a href="media/radial-generated/twitter-socioeconomic.svg">Socioeconomic</a> · <a href="media/radial-generated/twitter-resource_access.svg">Resource accessibility</a> · <a href="media/radial-generated/twitter-mobility_geography.svg">Mobility &amp; geography</a></li>
+              <li><strong>Meta:</strong> <a href="media/radial-generated/meta-demographic.svg">Demographic</a> · <a href="media/radial-generated/meta-socioeconomic.svg">Socioeconomic</a> · <a href="media/radial-generated/meta-resource_access.svg">Resource accessibility</a> · <a href="media/radial-generated/meta-mobility_geography.svg">Mobility &amp; geography</a></li>
+              <li><strong>Multi-app1:</strong> <a href="media/radial-generated/multiapp1-demographic.svg">Demographic</a> · <a href="media/radial-generated/multiapp1-socioeconomic.svg">Socioeconomic</a> · <a href="media/radial-generated/multiapp1-resource_access.svg">Resource accessibility</a> · <a href="media/radial-generated/multiapp1-mobility_geography.svg">Mobility &amp; geography</a></li>
+              <li><strong>Multi-app2:</strong> <a href="media/radial-generated/multiapp2-demographic.svg">Demographic</a> · <a href="media/radial-generated/multiapp2-socioeconomic.svg">Socioeconomic</a> · <a href="media/radial-generated/multiapp2-resource_access.svg">Resource accessibility</a> · <a href="media/radial-generated/multiapp2-mobility_geography.svg">Mobility &amp; geography</a></li>
+            </ul>
+          </div>
+        </noscript>
+
+        <div class="context-hinge">
+          <h3>Local attributes do not relate to coverage in a simple, linear way</h3>
+          <p>The illustrative examples below show the shape of the relationship between key place-based attributes and population coverage rates for different data sources. Radial plots indicate which place-based attributes are important predictors of low coverage rates, but they do not tell us how these attributes influence coverage. For example, the radial plots show that the percentage of people aged 20–29 is an important predictor of low coverage rates in Twitter/X. The middle plot below shows how this relationship unfolds: as the percentage of people aged 20–29 increases, population coverage in Twitter/X data also tends to increase; that is, poor coverage becomes smaller. Here, the y-axis represents the inverse of population coverage rates.</p>
+        </div>
+        <p class="source-shapes-note">We find that the associations between local attributes and population coverage rates can flatten, reverse direction or change shape across the range of observed records. <strong>Machine learning is employed to capture these non-linear relationships.</strong></p>
+
+        <div class="source-shape-grid">
+          <figure class="source-shape-card">
+            <header class="source-shape-context">
+              <strong>Curved</strong>
+              <small>Mobility &amp; geography</small>
+            </header>
+            <p class="source-shape-label"><strong>Meta</strong><span>Population density</span></p>
+            <picture>
+              <source type="image/webp" srcset="media/nonlinear/meta-population-density-plot.webp">
+              <img src="media/nonlinear/meta-population-density-plot.png" loading="lazy" decoding="async" width="900" height="520" alt="Accepted-figure SHAP crop showing a curved, reversing area-level association between population density and modelled Meta coverage bias.">
+            </picture>
+
+          </figure>
+          <figure class="source-shape-card">
+            <header class="source-shape-context">
+              <strong>S-Shape</strong>
+              <small>Demographic</small>
+            </header>
+            <p class="source-shape-label"><strong>Twitter/X</strong><span>Area share aged 20–29</span></p>
+            <picture>
+              <source type="image/webp" srcset="media/nonlinear/twitter-age-20-29-plot.webp">
+              <img src="media/nonlinear/twitter-age-20-29-plot.png" loading="lazy" decoding="async" width="900" height="520" alt="Accepted-figure SHAP crop showing an S-shaped area-level association between local share aged 20 to 29 and modelled Twitter/X coverage bias.">
+            </picture>
+
+          </figure>
+          <figure class="source-shape-card">
+            <header class="source-shape-context">
+              <strong>Threshold</strong>
+              <small>Socioeconomic</small>
+            </header>
+            <p class="source-shape-label"><strong>Multi-app1</strong><span>Area share with Level 4 qualifications</span></p>
+            <picture>
+              <source type="image/webp" srcset="media/nonlinear/multiapp1-level4-qualifications-plot.webp">
+              <img src="media/nonlinear/multiapp1-level4-qualifications-plot.png" loading="lazy" decoding="async" width="900" height="520" alt="Accepted-figure SHAP crop showing a threshold-shaped area-level association between local share with Level 4 qualifications and modelled Multi-app1 coverage bias.">
+            </picture>
+
+          </figure>
+        </div>
+        <a class="arrow-link" href="research.html">See the methods, interpretation and assumptions <span aria-hidden="true">→</span></a>
+        <div class="section-rail-wrap">
+          <nav class="chapter-rail section-rail" aria-label="Story outline">
+            <a href="#pair"><span></span>Pair</a>
+            <a href="#counts"><span></span>Counts</a>
+            <a href="#rates"><span></span>Rates</a>
+            <a href="#map"><span></span>Map</a>
+            <a href="#source-intro"><span></span>Sources</a>
+            <a class="is-current" href="#context-fingerprints"><span></span>Understand</a>
+            <a href="#verdict"><span></span>Conclusions</a>
+            <a href="#learn-more"><span></span>Learn</a>
+          </nav>
+        </div>
+      </section>
+    </section>
+
+    <section id="verdict" class="verdict wrap" aria-labelledby="verdict-title">
+      <div class="verdict-mark" aria-hidden="true">≠</div>
+      <div class="verdict-copy">
+        <p class="eyebrow">7 / 8 · Conclusions</p>
+        <h2 id="verdict-title">Digital-trace population estimates are valuable, but their representativeness must be assessed and adjusted.</h2>
+        <p class="verdict-body">Across four digital-trace data sources, we find substantial local differences in population coverage. These differences vary across places and data sources, and they are associated with demographic, socioeconomic, resource accessibility, mobility and geographical attributes of local populations. These variations reflect biases resulting from the under- and over-representation of certain population groups in the digital platforms used to collect the data. Assessing the representation of digital-trace data is therefore required to define appropriate ways of adjusting them and using them for reliable population inference.</p>
+        <p class="verdict-line">Assess before you infer.</p>
+        <a class="arrow-link" href="research.html">Read the methods, limitations and wider findings <span aria-hidden="true">→</span></a>
+        <div class="section-rail-wrap">
+          <nav class="chapter-rail section-rail" aria-label="Story outline">
+            <a href="#pair"><span></span>Pair</a>
+            <a href="#counts"><span></span>Counts</a>
+            <a href="#rates"><span></span>Rates</a>
+            <a href="#map"><span></span>Map</a>
+            <a href="#source-intro"><span></span>Sources</a>
+            <a href="#context-fingerprints"><span></span>Understand</a>
+            <a class="is-current" href="#verdict"><span></span>Conclusions</a>
+            <a href="#learn-more"><span></span>Learn</a>
+          </nav>
+        </div>
+      </div>
+    </section>
+
+    <section id="learn-more" class="learn-more-section" aria-labelledby="learn-more-title">
+      <div class="wrap learn-more-heading">
+        <p class="eyebrow">8 / 8 · Learn more</p>
+        <h2 id="learn-more-title">Learn more</h2>
+      </div>
+
+    <section class="utility-band wrap" aria-label="Explore the evidence">
+      <div>
+        <p class="eyebrow">Explore</p>
+        <h2>How does your local authority compare?</h2>
+        <p>See its observed Meta rate, its distance from the fitted benchmark and a precise interpretation note.</p>
+        <a class="button button-primary" href="explore.html">Find a local authority <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+
+    <section class="research-summary wrap" aria-labelledby="about-title">
+      <div class="about-copy">
+        <p class="eyebrow">About the research</p>
+        <h2 id="about-title">A framework for assessing population coverage bias</h2>
+        <p><a href="https://c-cabrera.com">Carmen Cabrera</a> and <a href="https://www.franciscorowe.com">Francisco Rowe</a> of the University of Liverpool’s <a href="https://www.liverpool.ac.uk/geographic-data-science/">Geographic Data Science Lab</a> compared four digital-trace datasets with the 2021 Census across 331 local authority areas in England and Wales. Their article published in <em>Royal Society Open Science</em>, <a href="https://doi.org/10.1098/rsos.251703"><cite>Making hidden biases visible in population location data from mobile phones</cite></a>, examines how population coverage varies and which area-level characteristics are associated with that variation.</p>
+        <p class="about-boundary">The analysis focuses on assessing area-level patterns while protecting the anonymity of individual users of digital technologies.</p>
+        <a class="arrow-link" href="research.html">Read the methods, limitations and wider findings <span aria-hidden="true">→</span></a>
+      </div>
+      <div class="study-glance">
+        <p class="eyebrow">Study at a glance</p>
+        <h2>Key study figures</h2>
+        <dl class="metric-list">
+          <div><dt>4</dt><dd>mobile-app datasets</dd></div>
+          <div><dt>331</dt><dd>local authority areas</dd></div>
+          <div><dt>2021</dt><dd>Census benchmark</dd></div>
+          <div><dt>91%</dt><dd>change position across data sources</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <section class="article-attention wrap" aria-labelledby="attention-title">
+      <div>
+        <p class="eyebrow">Article attention</p>
+        <h2 id="attention-title">Follow the conversation around the article.</h2>
+      </div>
+      <div class="article-attention-badge">
+        <div class="altmetric-embed" data-badge-type="donut" data-badge-popover="right" data-doi="10.1098/rsos.251703" aria-label="Altmetric attention for the published article"></div>
+        <p>The Altmetric badge summarises online attention to the article, including mentions in news outlets, blogs and social media.</p>
+        <a class="arrow-link" href="https://doi.org/10.1098/rsos.251703">Read the published article <span aria-hidden="true">→</span></a>
+      </div>
+    </section>
+
+      <div class="section-rail-wrap">
+        <nav class="chapter-rail section-rail" aria-label="Story outline">
+          <a href="#pair"><span></span>Pair</a>
+          <a href="#counts"><span></span>Counts</a>
+          <a href="#rates"><span></span>Rates</a>
+          <a href="#map"><span></span>Map</a>
+          <a href="#source-intro"><span></span>Sources</a>
+          <a href="#context-fingerprints"><span></span>Understand</a>
+          <a href="#verdict"><span></span>Conclusions</a>
+          <a class="is-current" href="#learn-more"><span></span>Learn</a>
+        </nav>
+      </div>
+    </section>
+
+    <section class="sources wrap" aria-labelledby="sources-title">
+      <h2 id="sources-title">Sources and notes</h2>
+      <ul>
+        <li><a href="https://doi.org/10.1098/rsos.251703">Published article: <cite>Making hidden biases visible in population location data from mobile phones</cite></a></li>
+        <li><a href="https://github.com/de-bias/bias-detection/blob/main/outputs/manuscript-data/lad-derived-population-counts.csv">Released analysis data</a></li>
+        <li><a href="https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2021_GB_BUC_2022/FeatureServer">ONS 2021 local-authority boundaries</a></li>
+        <li><a href="https://github.com/de-bias/bias-detection">Code and reproducibility materials</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-grid">
+      <div><strong>DEBIAS</strong><p>Making digital population data safer to use.</p></div>
+      <div><p>Carmen Cabrera · Francisco Rowe<br>Geographic Data Science Lab, University of Liverpool</p></div>
+      <div><a href="explore.html">Explore</a><a href="research.html">Research</a><a href="media/media-brief.html">Media</a><a href="https://github.com/de-bias">GitHub</a></div>
+    </div>
+  </footer>
+</body>
+</html>

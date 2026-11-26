@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
-      xmlns:media="http://search.yahoo.com/mrss/" 
-      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+<rss  xmlns:atom="http://www.w3.org/2005/Atom"
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns:content="http://purl.org/rss/1.0/modules/content/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
       version="2.0">
 <channel>
 <title>DEBIAS</title>
@@ -15,12 +15,70 @@
 <link>de-bias.github.io/debias/updates/</link>
 </image>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Mon, 06 Jul 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Aug 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Explore who is missing from the map</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/08/19/making-hidden-biases-visible.html</link>
+  <description><![CDATA[
+
+
+
+
+
+<p>Digital-trace data can provide timely, geographically detailed population signals when censuses and surveys are too slow for rapidly unfolding challenges. Yet these data can also be biased, producing a distorted representation of local populations.</p>
+<p>Our study, <a href="https://doi.org/10.1098/rsos.251703"><em>Making hidden biases visible in population location data from mobile phones</em></a>, compares four mobile-app datasets with the 2021 Census across 331 local authority areas in England and Wales. It shows that a strong correlation between resident and active-user population counts does not assess bias or representativeness. Local coverage varies substantially, the same places change position across data sources, and coverage relates to population attributes in different and often nonlinear ways.</p>
+<p>Our revised interactive story, <em>Who is missing from the map?</em>, now guides readers from the value and limitations of digital-trace data through the evidence on local coverage, cross-source differences and the population attributes associated with under- or over-representation. It includes a local-authority explorer and visual comparisons across Twitter/X, Meta and two multi-application datasets.</p>
+<p><a href="https://de-bias.github.io/debias/stories/making-hidden-biases-visible/" class="btn btn-primary btn-lg">Explore the interactive story →</a></p>
+<p><a href="https://doi.org/10.1098/rsos.251703">Read the published article</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="de-bias.github.io/debias/updates/posts/2026/08/19/images/who-is-missing-map-story.png" class="img-fluid figure-img"></p>
+<figcaption>Who is missing from the map? A visual introduction to uneven population coverage in digital-trace data.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>publication</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/08/19/making-hidden-biases-visible.html</guid>
+  <pubDate>Tue, 18 Aug 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/08/19/images/who-is-missing-map-story.png" medium="image" type="image/png" height="76" width="144"/>
+</item>
+<item>
+  <title>Introducing the DEBIAS Fellow Network</title>
+  <dc:creator>Francisco Rowe</dc:creator>
+  <link>de-bias.github.io/debias/updates/posts/2026/07/13/debias-fellow-network.html</link>
+  <description><![CDATA[
+
+
+
+
+
+<p>We are pleased to announce the launch of the DEBIAS Fellow Network, a new international community of researchers and practitioners working on digital trace data, human mobility, population measurement and responsible data science.</p>
+<p>The Fellow Network will create a space for sustained exchange around the central questions that motivate <a href="https://de-bias.github.io/debias/">DEBIAS</a>: how to identify, assess and correct biases in mobility data derived from digital footprints. These questions are increasingly important as mobile phone, app-derived and other digital trace data are used to support research, official statistics, humanitarian response, urban planning and policy analysis.</p>
+<p>Our first cohort brings together Anirudh Govind, Antonio Desiderio, Ciro Beneduce, Gregor Zens, Hongyi Zou, Lenka Hasova, Massimiliano Luca, Mohamed Shamroukh, Olena Holubowska, Paolo Andrich, Qianwen Duan, Samuel Benkimoun and Yuan Liao. The Fellows bring expertise across geographic data science, computational social science, migration and mobility research, official statistics, machine learning, data governance and applied policy analysis.</p>
+<p>Through the network, Fellows will contribute to DEBIAS project ideas, extensions, presentations, methods discussions, software testing, software development and more. They will help us refine the DEBIAS framework, strengthen documentation and examples for <a href="https://github.com/de-bias/debiasR"><code>debiasR</code></a>, develop applied case studies and identify practical challenges that arise when digital trace data are used to produce population and mobility evidence.</p>
+<p>The network also reflects a broader aim of DEBIAS: building methods that are not only technically robust, but also transparent, reproducible and useful for the communities that rely on mobility data. By connecting researchers across institutions, countries and application areas, the Fellow Network will support shared learning on how to diagnose bias, validate adjusted outputs and communicate uncertainty in ways that can improve responsible data use.</p>
+<p>We look forward to working with the DEBIAS Fellows and to sharing their contributions through future project updates, workshops and software releases.</p>
+<p><img src="de-bias.github.io/debias/updates/posts/2026/07/13/images/debias-fellow-network.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>updates</category>
+  <category>community</category>
+  <guid>de-bias.github.io/debias/updates/posts/2026/07/13/debias-fellow-network.html</guid>
+  <pubDate>Sun, 12 Jul 2026 23:00:00 GMT</pubDate>
+  <media:content url="de-bias.github.io/debias/updates/posts/2026/07/13/images/debias-fellow-network.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>DEBIAS Workshop and Symposium 2026: Key information</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/07/07/debias-workshop-symposium-agenda.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -198,7 +256,7 @@
   <title>New Python tutorial on bias in mobile phone data</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/24/ossen-python-tutorial.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -234,7 +292,7 @@
   <title>DEBIAS Workshop and Symposium to set standards for bias-adjusted digital mobility data</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/16/debias-workshop-symposium.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -270,7 +328,7 @@
   <title>Francisco Rowe contributes to new UN-CEBD Practical Manual on Mobile Phone Data</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/15/un-cebd-mobile-phone-data-manual.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -299,7 +357,7 @@
   <title>DEBIAS at Mobile Tartu 2026</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/12/mobile-tartu-2026.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -326,7 +384,7 @@
   <title>First beta version of debiasR now available</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/06/12/debiasr-beta.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -383,7 +441,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>Carmen joins the UN Committee of Experts on Big Data and Data Science for Official Statistics</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/04/28/carmen-un-cebd-mobile-phone-data.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -411,7 +469,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>Francisco joins the ONS Working Group on Internal Migration Methods Development</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2026/02/27/ons-working-group.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -445,7 +503,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>From experimental to official migration statistics</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/09/23/oecd-mno-migration-statistics.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -476,7 +534,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>Mobile Phone Data for Cross-border Population &amp; Expenditure Flows</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/05/14/jrc-cross-border-flows.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -502,7 +560,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS at the Complexity Science Hub</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/05/05/complexity-vienna.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -524,7 +582,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS’s new publication</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/01/24/transport-geo.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -559,7 +617,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS at the FCDO</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/01/23/fcdo.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -584,7 +642,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS joins the Collaborative Group on Nowcasting Populations</title>
   <dc:creator>Carmen Cabrera</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2025/01/15/nowcasting.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -608,7 +666,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS produces insights into the 2024 Valencia floods</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2024/11/20/valencia-floods.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -633,7 +691,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS expands to Mexico</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2024/11/17/debias-mexico.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -658,7 +716,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS contributes to the 2024 LAMBDA meeting</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2024/11/15/lambda.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -683,7 +741,7 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <title>DEBIAS at CASA-UCL</title>
   <dc:creator>Francisco Rowe</dc:creator>
   <link>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</link>
-  <description><![CDATA[ 
+  <description><![CDATA[
 
 
 
@@ -701,65 +759,6 @@ font-style: inherit;">"de-bias/debiasRdata"</span>)</span></code></pre></div></d
   <guid>de-bias.github.io/debias/updates/posts/2024/10/23/casa.html</guid>
   <pubDate>Tue, 22 Oct 2024 23:00:00 GMT</pubDate>
   <media:content url="de-bias.github.io/debias/updates/posts/2024/10/23/images/casa-desc.png" medium="image" type="image/png" height="78" width="144"/>
-</item>
-<item>
-  <title>DEBIAS at a UN webinar on Social and Demographic Statistics</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco was invited to contribute one of the <a href="https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/">Sprint webinar of the Friends of Chair (FoC) Group on Social and Demographic Statistics</a>. The series of Sprint webinars aims to explore key building blocks for an overarching conceptual framework for a social and demographic statistics system. The FoC group’s objective is to formulate strategic recommendations to enhance social and demographic statistics that better reflect society and its connections with the environment and the economy. The group has identified five key building blocks for this framework: people, relationships, outcomes, time, and places.</p>
-<p>Francisco was invited as a <a href="https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/documents/Places-Sprint.pdf">panelist</a> for a webinar on the critical role of information on “places” and geography to improve social and demographic statistics is co-organised by the National Institute of Statistics, Geography and Informatics (INEGI), Mexico, the National Institute of Statistics of Rwanda, the Economic Commission for Latin America and the Caribbean (ECLAC) and the UN Statistics Division (UNSD). Francisco was invited given his expertise in spatial inequalities and geographic data science.</p>
-<p><em>Places are crucial, but often underutilized, building block of social and demographic statistics. This session will examine how the places where people grow up, live, and work profoundly influence their lives, exposing disparities and shaping policy decisions. By exploring the use of georeferenced data, satellite imagery, and small area estimation techniques to fill data gaps, we will highlight how geography can integrate diverse data sources and enhance dissemination through geoportals. The insights gained from this session will inform recommendations on how to more effectively incorporate geography into social and demographic statistics for improved policymaking.</em></p>
-<iframe width="950" height="500" start="10" src="https://www.youtube.com/embed/L7FVcRMYy1o?si=w3u78ysMEf-WFFa2" title="Sprint webinar: Places" frameborder="0" allow="accelerometer; display: block;
-   margin: 0 auto; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
-</iframe>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2024/10/10/un-sprint.html</guid>
-  <pubDate>Wed, 09 Oct 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2024/10/10/images/un-sprint.png" medium="image" type="image/png" height="86" width="144"/>
-</item>
-<item>
-  <title>DEBIAS contribution to World Bank Workshop</title>
-  <dc:creator>Francisco Rowe</dc:creator>
-  <link>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Francisco was invited as an expert in the use of mobile phone data to capture human mobility to the <a href="https://www.worldbank.org/en/events/2024/09/25/global-data-facility-mobile-phone-data-program-for-policy-cohort-1-launch-workshop">Global Data Facility Mobile Phone Data (GDF-MPD) Program for Policy: Cohort 1 Launch Workshop</a>. The workshop took place at the World Bank in Washington DC in parallel to the 2024 NetMob conference. The GDF-MDP programme aims to:</p>
-<ul>
-<li><p>Deliver essential resources and programmatic activities to support WB task teams to integrate MPD into national data systems for durable policy solutions and statistics</p></li>
-<li><p>Promote open MPD standards, tools, and practices</p></li>
-<li><p>Deliver programmatic activities designed to advance the level of maturity in the local MPD ecosystem</p></li>
-<li><p>Promote operational research to improve evidence-base and policy impact of MPD</p></li>
-<li><p>Use grant activities to facilitate lending in integrated national data systems and public data infrastructure</p></li>
-</ul>
-<p>After a competitive application process, task teams representing 18 countries were selected to join the first Cohort of the MPD-GDF Program. These teams were grouped into three clusters: LAC, West Africa and Integrated. During the workshop, the country teams developed their strategic implementation plans to put MPD to work for Policy in a rigorous and sustainable way. The workshop delivered sessions that cover: (a) process to set up a country Mobile Phone Data pipeline/program in a country to produce policy-relevant insights; (b) country examples of MPD for policy applications; and, (c) group activities to develop/elaborate country MPD implementation plan. MPD experts, including Francisco, contribute to present use cases where MDP has worked, discussed some of the existing challenges of their use, and supported Brazil to develop a strategic implementation plan for the adoption of MDP to develop statistical indicators to inform urban planning decision making.</p>
-<p>The Brazilian team included <a href="https://www.linkedin.com/in/claudio-ferreira-jr-832b2529/">Claudio Ferreira</a> from Ministério das Cidades, <a href="https://www.linkedin.com/in/marciomutti/">Marcio Mutti</a> from Anatel, <a href="https://www.linkedin.com/in/daniel-oliveira-62956a26/">Daniel Oliveira</a> from Serpro and <a href="https://www.linkedin.com/in/aiga-stokenberga-7143543b/">Aiga Stokenberga</a> and <a href="https://www.linkedin.com/in/abarone/">Andrea Barone</a> from The World Bank.</p>
-<div class="quarto-figure quarto-figure-&quot;centre">
-<figure class="figure">
-<p><img src="de-bias.github.io/debias/updates/posts/2024/10/07/images/gdf-mdp_wb.jpg" class="img-fluid quarto-figure quarto-figure-&quot;centre figure-img"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>updates</category>
-  <guid>de-bias.github.io/debias/updates/posts/2024/10/07/world-bank.html</guid>
-  <pubDate>Sun, 06 Oct 2024 23:00:00 GMT</pubDate>
-  <media:content url="de-bias.github.io/debias/updates/posts/2024/10/07/images/gdf-mdp_wb.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

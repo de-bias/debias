@@ -2,6 +2,8 @@
   {
     "listing": "/updates/index.html",
     "items": [
+      "/updates/posts/2026/08/19/making-hidden-biases-visible.html",
+      "/updates/posts/2026/07/13/debias-fellow-network.html",
       "/updates/posts/2026/07/07/debias-workshop-symposium-agenda.html",
       "/updates/posts/2026/06/24/ossen-python-tutorial.html",
       "/updates/posts/2026/06/16/debias-workshop-symposium.html",
@@ -31,6 +33,7 @@
     "listing": "/publications/index.html",
     "items": [
       "/publications/2026/latin-america-urban-mobility-covid/index.html",
+      "/publications/2026/making-hidden-biases-visible/index.html",
       "/publications/2026/mexico-gps-mobility-representativeness/index.html",
       "/publications/2025/ukraine-internal-displacement-mobile-phone-data/index.html",
       "/publications/2025/mexico-covid-internal-movements/index.html",
